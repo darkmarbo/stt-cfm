@@ -1,0 +1,291 @@
+(?<![\\d])((\\([+＋]?86\\)0?(10|2[\\d]|[3-9][\\d]{2})[\\-－][\\dxX]{6,8}(([Ee][Xx][Tt]|转|/|-|－)[\\d]{1,6})?)|([+＋]?86[\\-－]0?(10|2[\\d]|[3-9][\\d]{2})[\\-－][\\dxX]{6,8}(([Ee][Xx][Tt]|转|/|-|－)[\\d]{1,6})?)|(\\(0(10|2[\\d]|[3-9][\\d]{2})\\)[\\dxX]{6,8}(([Ee][Xx][Tt]|转|/|-|－)[\\d]{1,6})?)|(0(10|2[\\d]|[3-9][\\d]{2})[\\-－][\\dxX]{6,8}(([Ee][Xx][Tt]|转|/|-|－)[\\d]{1,6})?)|(\\([+＋]?86\\)((1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－ 　]?[\\dxX]{4}[\\-－ 　]?[\\dxX]{4})|(1(3|5|8|7)[\\-－ 　]?[\\dxX]{5}[\\-－ 　]?[\\dxX]{4})))|([+＋]?86((1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－ 　]?[\\dxX]{4}[\\-－ 　]?[\\dxX]{4})|(1(3|5|8|7)[\\-－ 　]?[\\dxX]{5}[\\-－ 　]?[\\dxX]{4})))|(\\(0\\)(1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4}))|(0(1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4}))|(1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－ 　]?[\\dxX]{4}[\\-－ 　]?[\\dxX]{4})|(1(3|5|8|7)[\\-－ 　]?[\\dxX]{5}[\\-－ 　]?[\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{3}[\\-－][\\dxX]{5}))(?![\\d])
+
+CP_I8NCall_1 = "(\\([+＋]?86\\)0?(10|2[\\d]|[3-9][\\d]{2})[\\-－][\\dxX]{6,8}(([Ee][Xx][Tt]|转|/|-|－)[\\d]{1,6})?)";
+CP_I8NCall_2 = "([+＋]?86[\\-－]0?(10|2[\\d]|[3-9][\\d]{2})[\\-－][\\dxX]{6,8}(([Ee][Xx][Tt]|转|/|-|－)[\\d]{1,6})?)";
+CP_NatCall_1 = "(\\(0(10|2[\\d]|[3-9][\\d]{2})\\)[\\dxX]{6,8}(([Ee][Xx][Tt]|转|/|-|－)[\\d]{1,6})?)";
+CP_NatCall_2 = "(0(10|2[\\d]|[3-9][\\d]{2})[\\-－][\\dxX]{6,8}(([Ee][Xx][Tt]|转|/|-|－)[\\d]{1,6})?)";
+CP_LocCall_1 = "([\\dxX]{6,8}(([Ee][Xx][Tt]|转|/|-|－)[\\d]{1,6})?)";
+	
+CP_Mobile_1 = "(1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})";
+CP_Mobile_2 = "(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4})";
+CP_Mobile_3 = "(1(3|5|8|7)[\\d][\\-－ 　]?[\\dxX]{4}[\\-－ 　]?[\\dxX]{4})";
+CP_Mobile_4 = "(1(3|5|8|7)[\\-－ 　]?[\\dxX]{5}[\\-－ 　]?[\\dxX]{4})";
+CP_Mobile_5 = "(1(3|5|8|7)[\\d][\\-－][\\dxX]{3}[\\-－][\\dxX]{5})";
+	
+CP_Mobile = CP_Mobile_1 +"|"+CP_Mobile_2;
+CP_Mobile = (1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4})
+	
+CP_I8NMobile_1 = "(\\([+＋]?86\\)("+CP_Mobile+"|"+CP_Mobile_3+"|"+CP_Mobile_4+"))";
+CP_I8NMobile_1 = (\\([+＋]?86\\)((1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－ 　]?[\\dxX]{4}[\\-－ 　]?[\\dxX]{4})|(1(3|5|8|7)[\\-－ 　]?[\\dxX]{5}[\\-－ 　]?[\\dxX]{4})))
+CP_I8NMobile_2 = "([+＋]?86("+CP_Mobile+"|"+CP_Mobile_3+"|"+CP_Mobile_4+"))";
+CP_I8NMobile_2 = "([+＋]?86((1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－ 　]?[\\dxX]{4}[\\-－ 　]?[\\dxX]{4})|(1(3|5|8|7)[\\-－ 　]?[\\dxX]{5}[\\-－ 　]?[\\dxX]{4})))";
+CP_NatMobile_1 = "(\\(0\\)"+CP_Mobile+")";
+CP_NatMobile_1 = "(\\(0\\)(1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4}))";
+CP_NatMobile_2 = "(0"+CP_Mobile+")";
+CP_NatMobile_2 = "(0(1(3|5|8|7)[\\-－][\\dxX]{5}[\\-－][\\dxX]{4})|(1(3|5|8|7)[\\d][\\-－][\\dxX]{4}[\\-－][\\dxX]{4}))";
+
+
+
+rules/zh.rules
+
+transform_exp: <Digit>2015</Digit>年<Num>09</Num>月<Num>06</Num>日
+(start, end, rule_id) ==> (0, 10, 0)
+transform_exp: <Digit>2015</Digit>年<Num>09</Num>月<Num>07</Num>日
+(start, end, rule_id) ==> (11, 21, 1)
+transform_exp: <Digit>2013</Digit>年<Num>11</Num>月<Num>06</Num>日
+(start, end, rule_id) ==> (22, 32, 2)
+transform_exp: <Digit>2015</Digit>年<Num>09</Num>月<Num>03</Num>日
+(start, end, rule_id) ==> (39, 56, 3)
+transform_exp: <Digit>1949</Digit>年<Num>10</Num>月<Num>1</Num>日
+(start, end, rule_id) ==> (147, 163, 3)
+transform_exp: <Digit>2015</Digit>年<Num>09</Num>月
+(start, end, rule_id) ==> (39, 51, 4)
+transform_exp: <Digit>1949</Digit>年<Num>10</Num>月
+(start, end, rule_id) ==> (147, 159, 4)
+transform_exp: <Num>09</Num>月<Num>03</Num>日
+(start, end, rule_id) ==> (46, 56, 5)
+transform_exp: <Num>10</Num>月<Num>1</Num>日
+(start, end, rule_id) ==> (154, 163, 5)
+transform_exp: <Date>2015/09/06</Date>
+(start, end, rule_id) ==> (0, 10, 6)
+transform_exp: <Date>2015-09-07</Date>
+(start, end, rule_id) ==> (11, 21, 6)
+transform_exp: <Date>2013.11.06</Date>
+(start, end, rule_id) ==> (22, 32, 6)
+transform_exp: <Date>2015年09月03日</Date>
+(start, end, rule_id) ==> (39, 56, 6)
+transform_exp: <Date>1949年10月1日</Date>
+(start, end, rule_id) ==> (147, 163, 6)
+transform_exp: <Num>10</Num>时<Num>02</Num>分<Num>30</Num>秒
+(start, end, rule_id) ==> (106, 114, 7)
+transform_exp: <Num>3</Num>时<Num>15</Num>分<Num>30</Num>秒
+(start, end, rule_id) ==> (172, 186, 7)
+transform_exp: <Num>16</Num>时<Num>43</Num>分<Num>00</Num>秒
+(start, end, rule_id) ==> (222, 230, 7)
+transform_exp: <Time>10:02:30</Time>
+(start, end, rule_id) ==> (106, 114, 8)
+transform_exp: <Time>3点15分30秒</Time>
+(start, end, rule_id) ==> (172, 186, 8)
+transform_exp: <Time>16:43:00</Time>
+(start, end, rule_id) ==> (222, 230, 8)
+transform_exp: <Email>beifeng300@126.com</Email>
+(start, end, rule_id) ==> (248, 266, 9)
+transform_exp: <Email>yxx@speechocean.com</Email>
+(start, end, rule_id) ==> (268, 287, 9)
+transform_exp: <URL>126.com</URL>
+(start, end, rule_id) ==> (259, 266, 10)
+transform_exp: <URL>speechocean.com</URL>
+(start, end, rule_id) ==> (272, 287, 10)
+transform_exp: <URL>http://219.131.222.62/</URL>
+(start, end, rule_id) ==> (305, 327, 10)
+transform_exp: <Phone>010-87798915</Phone>
+(start, end, rule_id) ==> (354, 366, 11)
+transform_exp: <Phone>0773-8815198/9</Phone>
+(start, end, rule_id) ==> (369, 383, 11)
+transform_exp: <Phone>13825557299</Phone>
+(start, end, rule_id) ==> (386, 397, 11)
+transform_exp: <Phone>(010)63263377</Phone>
+(start, end, rule_id) ==> (400, 413, 11)
+transform_exp: <Phone>(+86)010-8065542-12</Phone>
+(start, end, rule_id) ==> (416, 435, 11)
+transform_exp: <Phone>(010)8065543-1234</Phone>
+(start, end, rule_id) ==> (438, 455, 11)
+transform_exp: <Phone>135-1130-2459</Phone>
+(start, end, rule_id) ==> (473, 486, 11)
+transform_exp: <Num_Percentage>99%</Num_Percentage>
+(start, end, rule_id) ==> (523, 526, 12)
+transform_exp: <Num_Fraction>2/3</Num_Fraction>
+(start, end, rule_id) ==> (508, 511, 13)
+transform_exp: <Num_Real>2015</Num_Real>
+(start, end, rule_id) ==> (0, 4, 14)
+transform_exp: <Num_Real>09</Num_Real>
+(start, end, rule_id) ==> (5, 7, 14)
+transform_exp: <Num_Real>06</Num_Real>
+(start, end, rule_id) ==> (8, 10, 14)
+transform_exp: <Num_Real>2015</Num_Real>
+(start, end, rule_id) ==> (11, 15, 14)
+transform_exp: <Num_Real>-09</Num_Real>
+(start, end, rule_id) ==> (15, 18, 14)
+transform_exp: <Num_Real>-07</Num_Real>
+(start, end, rule_id) ==> (18, 21, 14)
+transform_exp: <Num_Real>2013.11</Num_Real>
+(start, end, rule_id) ==> (22, 29, 14)
+transform_exp: <Num_Real>06</Num_Real>
+(start, end, rule_id) ==> (30, 32, 14)
+transform_exp: <Num_Real>2015</Num_Real>
+(start, end, rule_id) ==> (39, 43, 14)
+transform_exp: <Num_Real>09</Num_Real>
+(start, end, rule_id) ==> (46, 48, 14)
+transform_exp: <Num_Real>03</Num_Real>
+(start, end, rule_id) ==> (51, 53, 14)
+transform_exp: <Num_Real>70</Num_Real>
+(start, end, rule_id) ==> (77, 79, 14)
+transform_exp: <Num_Real>10</Num_Real>
+(start, end, rule_id) ==> (106, 108, 14)
+transform_exp: <Num_Real>02</Num_Real>
+(start, end, rule_id) ==> (109, 111, 14)
+transform_exp: <Num_Real>30</Num_Real>
+(start, end, rule_id) ==> (112, 114, 14)
+transform_exp: <Num_Real>1949</Num_Real>
+(start, end, rule_id) ==> (147, 151, 14)
+transform_exp: <Num_Real>10</Num_Real>
+(start, end, rule_id) ==> (154, 156, 14)
+transform_exp: <Num_Real>1</Num_Real>
+(start, end, rule_id) ==> (159, 160, 14)
+transform_exp: <Num_Real>3</Num_Real>
+(start, end, rule_id) ==> (172, 173, 14)
+transform_exp: <Num_Real>15</Num_Real>
+(start, end, rule_id) ==> (176, 178, 14)
+transform_exp: <Num_Real>30</Num_Real>
+(start, end, rule_id) ==> (181, 183, 14)
+transform_exp: <Num_Real>16</Num_Real>
+(start, end, rule_id) ==> (222, 224, 14)
+transform_exp: <Num_Real>43</Num_Real>
+(start, end, rule_id) ==> (225, 227, 14)
+transform_exp: <Num_Real>00</Num_Real>
+(start, end, rule_id) ==> (228, 230, 14)
+transform_exp: <Num_Real>300</Num_Real>
+(start, end, rule_id) ==> (255, 258, 14)
+transform_exp: <Num_Real>126</Num_Real>
+(start, end, rule_id) ==> (259, 262, 14)
+transform_exp: <Num_Real>219.131</Num_Real>
+(start, end, rule_id) ==> (312, 319, 14)
+transform_exp: <Num_Real>222.62</Num_Real>
+(start, end, rule_id) ==> (320, 326, 14)
+transform_exp: <Num_Real>010</Num_Real>
+(start, end, rule_id) ==> (354, 357, 14)
+transform_exp: <Num_Real>-87798915</Num_Real>
+(start, end, rule_id) ==> (357, 366, 14)
+transform_exp: <Num_Real>0773</Num_Real>
+(start, end, rule_id) ==> (369, 373, 14)
+transform_exp: <Num_Real>-8815198</Num_Real>
+(start, end, rule_id) ==> (373, 381, 14)
+transform_exp: <Num_Real>9</Num_Real>
+(start, end, rule_id) ==> (382, 383, 14)
+transform_exp: <Num_Real>13825557299</Num_Real>
+(start, end, rule_id) ==> (386, 397, 14)
+transform_exp: <Num_Real>010</Num_Real>
+(start, end, rule_id) ==> (401, 404, 14)
+transform_exp: <Num_Real>63263377</Num_Real>
+(start, end, rule_id) ==> (405, 413, 14)
+transform_exp: <Num_Real>86</Num_Real>
+(start, end, rule_id) ==> (418, 420, 14)
+transform_exp: <Num_Real>010</Num_Real>
+(start, end, rule_id) ==> (421, 424, 14)
+transform_exp: <Num_Real>-8065542</Num_Real>
+(start, end, rule_id) ==> (424, 432, 14)
+transform_exp: <Num_Real>-12</Num_Real>
+(start, end, rule_id) ==> (432, 435, 14)
+transform_exp: <Num_Real>010</Num_Real>
+(start, end, rule_id) ==> (439, 442, 14)
+transform_exp: <Num_Real>8065543</Num_Real>
+(start, end, rule_id) ==> (443, 450, 14)
+transform_exp: <Num_Real>-1234</Num_Real>
+(start, end, rule_id) ==> (450, 455, 14)
+transform_exp: <Num_Real>8065543</Num_Real>
+(start, end, rule_id) ==> (458, 465, 14)
+transform_exp: <Num_Real>21</Num_Real>
+(start, end, rule_id) ==> (468, 470, 14)
+transform_exp: <Num_Real>135</Num_Real>
+(start, end, rule_id) ==> (473, 476, 14)
+transform_exp: <Num_Real>-1130</Num_Real>
+(start, end, rule_id) ==> (476, 481, 14)
+transform_exp: <Num_Real>-2459</Num_Real>
+(start, end, rule_id) ==> (481, 486, 14)
+transform_exp: <Num_Real>-1234567890</Num_Real>
+(start, end, rule_id) ==> (489, 500, 14)
+transform_exp: <Num_Real>2</Num_Real>
+(start, end, rule_id) ==> (508, 509, 14)
+transform_exp: <Num_Real>3</Num_Real>
+(start, end, rule_id) ==> (510, 511, 14)
+transform_exp: <Num_Real>99</Num_Real>
+(start, end, rule_id) ==> (523, 525, 14)
+
+
+------------------------------------------------------
+(start, end, rule_id) ==> (0, 10, 0)
+(start, end, rule_id) ==> (11, 21, 1)
+(start, end, rule_id) ==> (22, 32, 2)
+(start, end, rule_id) ==> (39, 56, 3)
+(start, end, rule_id) ==> (147, 163, 3)
+(start, end, rule_id) ==> (39, 51, 4)
+(start, end, rule_id) ==> (147, 159, 4)
+(start, end, rule_id) ==> (46, 56, 5)
+(start, end, rule_id) ==> (154, 163, 5)
+(start, end, rule_id) ==> (0, 10, 6)
+(start, end, rule_id) ==> (11, 21, 6)
+(start, end, rule_id) ==> (22, 32, 6)
+(start, end, rule_id) ==> (39, 56, 6)
+(start, end, rule_id) ==> (147, 163, 6)
+(start, end, rule_id) ==> (106, 114, 7)
+(start, end, rule_id) ==> (172, 186, 7)
+(start, end, rule_id) ==> (222, 230, 7)
+(start, end, rule_id) ==> (106, 114, 8)
+(start, end, rule_id) ==> (172, 186, 8)
+(start, end, rule_id) ==> (222, 230, 8)
+(start, end, rule_id) ==> (248, 266, 9)
+(start, end, rule_id) ==> (268, 287, 9)
+(start, end, rule_id) ==> (259, 266, 10)
+(start, end, rule_id) ==> (272, 287, 10)
+(start, end, rule_id) ==> (305, 327, 10)
+(start, end, rule_id) ==> (354, 366, 11)
+(start, end, rule_id) ==> (369, 383, 11)
+(start, end, rule_id) ==> (386, 397, 11)
+(start, end, rule_id) ==> (400, 413, 11)
+(start, end, rule_id) ==> (416, 435, 11)
+(start, end, rule_id) ==> (438, 455, 11)
+(start, end, rule_id) ==> (473, 486, 11)
+(start, end, rule_id) ==> (523, 526, 12)
+(start, end, rule_id) ==> (508, 511, 13)
+(start, end, rule_id) ==> (0, 4, 14)
+(start, end, rule_id) ==> (5, 7, 14)
+(start, end, rule_id) ==> (8, 10, 14)
+(start, end, rule_id) ==> (11, 15, 14)
+(start, end, rule_id) ==> (15, 18, 14)
+(start, end, rule_id) ==> (18, 21, 14)
+(start, end, rule_id) ==> (22, 29, 14)
+(start, end, rule_id) ==> (30, 32, 14)
+(start, end, rule_id) ==> (39, 43, 14)
+(start, end, rule_id) ==> (46, 48, 14)
+(start, end, rule_id) ==> (51, 53, 14)
+(start, end, rule_id) ==> (77, 79, 14)
+(start, end, rule_id) ==> (106, 108, 14)
+(start, end, rule_id) ==> (109, 111, 14)
+(start, end, rule_id) ==> (112, 114, 14)
+(start, end, rule_id) ==> (147, 151, 14)
+(start, end, rule_id) ==> (154, 156, 14)
+(start, end, rule_id) ==> (159, 160, 14)
+(start, end, rule_id) ==> (172, 173, 14)
+(start, end, rule_id) ==> (176, 178, 14)
+(start, end, rule_id) ==> (181, 183, 14)
+(start, end, rule_id) ==> (222, 224, 14)
+(start, end, rule_id) ==> (225, 227, 14)
+(start, end, rule_id) ==> (228, 230, 14)
+(start, end, rule_id) ==> (255, 258, 14)
+(start, end, rule_id) ==> (259, 262, 14)
+(start, end, rule_id) ==> (312, 319, 14)
+(start, end, rule_id) ==> (320, 326, 14)
+(start, end, rule_id) ==> (354, 357, 14)
+(start, end, rule_id) ==> (357, 366, 14)
+(start, end, rule_id) ==> (369, 373, 14)
+(start, end, rule_id) ==> (373, 381, 14)
+(start, end, rule_id) ==> (382, 383, 14)
+(start, end, rule_id) ==> (386, 397, 14)
+(start, end, rule_id) ==> (401, 404, 14)
+(start, end, rule_id) ==> (405, 413, 14)
+(start, end, rule_id) ==> (418, 420, 14)
+(start, end, rule_id) ==> (421, 424, 14)
+(start, end, rule_id) ==> (424, 432, 14)
+(start, end, rule_id) ==> (432, 435, 14)
+(start, end, rule_id) ==> (439, 442, 14)
+(start, end, rule_id) ==> (443, 450, 14)
+(start, end, rule_id) ==> (450, 455, 14)
+(start, end, rule_id) ==> (458, 465, 14)
+(start, end, rule_id) ==> (468, 470, 14)
+(start, end, rule_id) ==> (473, 476, 14)
+(start, end, rule_id) ==> (476, 481, 14)
+(start, end, rule_id) ==> (481, 486, 14)
+(start, end, rule_id) ==> (489, 500, 14)
+(start, end, rule_id) ==> (508, 509, 14)
+(start, end, rule_id) ==> (510, 511, 14)
+(start, end, rule_id) ==> (523, 525, 14)

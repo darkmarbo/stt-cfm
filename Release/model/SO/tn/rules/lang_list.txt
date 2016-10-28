@@ -1,0 +1,103 @@
+﻿####English Voices
+en	is the standard default English voice.
+
+en-us	American English. 
+
+en-sc	English with a Scottish accent. 
+
+en-n
+en-rp
+en-wm	are different English voices. These can be considered caricatures of various British accents: Northern, Received Pronunciation, West Midlands respectively.
+
+####
+af	Afrikaans
+
+bs	Bosnian	This voice is similar to sr Serbian and hr Croatian 
+
+ca	Catalan
+
+cs	Czech 
+
+da	Danish 
+
+de	German
+
+el	Greek
+
+eo	Esperanto
+
+es	Spanish
+
+es-la	Spanish - Latin America	This contains a few changes from es, notably the pronunciation of "z","ce","ci". 
+
+fi	Finnish
+
+fr	French
+
+hr	Croatian	It accepts both Latin and Cyrillic characters. This voice is similar to sr Serbian and bs Bosnian 
+
+hu	Hungarian
+
+it	Italian
+
+kn	Kannada
+
+ku	Kurdish
+
+lv	Latvian
+
+nl	Dutch
+
+pl	Polish
+
+pt	Portuguese (Brazil)	Brazilian Portuguese.
+
+pt-pt	Portuguese (European)
+
+ro	Romanian
+
+sk	Slovak
+
+sr	Serbian
+
+sv	Swedish
+
+sw	Swahihi
+
+ta	Tamil
+
+tr	Turkish
+
+zh	Mandarin Chinese
+
+####
+cy	Welsh
+
+grc	Ancient Greek
+
+hi	Hindi
+
+hy	Armenian
+
+id	Indonesian
+
+is	Icelandic
+
+jbo	Lojban
+
+ka	Georgian
+
+la	Latin
+
+mk	Macedonian
+
+no	Norwegian
+
+ru	Russian
+
+sq	Albanian
+
+vi	Vietnamese
+
+zh-yue	Cantonese Chinese
+

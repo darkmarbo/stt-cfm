@@ -1,0 +1,143 @@
+tline=北京/ns 海天瑞声/nz 科技/n 有限公司/n 是/v 一/m 家/q 全球/n 领先/v 的/u 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=10
+北京/ns 海天瑞声/nz 科技/n 有限公司/n 是/v 一/m 家/q 全球/n 领先/v 的/u GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=20
+pinyinseq[0]:bei3	ptag[0]     :0
+pinyinseq[1]:jing1	ptag[1]     :2
+pinyinseq[2]:hai3	ptag[2]     :0
+pinyinseq[3]:tian1	ptag[3]     :0
+pinyinseq[4]:rui4	ptag[4]     :0
+pinyinseq[5]:sheng1	ptag[5]     :1
+pinyinseq[6]:ke1	ptag[6]     :0
+pinyinseq[7]:ji4	ptag[7]     :1
+pinyinseq[8]:you3	ptag[8]     :0
+pinyinseq[9]:xian4	ptag[9]     :0
+pinyinseq[10]:gong1	ptag[10]     :0
+pinyinseq[11]:si1	ptag[11]     :3
+pinyinseq[12]:shi4	ptag[12]     :1
+pinyinseq[13]:yi1	ptag[13]     :0
+pinyinseq[14]:jia1	ptag[14]     :2
+pinyinseq[15]:quan2	ptag[15]     :0
+pinyinseq[16]:qiu2	ptag[16]     :1
+pinyinseq[17]:ling3	ptag[17]     :0
+pinyinseq[18]:xian1	ptag[18]     :0
+pinyinseq[19]:de5	ptag[19]     :4
+py_bd is over !
+
+nChar=20
+pinyinseq[0]:bei3	ptag[0]     :0
+pinyinseq[1]:jing1	ptag[1]     :2
+pinyinseq[2]:hai3	ptag[2]     :0
+pinyinseq[3]:tian1	ptag[3]     :0
+pinyinseq[4]:rui4	ptag[4]     :0
+pinyinseq[5]:sheng1	ptag[5]     :1
+pinyinseq[6]:ke1	ptag[6]     :0
+pinyinseq[7]:ji4	ptag[7]     :1
+pinyinseq[8]:you3	ptag[8]     :0
+pinyinseq[9]:xian4	ptag[9]     :0
+pinyinseq[10]:gong1	ptag[10]     :0
+pinyinseq[11]:si1	ptag[11]     :3
+pinyinseq[12]:shi4	ptag[12]     :1
+pinyinseq[13]:yi4	ptag[13]     :0
+pinyinseq[14]:jia1	ptag[14]     :2
+pinyinseq[15]:quan2	ptag[15]     :0
+pinyinseq[16]:qiu2	ptag[16]     :1
+pinyinseq[17]:ling3	ptag[17]     :0
+pinyinseq[18]:xian1	ptag[18]     :0
+pinyinseq[19]:de5	ptag[19]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+北京| 海天瑞声 科技 有限公司$是 一家| 全球 领先的$
+
+LPCSynth ok!
+tline=多/m 语言/n 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=2
+多/m 语言/n GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=3
+pinyinseq[0]:duo1	ptag[0]     :0
+pinyinseq[1]:yu3	ptag[1]     :0
+pinyinseq[2]:yan2	ptag[2]     :4
+py_bd is over !
+
+nChar=3
+pinyinseq[0]:duo1	ptag[0]     :0
+pinyinseq[1]:yu3	ptag[1]     :0
+pinyinseq[2]:yan2	ptag[2]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+多语言$
+
+LPCSynth ok!
+tline=跨/v 领域/n 的/u 人工智能/n 数据/n 资源/n 及/c 相关/vn 数据/n 服务/vn 的/u 提供/v 商/Vg 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=13
+跨/v 领域/n 的/u 人工智能/n 数据/n 资源/n 及/c 相关/vn 数据/n 服务/vn 的/u 提供/v 商/Vg GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=23
+pinyinseq[0]:kua4	ptag[0]     :1
+pinyinseq[1]:ling3	ptag[1]     :0
+pinyinseq[2]:yu4	ptag[2]     :0
+pinyinseq[3]:de5	ptag[3]     :2
+pinyinseq[4]:ren2	ptag[4]     :0
+pinyinseq[5]:gong1	ptag[5]     :0
+pinyinseq[6]:zhi4	ptag[6]     :0
+pinyinseq[7]:neng2	ptag[7]     :2
+pinyinseq[8]:shu4	ptag[8]     :0
+pinyinseq[9]:ju4	ptag[9]     :1
+pinyinseq[10]:zi1	ptag[10]     :0
+pinyinseq[11]:yuan2	ptag[11]     :3
+pinyinseq[12]:ji2	ptag[12]     :2
+pinyinseq[13]:xiang1	ptag[13]     :0
+pinyinseq[14]:guan1	ptag[14]     :1
+pinyinseq[15]:shu4	ptag[15]     :0
+pinyinseq[16]:ju4	ptag[16]     :1
+pinyinseq[17]:fu2	ptag[17]     :0
+pinyinseq[18]:wu4	ptag[18]     :0
+pinyinseq[19]:de5	ptag[19]     :2
+pinyinseq[20]:ti2	ptag[20]     :0
+pinyinseq[21]:gong4	ptag[21]     :1
+pinyinseq[22]:shang1	ptag[22]     :4
+py_bd is over !
+
+nChar=23
+pinyinseq[0]:kua4	ptag[0]     :1
+pinyinseq[1]:ling3	ptag[1]     :0
+pinyinseq[2]:yu4	ptag[2]     :0
+pinyinseq[3]:de5	ptag[3]     :2
+pinyinseq[4]:ren2	ptag[4]     :0
+pinyinseq[5]:gong1	ptag[5]     :0
+pinyinseq[6]:zhi4	ptag[6]     :0
+pinyinseq[7]:neng2	ptag[7]     :2
+pinyinseq[8]:shu4	ptag[8]     :0
+pinyinseq[9]:ju4	ptag[9]     :1
+pinyinseq[10]:zi1	ptag[10]     :0
+pinyinseq[11]:yuan2	ptag[11]     :3
+pinyinseq[12]:ji2	ptag[12]     :2
+pinyinseq[13]:xiang1	ptag[13]     :0
+pinyinseq[14]:guan1	ptag[14]     :1
+pinyinseq[15]:shu4	ptag[15]     :0
+pinyinseq[16]:ju4	ptag[16]     :1
+pinyinseq[17]:fu2	ptag[17]     :0
+pinyinseq[18]:wu4	ptag[18]     :0
+pinyinseq[19]:de5	ptag[19]     :2
+pinyinseq[20]:ti2	ptag[20]     :0
+pinyinseq[21]:gong4	ptag[21]     :1
+pinyinseq[22]:shang1	ptag[22]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+跨 领域的| 人工智能| 数据 资源$及| 相关 数据 服务的| 提供 商$
+
+LPCSynth ok!

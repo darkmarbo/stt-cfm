@@ -57,7 +57,7 @@ END_MESSAGE_MAP()
 CTTSDemoDlg::CTTSDemoDlg(CWnd* pParent /*=NULL*/)
 	: CDialogEx(CTTSDemoDlg::IDD, pParent)
 	, m_selModel(_T(""))
-	, m_newText(_T(""))
+	, m_newText(_T("北京海天瑞声科技有限公司是一家全球领先的、多语言、跨领域的人工智能数据资源及相关数据服务的提供商"))
 {
 	m_hIcon = AfxGetApp()->LoadIcon(IDR_MAINFRAME);
 	lpWaveFormat = (WAVEFORMATEX*)malloc(sizeof(WAVEFORMATEX));
