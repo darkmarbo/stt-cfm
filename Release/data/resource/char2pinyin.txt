@@ -1,0 +1,18409 @@
+9204
+AMI
+ai1 mi1
+ami
+ai1 mi1
+ANDROID
+an1 zhuo1 de5
+android
+an1 zhuo1 de5
+APPLE
+ai1 pao4
+apple
+ai1 pao4
+B
+bi4
+b
+bi4
+BAND
+ban1 de2
+band
+ban1 de2
+BAR
+ba4
+bar
+ba4
+BAY
+bei4
+bay
+bei4
+C
+si1
+c
+si1
+CHEESE
+chi1 zi1
+cheese
+chi1 zi1
+CHILL
+chi1 yao1
+chill
+chi1 yao1
+CHRISTMAS
+ke4 rui4 si1 mo2 si1
+christmas
+ke4 rui4 si1 mo2 si1
+CLUB
+ke4 la1 bo2
+club
+ke4 la1 bo2
+COLD
+kou3 de2
+cold
+kou3 de2
+D
+di4
+d
+di4
+DISICO
+di1 si1 kou5
+disico
+di1 si1 kou5
+DISICO
+di4 ai1 ai2 si5 ai1 si1 ou1
+disico
+di4 ai1 ai2 si5 ai1 si1 ou1
+DOMO
+dao1 mao1
+domo
+dao1 mao1
+DOZO
+dao1 zao3
+dozo
+dao1 zao3
+E
+yi4
+e
+yi4
+F
+ai2 fu5
+f
+ai2 fu5
+FACEBOOKS
+fei1 si1 bu4 ke4 si1
+facebooks
+fei1 si1 bu4 ke4 si1
+FIONA
+fei1 ou1 na4
+fiona
+fei1 ou1 na4
+FUN
+fang4
+fun
+fang4
+FUNY
+fa1 ni2
+funy
+fa1 ni2
+G
+ji4
+g
+ji4
+GALAXY
+gai4 lai2 ke4 si1
+galaxy
+gai4 lai2 ke4 si1
+GAY
+gei4
+gay
+gei4
+GOOGLE
+gu3 ge1
+google
+gu3 ge1
+GUESS
+gai4 si1
+guess
+gai4 si1
+H
+ai2 qv5
+h
+ai2 qv5
+HANGAR
+han2 ge1
+hangar
+han2 ge1
+HELLO
+hai1 lou1
+hello
+hai1 lou1
+HI
+hai4
+hi
+hai4
+HILL
+hei1 yao4
+hill
+hei1 yao4
+HOLOCAUST
+hao3 lao3 kao3 si1 te4
+holocaust
+hao3 lao3 kao3 si1 te4
+HOUSE
+hao4 si1
+house
+hao4 si1
+I
+ai1
+i
+ai1
+ICHI
+ai4 chi1
+ichi
+ai4 chi1
+INTEL
+yin1 te4 er3
+intel
+yin1 te4 er3
+J
+jie1
+j
+jie1
+K
+kei1
+k
+kei1
+KHAKI
+ha4 ke1 yi1
+khaki
+ha4 ke1 yi1
+L
+ai2 ou5
+l
+ai2 ou5
+LA
+la1
+la
+la1
+LIVE
+la1 ai4 wu3
+live
+la1 ai4 wu3
+M
+ai2 mu5
+m
+ai2 mu5
+MUSIC
+mu4 you2 zei2 ke4
+music
+mu4 you2 zei2 ke4
+MYSELF
+mai4 sai4 ao4 fu1
+myself
+mai4 sai4 ao4 fu1
+N
+en1
+n
+en1
+NIGHT
+na4 ai4 te4
+night
+na4 ai4 te4
+NO
+ne1 ou4
+no
+ne1 ou4
+O
+ou1
+o
+ou1
+OLDIES
+ou1 di4 si1
+oldies
+ou1 di4 si1
+OUT
+ao4 te4
+out
+ao4 te4
+P
+pi4
+p
+pi4
+PAD
+pai4 de5
+pad
+pai4 de5
+PAUL'S
+pao3 zi1
+paul's
+pao3 zi1
+POPIN
+pao1 pin2
+popin
+pao1 pin2
+Q
+kiu1
+q
+kiu1
+R
+a2
+r
+a2
+S
+ai2 si5
+s
+ai2 si5
+SO
+sou1
+so
+sou1
+STONE
+si4 dong1 en1
+stone
+si4 dong1 en1
+T
+ti1
+t
+ti1
+TINA
+ti1 na4
+tina
+ti1 na4
+U
+you1
+u
+you1
+V
+wei1
+v
+wei1
+VIDEO
+wei2 diu1
+video
+wei2 diu1
+VILLA
+wei1 la1
+villa
+wei1 la1
+VOICE
+wo4 ai4 si1
+voice
+wo4 ai4 si1
+W
+da2 bu5 lv5
+w
+da2 bu5 lv5
+WELLCO
+wai1 yao4 ke3
+wellco
+wai1 yao4 ke3
+WINDHAM
+wen1 de2 han4 mu3
+windham
+wen1 de2 han4 mu3
+X
+ai2 ke2 si5
+x
+ai2 ke2 si5
+Y
+wai4
+y
+wai4
+Z
+zi4
+z
+zi4
+ZOO
+zu3
+zoo
+zu3
+A
+a1
+a
+a1
+AM
+ai4 mu3
+am
+ai4 mu3
+BAMBOO
+bai4 mu3 bu4
+bamboo
+bai4 mu3 bu4
+BOSS
+bao1 si1
+boss
+bao1 si1
+CHEERS
+chi4 ye3 si1
+cheers
+chi4 ye3 si1
+CHILL
+chi1 yao1
+chill
+chi1 yao1
+CHOICE
+chao1 ai4 si1
+choice
+chao1 ai4 si1
+DE
+de2
+de
+de2
+DIE
+da4 ai4
+die
+da4 ai4
+E
+yi4
+e
+yi4
+EIGHTEEN
+ai1 ting2
+eighteen
+ai1 ting2
+EMOME
+yi1 mao1 mu1
+emome
+yi1 mao1 mu1
+EYES
+a4 ai4 zi1
+eyes
+a4 ai4 zi1
+FEEL
+fei1 yao4
+feel
+fei1 yao4
+GOD
+gao3 de2
+god
+gao3 de2
+HIGH
+hai4
+high
+hai4
+HILL
+hei1 yao4
+hill
+hei1 yao4
+HOUSE
+hao4 si1
+house
+hao4 si1
+IPAD
+ai1 pai4 de5
+ipad
+ai1 pai4 de5
+IPOD
+ai1 pao1 de5
+ipod
+ai1 pao1 de5
+IT'S
+yi4 ci1
+it's
+yi4 ci1
+KUSO
+ku1 su1
+kuso
+ku1 su1
+LINUX
+li1 na4 ke1 si1
+linux
+li1 na4 ke1 si1
+LUCKY
+la1 ke4 yi1
+lucky
+la1 ke4 yi1
+PERCENT
+po1 sen1 te4
+percent
+po1 sen1 te4
+PRADA
+pu1 la1 da5
+prada
+pu1 la1 da5
+PUB
+pa4 bu1
+pub
+pa4 bu1
+PUNK
+pang2 ke4
+punk
+pang2 ke4
+READ
+rui4 de2
+read
+rui4 de2
+SHE
+shui2
+she
+shui2
+SHOP
+shao4 po5
+shop
+shao4 po5
+SINA
+si1 na4
+sina
+si1 na4
+SIP
+si1 pu1
+sip
+si1 pu1
+SOUGOU
+sou1 gou3
+sougou
+sou1 gou3
+SPA
+si3 ba4
+spa
+si3 ba4
+SPELL
+si3 bai1 yao1
+spell
+si3 bai1 yao1
+STREAM
+si3 zhui4 mu3
+stream
+si3 zhui4 mu3
+TREAM
+chui4 mu3
+tream
+chui4 mu3
+UNDERWATER
+an1 de2 wo1 te4
+underwater
+an1 de2 wo1 te4
+VIEWS
+wu4 you2 si1
+views
+wu4 you2 si1
+VISION
+wei1 shen2
+vision
+wei1 shen2
+VOIP
+wo4 ai1 pu1
+voip
+wo4 ai1 pu1
+WAS
+wo4 zi1
+was
+wo4 zi1
+WINDHAM
+wen1 de2 han4 mu3
+windham
+wen1 de2 han4 mu3
+A
+ei1
+a
+ei1
+AA
+ei1 ei1
+aa
+ei1 ei1
+ABA
+ei1 bi4 ei1
+aba
+ei1 bi4 ei1
+AL
+ei1 ai2 ou5
+al
+ei1 ai2 ou5
+AM
+ei1 ai2 mu5
+am
+ei1 ai2 mu5
+ATM
+ei1 ti1 ai2 mu5
+atm
+ei1 ti1 ai2 mu5
+AUS
+ei1 you1 ai2 si5
+aus
+ei1 you1 ai2 si5
+BA
+bi4 ei1
+ba
+bi4 ei1
+CHI
+si1 yi1 ai2 qv5 ai1
+chi
+si1 yi1 ai2 qv5 ai1
+CONV
+si1 yi1 ou1 en1 wei1
+conv
+si1 yi1 ou1 en1 wei1
+CR
+si1 yi1 ar2
+cr
+si1 yi1 ar2
+DA
+di4 ei1
+da
+di4 ei1
+DE
+di4 yi4
+de
+di4 yi4
+DHL
+di4 ai2 qv5 ai2 ou5
+dhl
+di4 ai2 qv5 ai2 ou5
+DR
+di4 ar2
+dr
+di4 ar2
+EBR
+yi4 bi4 ar2
+ebr
+yi4 bi4 ar2
+ED
+yi4 di4
+ed
+yi4 di4
+ELT
+yi4 ai2 ou5 ti1
+elt
+yi4 ai2 ou5 ti1
+EMS
+yi4 ai2 mu5 ai2 si5
+ems
+yi4 ai2 mu5 ai2 si5
+EN
+yi4 en1
+en
+yi4 en1
+ENT
+yi4 en1 ti1
+ent
+yi4 en1 ti1
+EPF
+yi4 pi4 ai2 fu5
+epf
+yi4 pi4 ai2 fu5
+EPS
+yi4 pi4 ai2 si5
+eps
+yi4 pi4 ai2 si5
+EST
+yi4 ai2 si5 ti1
+est
+yi4 ai2 si5 ti1
+FIF
+ai2 fu5 ai1 ai2 fu5
+fif
+ai2 fu5 ai1 ai2 fu5
+GLT
+ji4 ai2 ou5 ti1
+glt
+ji4 ai2 ou5 ti1
+HHH
+ai2 qv5 ai2 qv5 ai2 qv5
+hhh
+ai2 qv5 ai2 qv5 ai2 qv5
+HK
+ai2 qv5 kei1
+hk
+ai2 qv5 kei1
+HL
+ai2 qv5 ai2 ou5
+hl
+ai2 qv5 ai2 ou5
+HSB
+ai2 qv5 ai2 si5 bi4
+hsb
+ai2 qv5 ai2 si5 bi4
+HSBC
+ai2 qv5 ai2 si5 bi4 si1 yi1
+hsbc
+ai2 qv5 ai2 si5 bi4 si1 yi1
+HT
+ai2 qv5 ti1
+ht
+ai2 qv5 ti1
+IAL
+ai1 ei1 ai2 ou5
+ial
+ai1 ei1 ai2 ou5
+IBC
+ai1 bi4 si1 yi1
+ibc
+ai1 bi4 si1 yi1
+ICA
+ai1 si1 yi1 ei1
+ica
+ai1 si1 yi1 ei1
+ID
+ai1 di4
+id
+ai1 di4
+IFC
+ai1 ai2 fu5 si1 yi1
+ifc
+ai1 ai2 fu5 si1 yi1
+IFY
+ai1 ai2 fu5 wai1
+ify
+ai1 ai2 fu5 wai1
+IMB
+ai1 ai2 mu5 bi4
+imb
+ai1 ai2 mu5 bi4
+JP
+jie1 pi4
+jp
+jie1 pi4
+KH
+kei1 ai2 qv5
+kh
+kei1 ai2 qv5
+LE
+ai2 ou5 yi4
+le
+ai2 ou5 yi4
+MI
+ai2 mu5 ai1
+mi
+ai2 mu5 ai1
+MIT
+ai2 mu5 ai1 ti1
+mit
+ai2 mu5 ai1 ti1
+NM
+en1 ai2 mu5
+nm
+en1 ai2 mu5
+NRA
+en1 ar2 ei1
+nra
+en1 ar2 ei1
+OD
+ou1 di4
+od
+ou1 di4
+ORD
+ou1 ar2 di4
+ord
+ou1 ar2 di4
+OTH
+ou1 ti1 ai2 qv5
+oth
+ou1 ti1 ai2 qv5
+OV
+ou1 wei1
+ov
+ou1 wei1
+PCD
+pi4 si1 yi1 di4
+pcd
+pi4 si1 yi1 di4
+PFS
+pi4 ai2 fu5 ai2 si5
+pfs
+pi4 ai2 fu5 ai2 si5
+PO
+pi4 ou1
+po
+pi4 ou1
+PT
+pi4 ti1
+pt
+pi4 ti1
+QQ
+ke1 you1 ke1 you1
+qq
+ke1 you1 ke1 you1
+REF
+ar2 yi4 ai2 fu5
+ref
+ar2 yi4 ai2 fu5
+RM
+ar2 ai2 mu5
+rm
+ar2 ai2 mu5
+RMB
+ar2 ai2 mu5 bi4
+rmb
+ar2 ai2 mu5 bi4
+ROR
+ar2 ou1 a1
+ror
+ar2 ou1 a1
+SH
+ai2 si5 ai2 qv5
+sh
+ai2 si5 ai2 qv5
+SMS
+ai2 si5 ai2 mu5 ai2 si5
+sms
+ai2 si5 ai2 mu5 ai2 si5
+TC
+ti1 si1 yi1
+tc
+ti1 si1 yi1
+UBS
+you1 bi4 ai2 si5
+ubs
+you1 bi4 ai2 si5
+UID
+you1 ai1 di4
+uid
+you1 ai1 di4
+UND
+you1 en1 di4
+und
+you1 en1 di4
+UPS
+you1 pi4 ai2 si5
+ups
+you1 pi4 ai2 si5
+US
+you1 ai2 si5
+us
+you1 ai2 si5
+USA
+you1 ai2 si5 ei1
+usa
+you1 ai2 si5 ei1
+USB
+you1 ai2 si5 bi4
+usb
+you1 ai2 si5 bi4
+USD
+you1 ai2 si5 di4
+usd
+you1 ai2 si5 di4
+VIP
+wei1 ai1 pi4
+vip
+wei1 ai1 pi4
+WWW
+da2 bu5 lv5 da2 bu5 lv5 da2 bu5 lv5
+www
+da2 bu5 lv5 da2 bu5 lv5 da2 bu5 lv5
+ACCESS
+er2 ke3 se4 si3
+access
+er2 ke3 se4 si3
+ACCOUNT
+e2 kang4 te4
+account
+e2 kang4 te4
+ACCOUNTS
+e2 kang4 ci3
+accounts
+e2 kang4 ci3
+ACKNOWLEDGMENT
+er2 ke3 na2 li2 ji3
+acknowledgment
+er2 ke3 na2 li2 ji3
+ACTIVATE
+er2 ke3 ti1 wei3 te4
+activate
+er2 ke3 ti1 wei3 te4
+ACTIVATION
+er2 ke3 ti1 wei2 xian3
+activation
+er2 ke3 ti1 wei2 xian3
+ACTIVE
+er2 ke3 ti4 wu3
+active
+er2 ke3 ti4 wu3
+ADDRESS
+er3 jve4 si3
+address
+er3 jve4 si3
+ADOBE
+e2 da1 bi3
+adobe
+e2 da1 bi3
+ADVANCE
+er3 de2 wan4 si3
+advance
+er3 de2 wan4 si3
+ADVICE
+er3 de2 wai4 si3
+advice
+er3 de2 wai4 si3
+AGAIN
+e2 geng4
+again
+e2 geng4
+AGENT
+ei1 jian3 te4
+agent
+ei1 jian3 te4
+AGREEMENT
+er3 ge2 rui4 men2 te4
+agreement
+er3 ge2 rui4 men2 te4
+AIR
+ei1 er3
+air
+ei1 er3
+AIRPORT
+ei1 er3 po4 te4
+airport
+ei1 er3 po4 te4
+ALRIGHT
+wo4 ru4 ai4 te4
+alright
+wo4 ru4 ai4 te4
+ALWAYS
+wo4 wei4 re3
+always
+wo4 wei4 re3
+AMOUNT
+e2 man4 te4
+amount
+e2 man4 te4
+AND
+an4 de2
+and
+an4 de2
+ANNUAL
+er2 niu3 wo3
+annual
+er2 niu3 wo3
+ANOTHER
+e2 na2 re3
+another
+e2 na2 re3
+ANYTHING
+ai1 ni3 xing4
+anything
+ai1 ni3 xing4
+ANYWAY
+ai1 ni3 wei4
+anyway
+ai1 ni3 wei4
+APOSTROPHE
+e2 pa1 si3 qve4 fei1
+apostrophe
+e2 pa1 si3 qve4 fei1
+APOSTROPHES
+e2 pa1 si3 qve4 fei1 si3
+apostrophes
+e2 pa1 si3 qve4 fei1 si3
+APPLICATION
+e2 pu3 li4 ke1 ei1 xian3
+application
+e2 pu3 li4 ke1 ei1 xian3
+APPLY
+e2 pu3 lai4
+apply
+e2 pu3 lai4
+ARRANGE
+e2 run4 ji3
+arrange
+e2 run4 ji3
+AT
+e4 te4
+at
+e4 te4
+ATTENTION
+e2 teng2 xian3
+attention
+e2 teng2 xian3
+AUTOMATICALLY
+ao4 te4 mai4 ti3 ke3 li3
+automatically
+ao4 te4 mai4 ti3 ke3 li3
+AUTOPAY
+wo3 te4 pei4
+autopay
+wo3 te4 pei4
+AVAILABLE
+e2 wei1 le4 bo3
+available
+e2 wei1 le4 bo3
+BALANCE
+bei1 lan2 si3
+balance
+bei1 lan2 si3
+BANK
+ban4 ke3
+bank
+ban4 ke3
+BANKING
+ban1 ke3 yin3
+banking
+ban1 ke3 yin3
+BANKS
+ban4 ke3 si3
+banks
+ban4 ke3 si3
+BE
+bi4
+be
+bi4
+BEAR
+bi4 er3
+bear
+bi4 er3
+BEE
+bi4
+bee
+bi4
+BELOW
+bi3 lou4
+below
+bi3 lou4
+BEN
+ben4
+ben
+ben4
+BENEFIT
+bei1 ni3 fei4 te4
+benefit
+bei1 ni3 fei4 te4
+BILL
+bi4 er3
+bill
+bi4 er3
+BLANK
+bu3 lan4 ke3
+blank
+bu3 lan4 ke3
+BLOCK
+bu3 la4 ke3
+block
+bu3 la4 ke3
+BOOK
+bu4 ke3
+book
+bu4 ke3
+BOOKING
+bu4 ke3 yin3
+booking
+bu4 ke3 yin3
+BOSTON
+ba1 si3 teng2
+boston
+ba1 si3 teng2
+BOX
+ba4 ke3 si3
+box
+ba4 ke3 si3
+BRANCH
+bu3 run4 qi3
+branch
+bu3 run4 qi3
+BREAK
+bu3 rui4 ke3
+break
+bu3 rui4 ke3
+BUILDING
+bi1 ou1 ding3
+building
+bi1 ou1 ding3
+BUSINESS
+bi1 re3 ni4 si3
+business
+bi1 re3 ni4 si3
+BUY
+bai4
+buy
+bai4
+BUYOR
+bai4 er3
+buyor
+bai4 er3
+BY
+bai4
+by
+bai4
+BYE
+bai4
+bye
+bai4
+CALL
+kuo4
+call
+kuo4
+CAN
+kan4
+can
+kan4
+CANCEL
+kan1 se4 er3
+cancel
+kan1 se4 er3
+CANNOT
+kan3 na4 te4
+cannot
+kan3 na4 te4
+CARD
+ka3 de2
+card
+ka3 de2
+CASE
+ke1 ei4 si3
+case
+ke1 ei4 si3
+CASH
+ke4 er2 xi3
+cash
+ke4 er2 xi3
+CATCH
+ke4 er2 qi3
+catch
+ke4 er2 qi3
+CENT
+shen4 te4
+cent
+shen4 te4
+CENTAGE
+sen1 te4 ji3
+centage
+sen1 te4 ji3
+CENTRAL
+sen1 chou1
+central
+sen1 chou1
+CENTRE
+sen1 te4
+centre
+sen1 te4
+CERTIFICATE
+she3 ti1 fei2 ke3 ei4 te4
+certificate
+she3 ti1 fei2 ke3 ei4 te4
+CHANGE
+qian4 ji3
+change
+qian4 ji3
+CHANGES
+qian4 ji2 re3
+changes
+qian4 ji2 re3
+CHARGE
+qia4 ji3
+charge
+qia4 ji3
+CHARGES
+qia4 ji3 re3
+charges
+qia4 ji3 re3
+CHECK
+qie4 ke3
+check
+qie4 ke3
+CHECKING
+qie1 ke2 yin3
+checking
+qie1 ke2 yin3
+CHEQVE
+qie4 ke3
+cheqve
+qie4 ke3
+CHEQVING
+qie1 ke2 yin3
+cheqving
+qie1 ke2 yin3
+CHINA
+qi1 a1 ne5
+china
+qi1 a1 ne5
+CHINATRUST
+qi1 a1 ne5 qia4 si3 te4
+chinatrust
+qi1 a1 ne5 qia4 si3 te4
+CITI
+si1 yi1 ti3
+citi
+si1 yi1 ti3
+CITY
+si1 yi1 ti3
+city
+si1 yi1 ti3
+CITYSUP
+si1 yi1 ti3 sa4 pu3
+citysup
+si1 yi1 ti3 sa4 pu3
+CLOSE
+ke3 lou4 re3
+close
+ke3 lou4 re3
+CLOSED
+ke3 lou4 re3 de2
+closed
+ke3 lou4 re3 de2
+CLOSING
+ke3 lou4 yin3
+closing
+ke3 lou4 yin3
+CLUB
+ke3 la4 bu3
+club
+ke3 la4 bu3
+CODE
+kou4 de2
+code
+kou4 de2
+COL
+kuo4
+col
+kuo4
+COLLAPSE
+ke3 lei4 pu2 si3
+collapse
+ke3 lei4 pu2 si3
+COM
+ka2 mu3
+com
+ka2 mu3
+COMPLAIN
+ka1 mu2 pu3 lan4
+complain
+ka1 mu2 pu3 lan4
+COMPLIANT
+ka1 mu2 pu3 lan4 te4
+compliant
+ka1 mu2 pu3 lan4 te4
+CON
+kong4
+con
+kong4
+CONFIDENTIAL
+kong4 fei1 deng1 xi2 er3
+confidential
+kong4 fei1 deng1 xi2 er3
+CONFIRM
+kan1 fei4 mu3
+confirm
+kan1 fei4 mu3
+CONFUSE
+kan1 fu4 you2 re3
+confuse
+kan1 fu4 you2 re3
+CONSTRUCTION
+kan1 si3 zhua1 ke2 xian3
+construction
+kan1 si3 zhua1 ke2 xian3
+CONTACT
+kan1 te4 ke3 te4
+contact
+kan1 te4 ke3 te4
+CONTRACT
+kan1 qia4 ke3 te4
+contract
+kan1 qia4 ke3 te4
+COPY
+ka1 pi3
+copy
+ka1 pi3
+CORPORATION
+kuo4 pu3 rui4 xian3
+corporation
+kuo4 pu3 rui4 xian3
+CORRESPONDENCE
+kuo4 rui4 si3 ban4 deng2 si3
+correspondence
+kuo4 rui4 si3 ban4 deng2 si3
+CORRESPONDING
+kuo4 rui4 si3 ban4 ding3
+corresponding
+kuo4 rui4 si3 ban4 ding3
+COUNT
+kang4 te4
+count
+kang4 te4
+COUNTRY
+kang1 chui2
+country
+kang1 chui2
+COURI
+kou4 rui4
+couri
+kou4 rui4
+CREDIT
+ke3 yve1 di3 te4
+credit
+ke3 yve1 di3 te4
+CURRENCY
+ke1 ruan2 xi3
+currency
+ke1 ruan2 xi3
+CURRENT
+ka1 ruan3 te4
+current
+ka1 ruan3 te4
+CUSTOM
+ka1 si3 te4 mu4
+custom
+ka1 si3 te4 mu4
+CUT
+ka3 te4
+cut
+ka3 te4
+CYRUS
+sai4 le4 si3
+cyrus
+sai4 le4 si3
+DAILY
+de2 ei1 li3
+daily
+de2 ei1 li3
+DATA
+de2 ei1 ta3
+data
+de2 ei1 ta3
+DATE
+de2 ei4 te4
+date
+de2 ei4 te4
+DAY
+de2 ei4
+day
+de2 ei4
+DEADLINE
+de2 er4 de2 lai4
+deadline
+de2 er4 de2 lai4
+DEB
+de2 bu3
+deb
+de2 bu3
+DEBIT
+de2 bi3 te4
+debit
+de2 bi3 te4
+DEBT
+de2 bu3 te4
+debt
+de2 bu3 te4
+DELAY
+di3 lei4
+delay
+di3 lei4
+DELETE
+di3 lei4 te4
+delete
+di3 lei4 te4
+DELETED
+di3 lei4 ti3 de2
+deleted
+di3 lei4 ti3 de2
+DELIVER
+di2 li3 wu2 er3
+deliver
+di2 li3 wu2 er3
+DEPARTMENT
+di3 pa1 te4 men2 te4
+department
+di3 pa1 te4 men2 te4
+DEPOSIT
+di3 pa1 re3 te4
+deposit
+di3 pa1 re3 te4
+DESIGN
+di2 re3 ai4
+design
+di2 re3 ai4
+DETAIL
+di1 te4 wo3
+detail
+di1 te4 wo3
+DETAILS
+di1 te4 wo3 si3
+details
+di1 te4 wo3 si3
+DEVICE
+di3 wai4 si3
+device
+di3 wai4 si3
+DIAMOND
+dai1 e2 men2 de2
+diamond
+dai1 e2 men2 de2
+DIDN'T
+di1 de2 en1 te4
+didn't
+di1 de2 en1 te4
+DIFF
+di4 fu3
+diff
+di4 fu3
+DISTRICT
+di2 si3 cui4 ke3 te4
+district
+di2 si3 cui4 ke3 te4
+DO
+du4
+do
+du4
+DOC
+da4 ke3
+doc
+da4 ke3
+DOLLAR
+da1 le4
+dollar
+da1 le4
+DOT
+da4 te4
+dot
+da4 te4
+DOUBLE
+da1 bo3
+double
+da1 bo3
+DOWN
+dang4
+down
+dang4
+DOWNGRADE
+dang1 ge3 rui4 de2
+downgrade
+dang1 ge3 rui4 de2
+DOWNLOAD
+dang1 lou4 de2
+download
+dang1 lou4 de2
+DRAFT
+zhua1 fu3 te4
+draft
+zhua1 fu3 te4
+DUAL
+diu1 wo3
+dual
+diu1 wo3
+DUE
+diu1
+due
+diu1
+E-BANK
+yi1 ban4 ke3
+e-bank
+yi1 ban4 ke3
+E-BANKING
+yi1 ban4 ke2 yin3
+e-banking
+yi1 ban4 ke2 yin3
+E-STATEMENT
+yi1 si3 de2 te4 men2 te4
+e-statement
+yi1 si3 de2 te4 men2 te4
+EASY
+yi1 re3
+easy
+yi1 re3
+EFFECT
+yi1 fei4 ke3 te4
+effect
+yi1 fei4 ke3 te4
+EMAIL
+yi1 mei4 er3
+email
+yi1 mei4 er3
+EMPLOY
+yi2 mu2 pu3 luo4 yi3
+employ
+yi2 mu2 pu3 luo4 yi3
+EMPLOYEE
+er2 mu2 pu3 luo4 yi4
+employee
+er2 mu2 pu3 luo4 yi4
+EMPLOYMENT
+yi2 mu2 pu3 luo4 yi3 men2 te4
+employment
+yi2 mu2 pu3 luo4 yi3 men2 te4
+ENCE
+en4 si3
+ence
+en4 si3
+ENCES
+en1 xi2 si3
+ences
+en1 xi2 si3
+END
+en4 de2
+end
+en4 de2
+EURO
+you1 e2 ruo4
+euro
+you1 e2 ruo4
+EXAMPLE
+yi2 ge3 re4 mu3 po2
+example
+yi2 ge3 re4 mu3 po2
+EXCEED
+yi1 ke3 xi4 de2
+exceed
+yi1 ke3 xi4 de2
+EXCHANGE
+yi2 ke2 si3 qian4 ji3
+exchange
+yi2 ke2 si3 qian4 ji3
+EXECUTED
+er2 ke2 xi3 ku4 you4 ti4 de2
+executed
+er2 ke2 xi3 ku4 you4 ti4 de2
+EXISTING
+yi2 ge2 re2 si2 ting3
+existing
+yi2 ge2 re2 si2 ting3
+EXPIRY
+yi2 ke2 si3 bai4 e2 rui4
+expiry
+yi2 ke2 si3 bai4 e2 rui4
+EXPRESS
+yi2 ke2 si3 pu3 yve4 si3
+express
+yi2 ke2 si3 pu3 yve4 si3
+EXTENSION
+yi2 ke2 si3 teng2 xian3
+extension
+yi2 ke2 si3 teng2 xian3
+FAIL
+fu4 wo3
+fail
+fu4 wo3
+FAILURE
+fei1 lie3
+failure
+fei1 lie3
+FAX
+fei4 ke2 si3
+fax
+fei4 ke2 si3
+FEE
+fu3 yi4
+fee
+fu3 yi4
+FIFTY
+fei1 fu3 ti3
+fifty
+fei1 fu3 ti3
+FINANCE
+fa1 e2 neng2 si3
+finance
+fa1 e2 neng2 si3
+FIRM
+fei4 e2 mu3
+firm
+fei4 e2 mu3
+FIRST
+fei4 e2 si3 te4
+first
+fei4 e2 si3 te4
+FIX
+fei4 yi3 ke3 si3
+fix
+fei4 yi3 ke3 si3
+FLOOR
+fu3 luo4
+floor
+fu3 luo4
+FLOW
+fu3 lou4
+flow
+fu3 lou4
+FOLD
+fou3 de2
+fold
+fou3 de2
+FOLLOWING
+fa1 lou2 yin3
+following
+fa1 lou2 yin3
+FOR
+fu4 wo3
+for
+fu4 wo3
+FORGOT
+fu3 ga4 te4
+forgot
+fu3 ga4 te4
+FORM
+fu4 wo2 mu3
+form
+fu4 wo2 mu3
+FOUR
+fu4 wo3
+four
+fu4 wo3
+FREE
+fu3 rui4
+free
+fu3 rui4
+FRESH
+fu3 yve4 xi3
+fresh
+fu3 yve4 xi3
+FROM
+fu3 re4 mu3
+from
+fu3 re4 mu3
+FULL
+fu4 wo3
+full
+fu4 wo3
+FULLY
+fu4 wo2 li3
+fully
+fu4 wo2 li3
+GEN
+jian4
+gen
+jian4
+GIRL
+ge4 er3
+girl
+ge4 er3
+GLOBAL
+ge3 lou2 bo3
+global
+ge3 lou2 bo3
+GO
+gou4
+go
+gou4
+GOING
+gou1 yin3
+going
+gou1 yin3
+GOLD
+gou4 e2 de2
+gold
+gou4 e2 de2
+GOOGLE
+gu1 guo3
+google
+gu1 guo3
+GRAND
+ge3 run4 de2
+grand
+ge3 run4 de2
+GROUND
+ge3 rang4 de2
+ground
+ge3 rang4 de2
+GROUP
+ge3 ru4 pu3
+group
+ge3 ru4 pu3
+HARVEY
+ha1 wei2
+harvey
+ha1 wei2
+HEAD
+hai4 de5
+head
+hai4 de5
+HELLO
+ha1 luo5
+hello
+ha1 luo5
+HI
+hai4
+hi
+hai4
+HIGHLIGHT
+hai4 lai2 te4
+highlight
+hai4 lai2 te4
+HISTORY
+hei1 si3 jiao3
+history
+hei1 si3 jiao3
+HOLD
+hou4 de5
+hold
+hou4 de5
+HOME
+hou4
+home
+hou4
+HONG
+hong4
+hong
+hong4
+HOPEFULLY
+hou4 pu3 fu3 li3
+hopefully
+hou4 pu3 fu3 li3
+HOTLINE
+huo4 te4 lai4
+hotline
+huo4 te4 lai4
+HYPHEN
+hai1 fen3
+hyphen
+hai1 fen3
+IBANK
+ai1 ban4 ke4
+ibank
+ai1 ban4 ke4
+ICON
+ai1 kong4
+icon
+ai1 kong4
+IDENTIFICATION
+ai3 deng3 ti2 fei2 kai1 xing2
+identification
+ai3 deng3 ti2 fei2 kai1 xing2
+IDENTITY
+ai3 deng1 te4 ti2
+identity
+ai3 deng1 te4 ti2
+IFIED
+ai3 fei4 de5
+ified
+ai3 fei4 de5
+IFLY
+ai3 fu3 lai4
+ifly
+ai3 fu3 lai4
+IN
+yin4
+in
+yin4
+INCORRECT
+yin3 ke3 rui4 ke4 te4
+incorrect
+yin3 ke3 rui4 ke4 te4
+INDICATION
+yin3 di3 kai1 xing2
+indication
+yin3 di3 kai1 xing2
+INFLECTION
+yin1 fu3 lai2 ke4 shen1
+inflection
+yin1 fu3 lai2 ke4 shen1
+INFORMATION
+yin3 fo2 mei2 xing2
+information
+yin3 fo2 mei2 xing2
+INSTRUCTION
+yin3 si3 qia1 ke4 xing2
+instruction
+yin3 si3 qia1 ke4 xing2
+INT
+yin4 te4
+int
+yin4 te4
+INVESTMENT
+yin3 wai1 si3 te4 men2 te4
+investment
+yin3 wai1 si3 te4 men2 te4
+IPAD
+ai1 pai4 de5
+ipad
+ai1 pai4 de5
+IS
+yi4 ri4
+is
+yi4 ri4
+ISSUE
+yi1 xiu4
+issue
+yi1 xiu4
+IT
+yi4 te4
+it
+yi4 te4
+ITEM
+ai1 deng3
+item
+ai1 deng3
+JOIN
+jiong3 yin3
+join
+jiong3 yin3
+KEEP
+ke4 yi4 pu3
+keep
+ke4 yi4 pu3
+KILL
+ke4 yi4 o5
+kill
+ke4 yi4 o5
+KONG
+kong4
+kong
+kong4
+KOWLOON
+kao1 lun2
+kowloon
+kao1 lun2
+LARGE
+la4 ji3
+large
+la4 ji3
+LATE
+lei4 te4
+late
+lei4 te4
+LAUGH
+la4 fu3
+laugh
+la4 fu3
+LEDGE
+lai4 ji3
+ledge
+lai4 ji3
+LET
+lai4 te4
+let
+lai4 te4
+LIBRARY
+lai2 bu4 ruo4 rui4
+library
+lai2 bu4 ruo4 rui4
+LICENCE
+lai2 sen1 si1
+licence
+lai2 sen1 si1
+LIKE
+lai4 ke3
+like
+lai4 ke3
+LIMIT
+lei1 mi3 te4
+limit
+lei1 mi3 te4
+LINE
+lai4 en5
+line
+lai4 en5
+LINK
+lin4 ke3
+link
+lin4 ke3
+LOAD
+lou4 de5
+load
+lou4 de5
+LOAN
+lou4 en5
+loan
+lou4 en5
+LOCAL
+lou4 ke3
+local
+lou4 ke3
+LOCATED
+lou4 kai3 te4 yi4 te4
+located
+lou4 kai3 te4 yi4 te4
+LOCK
+luo4 ke3
+lock
+luo4 ke3
+LOG
+luo4 ge2
+log
+luo4 ge2
+LOGIN
+luo2 geng3
+login
+luo2 geng3
+LOGON
+luo2 gang3
+logon
+luo2 gang3
+LOSS
+luo4 si3
+loss
+luo4 si3
+MACE
+mei4 si3
+mace
+mei4 si3
+MACHINE
+mo3 xing4
+machine
+mo3 xing4
+MAIL
+mei4 ou1
+mail
+mei4 ou1
+MAIN
+mei4 en5
+main
+mei4 en5
+MAINTAIN
+mei4 teng2
+maintain
+mei4 teng2
+MANAGE
+mai4 ne5 ji3
+manage
+mai4 ne5 ji3
+MARK
+ma4 ke3
+mark
+ma4 ke3
+MARKET
+ma1 ke4 te4
+market
+ma1 ke4 te4
+MAST
+ma4 si3 te4
+mast
+ma4 si3 te4
+MAYBE
+mei4 bi3
+maybe
+mei4 bi3
+ME
+mi1
+me
+mi1
+MEAN
+ming4
+mean
+ming4
+MESSAGE
+mai4 se4 ji3
+message
+mai4 se4 ji3
+MINIM
+mi1 nong2
+minim
+mi1 nong2
+MODEL
+mo1 dou3
+model
+mo1 dou3
+MONEY
+mang2 ni3
+money
+mang2 ni3
+MONG
+mo1 en5
+mong
+mo1 en5
+MORGAN
+mo2 gen1
+morgan
+mo2 gen1
+MORTGAGE
+mo1 gei3 ji3
+mortgage
+mo1 gei3 ji3
+MY
+mai4
+my
+mai4
+NACY
+na4 xi1
+nacy
+na4 xi1
+NAME
+nei4 meng3
+name
+nei4 meng3
+NANCY
+nan2 xi1
+nancy
+nan2 xi1
+NATHAN
+nan2 sen1
+nathan
+nan2 sen1
+NATIONAL
+nai4 shen2 nong4
+national
+nai4 shen2 nong4
+NECESSARY
+nai4 xi1 se4 rui4
+necessary
+nai4 xi1 se4 rui4
+NET
+nai4 te4
+net
+nai4 te4
+NEW
+niu1
+new
+niu1
+NICHOLS
+ni2 ke4 er3 si1
+nichols
+ni2 ke4 er3 si1
+NO
+lou4
+no
+lou4
+NOISE
+luo4 ei3 ri4
+noise
+luo4 ei3 ri4
+NORMAL
+luo1 mou3
+normal
+luo1 mou3
+NORTH
+luo4 si3
+north
+luo4 si3
+NOT
+luo4 te4
+not
+luo4 te4
+NOW
+nao4
+now
+nao4
+NUMBER
+nan2 bo1
+number
+nan2 bo1
+OF
+o5 wu3
+of
+o5 wu3
+OFF
+o5 fu3
+off
+o5 fu3
+OFFICE
+o1 fei1 si3
+office
+o1 fei1 si3
+OFFSHORE
+o5 fu3 xiong1
+offshore
+o5 fu3 xiong1
+OH
+ou1
+oh
+ou1
+OK
+ou1 ke4
+ok
+ou1 ke4
+OKAY
+ou1 ke4
+okay
+ou1 ke4
+ON
+ang4
+on
+ang4
+ONE
+wan4
+one
+wan4
+ONLINE
+ang1 lai4
+online
+ang1 lai4
+OPEN
+ou1 pen2
+open
+ou1 pen2
+OPENING
+ou1 pen2 li3
+opening
+ou1 pen2 li3
+OR
+o4
+or
+o4
+OUT
+ao4 te4
+out
+ao4 te4
+OUTLOOK
+ao4 te4 lu4 ke4
+outlook
+ao4 te4 lu4 ke4
+OUTWARD
+ao4 te4 wo4 de2
+outward
+ao4 te4 wo4 de2
+PACK
+pai4 ke4
+pack
+pai4 ke4
+PAGE
+pai4 ji3
+page
+pai4 ji3
+PAP
+pai4 pu3
+pap
+pai4 pu3
+PART
+pa4 te4
+part
+pa4 te4
+PASS
+pa4 si3
+pass
+pa4 si3
+PASSPORT
+pa4 si3 pao4 te4
+passport
+pa4 si3 pao4 te4
+PASSWORD
+pa4 si3 wo4 de2
+password
+pa4 si3 wo4 de2
+PAUSE
+pa4 ri4
+pause
+pa4 ri4
+PAY
+pei4
+pay
+pei4
+PAYMENT
+pei1 men2 te4
+payment
+pei1 men2 te4
+PENALTY
+pai1 le5 ti2
+penalty
+pai1 le5 ti2
+PHONE
+feng3
+phone
+feng3
+PIN
+pin4
+pin
+pin4
+PLACE
+pu3 lei4 si3
+place
+pu3 lei4 si3
+PLAZA
+pu3 la1 re4
+plaza
+pu3 la1 re4
+PLEASE
+pu3 li4 ri4
+please
+pu3 li4 ri4
+PLUS
+pu3 la4 si3
+plus
+pu3 la4 si3
+POST
+po4 si3 te4
+post
+po4 si3 te4
+PRECENT
+pai3 re4 sen1 te4
+precent
+pai3 re4 sen1 te4
+PREMIER
+pu3 re4 mi3 le4
+premier
+pu3 re4 mi3 le4
+PREMIUM
+pu3 rui4 mi3 mu3
+premium
+pu3 rui4 mi3 mu3
+PRICE
+pu3 ruan3 si3
+price
+pu3 ruan3 si3
+PRINT
+pu3 ruan3 te4
+print
+pu3 ruan3 te4
+PROCEEDED
+pu3 ruo4 se4 de5
+proceeded
+pu3 ruo4 se4 de5
+PROCESS
+pu3 ruo4 se4 si3
+process
+pu3 ruo4 se4 si3
+PROMOTION
+pu3 ruo4 mou2 xing2
+promotion
+pu3 ruo4 mou2 xing2
+PROVE
+pu3 ru4 wu3
+prove
+pu3 ru4 wu3
+QVEEN
+kun4
+qveen
+kun4
+QVEEN'S
+kun4 si5
+qveen's
+kun4 si5
+QVEENS
+kun4 si5
+qveens
+kun4 si5
+QVESTION
+kuai4 si3 qvn2
+qvestion
+kuai4 si3 qvn2
+RATE
+rui4 te4
+rate
+rui4 te4
+RE
+rui4
+re
+rui4
+REALLY
+rui4 ou1 li3
+really
+rui4 ou1 li3
+RECEIPT
+rui4 se4 te4
+receipt
+rui4 se4 te4
+RECEIVE
+rui4 se4 wu3
+receive
+rui4 se4 wu3
+RECORD
+rui4 kao3 de2
+record
+rui4 kao3 de2
+REFRESH
+rui4 fu3 lai4 xi1
+refresh
+rui4 fu3 lai4 xi1
+REGIST
+rui4 jie2 si3 te4
+regist
+rui4 jie2 si3 te4
+REGULAR
+rui4 gou3 le4
+regular
+rui4 gou3 le4
+REGULATORY
+rui4 gou3 lei1 te4 le4
+regulatory
+rui4 gou3 lei1 te4 le4
+REJECT
+rui4 jie2 ke4 te4
+reject
+rui4 jie2 ke4 te4
+RELATIONSHIP
+rui3 lei4 shen1 xi1 pu3
+relationship
+rui3 lei4 shen1 xi1 pu3
+REMARK
+rui4 ma4 ke3
+remark
+rui4 ma4 ke3
+REMEMBER
+rui4 men2 ben3 er5
+remember
+rui4 men2 ben3 er5
+REPEAT
+rui4 pi4 te4
+repeat
+rui4 pi4 te4
+REPLACE
+rui4 pu3 lei4 si3
+replace
+rui4 pu3 lei4 si3
+REPLACEMENT
+rui4 pu3 lei4 si3 men2 te4
+replacement
+rui4 pu3 lei4 si3 men2 te4
+REPORTING
+rui4 po1 ting3
+reporting
+rui4 po1 ting3
+REQVEST
+rui4 kuai4 si3 te4
+reqvest
+rui4 kuai4 si3 te4
+REQVIRED
+rui4 kuai4 er5 de5
+reqvired
+rui4 kuai4 er5 de5
+REQVIREMENT
+rui4 kuai4 er5 men2 te4
+reqvirement
+rui4 kuai4 er5 men2 te4
+RESET
+rui4 se4 te4
+reset
+rui4 se4 te4
+RESETTING
+rui4 sai1 ting3
+resetting
+rui4 sai1 ting3
+RESIDENTS
+rui4 si3 deng3 si3
+residents
+rui4 si3 deng3 si3
+RETRIEVE
+rui4 qv4 wu3
+retrieve
+rui4 qv4 wu3
+REWARD
+rui4 wo4 de2
+reward
+rui4 wo4 de2
+RIGHT
+ruan3 te4
+right
+ruan3 te4
+RISK
+rui4 si3 ke3
+risk
+rui4 si3 ke3
+RITORIES
+rui4 tuo1 rui4 si3
+ritories
+rui4 tuo1 rui4 si3
+ROAD
+rou4 de5
+road
+rou4 de5
+ROJAM
+rou4 jie3
+rojam
+rou4 jie3
+RUN
+ruan3
+run
+ruan3
+SALON
+re4 long2
+salon
+re4 long2
+SAMPLE
+san1 pou1
+sample
+san1 pou1
+SATION
+san2 xing2
+sation
+san2 xing2
+SAUN
+san2 wen1
+saun
+san2 wen1
+SAUNDA
+sang1 na2
+saunda
+sang1 na2
+SAVE
+se4 wu3
+save
+se4 wu3
+SAVING
+se4 wen2
+saving
+se4 wen2
+SEA
+se4
+sea
+se4
+SEAS
+se4 si3
+seas
+se4 si3
+SEC
+sai4 ke3
+sec
+sai4 ke3
+SECOND
+sai1 ken3 de5
+second
+sai1 ken3 de5
+SECURITY
+se4 kou3 rui4 te4
+security
+se4 kou3 rui4 te4
+SEE
+se4
+see
+se4
+SELL
+sai4 ou1
+sell
+sai4 ou1
+SEND
+sen1 de5
+send
+sen1 de5
+SENT
+sen1 te4
+sent
+sen1 te4
+SET
+se4 te5
+set
+se4 te5
+SETTING
+se4 ting3
+setting
+se4 ting3
+SETTLEMENT
+se4 te4 men2 te4
+settlement
+se4 te4 men2 te4
+SHAW
+xiong1
+shaw
+xiong1
+SHOPPING
+xiong1 ping2
+shopping
+xiong1 ping2
+SHOULD
+xiu4 de5
+should
+xiu4 de5
+SHOW
+xiu4
+show
+xiu4
+SIGN
+sai4 en5
+sign
+sai4 en5
+SINGLE
+sen1 gou3
+single
+sen1 gou3
+SIZE
+sai4 ri4
+size
+sai4 ri4
+SO
+sou4
+so
+sou4
+SON
+sang4
+son
+sang4
+SONAL
+sou1 nong4
+sonal
+sou1 nong4
+SORRY
+suo1 rui4
+sorry
+suo1 rui4
+SPECIAL
+si3 bai1 xiu4
+special
+si3 bai1 xiu4
+SQVARE
+si3 guai4 er5
+sqvare
+si3 guai4 er5
+STAFF
+si3 da4 fu3
+staff
+si3 da4 fu3
+STANLEY
+si3 tan1 li3
+stanley
+si3 tan1 li3
+START
+si3 da4 te4
+start
+si3 da4 te4
+STATE
+si3 de2 te4
+state
+si3 de2 te4
+STATEMENT
+si3 de3 te4 men2 te4
+statement
+si3 de3 te4 men2 te4
+STATION
+si3 de2 xing2
+station
+si3 de2 xing2
+STATUS
+si3 de2 te4 si3
+status
+si3 de2 te4 si3
+STEP
+si3 de2 pu3
+step
+si3 de2 pu3
+STILL
+si3 di4 ou1
+still
+si3 di4 ou1
+STOCK
+si3 duo4 ke3
+stock
+si3 duo4 ke3
+STRANGE
+si3 qvan4 ji3
+strange
+si3 qvan4 ji3
+STYLE
+si3 dai4 o5
+style
+si3 dai4 o5
+SUB
+sa4 bu3
+sub
+sa4 bu3
+SUB-LIMIT
+sa4 bu3 lei1 mi3 te4
+sub-limit
+sa4 bu3 lei1 mi3 te4
+SUGAR
+shu1 ge2 er5
+sugar
+shu1 ge2 er5
+SUP
+sa4 pu3
+sup
+sa4 pu3
+SUPPORT
+se4 po4 te4
+support
+se4 po4 te4
+SWIFT
+si3 wei4 fu3 te4
+swift
+si3 wei4 fu3 te4
+SWITCHING
+si3 wei1 qvn2
+switching
+si3 wei1 qvn2
+SYSTEM
+se4 si3 teng2
+system
+se4 si3 teng2
+TABLE
+tui1 bo1
+table
+tui1 bo1
+TEAM
+ti4 mu3
+team
+ti4 mu3
+TELEPHONE
+tai1 le5 feng3
+telephone
+tai1 le5 feng3
+TELL
+tai4 er2
+tell
+tai4 er2
+TEXT
+tai4 si3 te4
+text
+tai4 si3 te4
+THANK
+san4 ke3
+thank
+san4 ke3
+THANSA
+san4 sa4
+thansa
+san4 sa4
+THAT
+na4 te4
+that
+na4 te4
+THE
+re3
+the
+re3
+THREE
+si3 rui4
+three
+si3 rui4
+TICK
+ti4 ke3
+tick
+ti4 ke3
+TIME
+tai4
+time
+tai4
+TIMELY
+tai4 mu3 li3
+timely
+tai4 mu3 li3
+TITLE
+tai1 tou5
+title
+tai1 tou5
+TO
+tu4
+to
+tu4
+TODAY'S
+te4 de2 ri4
+today's
+te4 de2 ri4
+TOKEN
+tou1 ken3
+token
+tou1 ken3
+TOMORROW
+tu4 mo1 rou4
+tomorrow
+tu4 mo1 rou4
+TORONTO
+duo1 lun2 duo1
+toronto
+duo1 lun2 duo1
+TOTAL
+tou1 tou5
+total
+tou1 tou5
+TOW
+tou4
+tow
+tou4
+TRADE
+qvn2 de5
+trade
+qvn2 de5
+TRAN
+qvn2
+tran
+qvn2
+TRANSACTION
+qvn2 si3 ai1 ke3 xing2
+transaction
+qvn2 si3 ai1 ke3 xing2
+TRANSFER
+qvn2 si3 fo2
+transfer
+qvn2 si3 fo2
+TRANSITION
+qvn2 re4 xing2
+transition
+qvn2 re4 xing2
+TRANSLATOR
+qvn2 si3 lei1 te4
+translator
+qvn2 si3 lei1 te4
+TRIP
+qv4 pu3
+trip
+qv4 pu3
+TRUST
+qvan4 si3 te4
+trust
+qvan4 si3 te4
+TWO
+tu4
+two
+tu4
+TYPE
+tai4 pu3
+type
+tai4 pu3
+UNCLAIM
+an1 ke3 lai4 mu5
+unclaim
+an1 ke3 lai4 mu5
+UNCLAIMED
+an1 ke3 lai4 meng3 de5
+unclaimed
+an1 ke3 lai4 meng3 de5
+UNIT
+you1 ni3 te4
+unit
+you1 ni3 te4
+UNITED
+you3 nai3 ti2 de2
+united
+you3 nai3 ti2 de2
+UNIV
+you1 ni3 wu3
+univ
+you1 ni3 wu3
+UP
+a4 pu3
+up
+a4 pu3
+UPDATE
+a4 pu3 de2 te4
+update
+a4 pu3 de2 te4
+UPGRADE
+a4 pu3 ge2 rui4 de5
+upgrade
+a4 pu3 ge2 rui4 de5
+URGENT
+er2 jin3 te4
+urgent
+er2 jin3 te4
+USE
+you4 ri4
+use
+you4 ri4
+VALID
+wai1 li3 de5
+valid
+wai1 li3 de5
+VICE
+wai4 si3
+vice
+wai4 si3
+VICES
+wai1 se4 si3
+vices
+wai1 se4 si3
+VICTORIA
+wei2 duo1 li4 ya4
+victoria
+wei2 duo1 li4 ya4
+VICTORY
+wei1 ke3 jiao3 rui4
+victory
+wei1 ke3 jiao3 rui4
+VIEW
+wei1 wu3
+view
+wei1 wu3
+VISA
+wei1 sa4
+visa
+wei1 sa4
+VOLCANO
+wo3 kai1 lou3
+volcano
+wo3 kai1 lou3
+WAVE
+wei1 wu3
+wave
+wei1 wu3
+WELCOME
+wei1 er2 kang4
+welcome
+wei1 er2 kang4
+WHAT
+wo4 te4
+what
+wo4 te4
+WHAT'S
+wo4 ci3
+what's
+wo4 ci3
+WITH
+wei1 ri4
+with
+wei1 ri4
+WITHDRAW
+wei1 ri4 jiong3
+withdraw
+wei1 ri4 jiong3
+WORK
+wo4 er2 ke3
+work
+wo4 er2 ke3
+WOULD
+wu4 de5
+would
+wu4 de5
+WRITE
+ruan3 te4
+write
+ruan3 te4
+YEA
+ye4
+yea
+ye4
+YEARS
+ye4 er2 si3
+years
+ye4 er2 si3
+YES
+ye4 si3
+yes
+ye4 si3
+YORK
+yo1 ke3
+york
+yo1 ke3
+YOU
+you1
+you
+you1
+YOUR
+yo1
+your
+yo1
+ZIP
+zei2 pu3
+zip
+zei2 pu3
+ZOO
+zu2
+zoo
+zu2
+ACC
+ei1 xi1 xi1
+acc
+ei1 xi1 xi1
+HP
+ai2 qv5 pi4
+hp
+ai2 qv5 pi4
+HWS
+ai2 qv5 da2 bu5 lv5 ai2 si5
+hws
+ai2 qv5 da2 bu5 lv5 ai2 si5
+IA
+ai4 ei1
+ia
+ai4 ei1
+IBAN
+ai4 bi4 ei1 en1
+iban
+ai4 bi4 ei1 en1
+IOD
+ai4 ou1 di4
+iod
+ai4 ou1 di4
+MEMB
+ai2 mu5 yi4 ai2 mu5 bi4
+memb
+ai2 mu5 yi4 ai2 mu5 bi4
+RA
+ar2 ei1
+ra
+ar2 ei1
+ACTIVATED
+ai1 ke1 ti1 wei1 ti1 de5
+activated
+ai1 ke1 ti1 wei1 ti1 de5
+ACTUAL
+ai1 ke1 chu1
+actual
+ai1 ke1 chu1
+ANCE
+ei1 en1 si1
+ance
+ei1 en1 si1
+ANY
+ai1 ni1
+any
+ai1 ni1
+APPROVE
+e2 pu3 ru4 wu1
+approve
+e2 pu3 ru4 wu1
+ARE
+a4
+are
+a4
+AUGUST
+ao4 ge2 si1 te4
+august
+ao4 ge2 si1 te4
+AUTO
+ao4 tou1
+auto
+ao4 tou1
+BACKUP
+bai4 ka3 pu3
+backup
+bai4 ka3 pu3
+BEEP
+bi4 pu3
+beep
+bi4 pu3
+BENEFICIAL
+bai4 ni1 fei1 shou3
+beneficial
+bai4 ni1 fei1 shou3
+BIRTHDAY
+bo1 si1 de1 ei1
+birthday
+bo1 si1 de1 ei1
+BROWS
+bu4 rou4 zi1
+brows
+bu4 rou4 zi1
+CASTLE
+ka1 sou1
+castle
+ka1 sou1
+CATALYST
+kai1 te4 li4 si1 te4
+catalyst
+kai1 te4 li4 si1 te4
+CHANNEL
+chai1 nong4
+channel
+chai1 nong4
+COMPANY
+kang1 po1 ni1
+company
+kang1 po1 ni1
+CONFIRMATION
+ken3 fo2 mei2 shen1
+confirmation
+ken3 fo2 mei2 shen1
+CORRESPOND
+kao4 rui4 si1 bang1 de2
+correspond
+kao4 rui4 si1 bang1 de2
+COST
+kao4 si1 te4
+cost
+kao4 si1 te4
+COUNTING
+kang1 ting1
+counting
+kang1 ting1
+CRIT
+ke3 rui4 te4
+crit
+ke3 rui4 te4
+DEPOSITS
+dai4 po1 zei2 ci4
+deposits
+dai4 po1 zei2 ci4
+DISPLAY
+di4 si1 pu3 lei4
+display
+di4 si1 pu3 lei4
+DIV
+di4 wu1
+div
+di4 wu1
+DOMAIN
+dao1 men2
+domain
+dao1 men2
+DRAW
+zhao4
+draw
+zhao4
+EVEN
+yi1 wen2
+even
+yi1 wen2
+EXACTLY
+yi1 ge1 zai4 ke1 te4 lei4
+exactly
+yi1 ge1 zai4 ke1 te4 lei4
+FLOWING
+fu2 lou4 ying1
+flowing
+fu2 lou4 ying1
+FOREIGN
+fo2 rui4 en1
+foreign
+fo2 rui4 en1
+FOURTH
+fo2 si1
+fourth
+fo2 si1
+FRANCISCO
+fu2 lan2 xi1 si1 ke1
+francisco
+fu2 lan2 xi1 si1 ke1
+HANDLING
+han2 de2 ling2
+handling
+han2 de2 ling2
+IMMEDIATE
+yi1 mi1 di4 e2 te4
+immediate
+yi1 mi1 di4 e2 te4
+INSURANCE
+yin1 shu1 e2 run4 si1
+insurance
+yin1 shu1 e2 run4 si1
+JVLY
+zhu1 lai4
+jvly
+zhu1 lai4
+LIFE
+lai4 fu1
+life
+lai4 fu1
+LIST
+li4 si1 te4
+list
+li4 si1 te4
+MARKETING
+ma1 ke1 yi1 ting1
+marketing
+ma1 ke1 yi1 ting1
+MEANS
+mi4 en1 zi1
+means
+mi4 en1 zi1
+MINI
+mi1 ni1
+mini
+mi1 ni1
+MORE
+mao1
+more
+mao1
+MORNING
+mao1 ning2
+morning
+mao1 ning2
+MOUSE
+mao1 si1
+mouse
+mao1 si1
+NEGATIVE
+nai4 ge2 ti1 wu1
+negative
+nai4 ge2 ti1 wu1
+NOR
+nao4
+nor
+nao4
+NOTE
+nong4 te4
+note
+nong4 te4
+OWN
+ou1 en1
+own
+ou1 en1
+PERCENTAGE
+po1 sen1 ti1 zhi1
+percentage
+po1 sen1 ti1 zhi1
+PREPARE
+pu3 rui4 pai4 er3
+prepare
+pu3 rui4 pai4 er3
+PRESENT
+pu3 rui4 zen3 te4
+present
+pu3 rui4 zen3 te4
+PROMOTIONAL
+pu3 rou4 mou2 shen1 nong4
+promotional
+pu3 rou4 mou2 shen1 nong4
+PRUDENTIAL
+pu3 ru4 deng1 shen1
+prudential
+pu3 ru4 deng1 shen1
+REACTIVATE
+rui4 ai1 ke1 ti1 wei1 te4
+reactivate
+rui4 ai1 ke1 ti1 wei1 te4
+REACTIVATION
+rui4 ai1 ke1 ti1 wei1 shen1
+reactivation
+rui4 ai1 ke1 ti1 wei1 shen1
+RECIPT
+rui4 xi1 pu3 te4
+recipt
+rui4 xi1 pu3 te4
+RED
+rui4 de2
+red
+rui4 de2
+REFUND
+rui4 fang4 de2
+refund
+rui4 fang4 de2
+REMARKS
+rui4 ma4 ke1 si1
+remarks
+rui4 ma4 ke1 si1
+RENMINBI
+ren2 min2 bi4
+renminbi
+ren2 min2 bi4
+REPORT
+rui4 po1 te4
+report
+rui4 po1 te4
+RICK
+rui4 ke1
+rick
+rui4 ke1
+SAN
+san1
+san
+san1
+SCHEDULE
+si1 gai4 diu1
+schedule
+si1 gai4 diu1
+SELECTED
+xi1 lai2 ke1 ti1 de2
+selected
+xi1 lai2 ke1 ti1 de2
+SERVICE
+se4 wei1 si1
+service
+se4 wei1 si1
+SHIP
+shei2 pu3
+ship
+shei2 pu3
+SINGAPORE
+xing1 ga3 po1
+singapore
+xing1 ga3 po1
+SUS
+sa4 si1
+sus
+sa4 si1
+SWITCH
+si1 wei1 chi1
+switch
+si1 wei1 chi1
+THANKS
+san1 ke1 si1
+thanks
+san1 ke1 si1
+TRUTH
+chu4 si1
+truth
+chu4 si1
+TRY
+chuai4
+try
+chuai4
+TWENTY
+tuan1 ti1
+twenty
+tuan1 ti1
+ULATION
+you1 lei4 shen1
+ulation
+you1 lei4 shen1
+VOICE
+wo4 ai4 si1
+voice
+wo4 ai4 si1
+ACTIVATED
+ai1 ke1 ti1 wei1 de2
+activated
+ai1 ke1 ti1 wei1 de2
+BENEFICIAL
+bai4 ni1 fei1 shou1
+beneficial
+bai4 ni1 fei1 shou1
+CHANNEL
+chai1 nong4
+channel
+chai1 nong4
+CONFIRMATION
+keng1 fo2 mei2 shen1
+confirmation
+keng1 fo2 mei2 shen1
+LIFE
+lai4 fu1
+life
+lai4 fu1
+PERCENTAGE
+po1 sen1 ti1 zhi1
+percentage
+po1 sen1 ti1 zhi1
+REACTIVATE
+rui4 ai1 ke1 ti1 wei1 te4
+reactivate
+rui4 ai1 ke1 ti1 wei1 te4
+SERVICE
+se4 wei1 si1
+service
+se4 wei1 si1
+ADR
+ei1 di4 ar2
+adr
+ei1 di4 ar2
+ASB
+ei1 ai2 si5 bi4
+asb
+ei1 ai2 si5 bi4
+BSE
+bi4 ai2 si5 yi4
+bse
+bi4 ai2 si5 yi4
+CIAL
+xi1 ai4 ei1 ai2 ou5
+cial
+xi1 ai4 ei1 ai2 ou5
+ETF
+yi4 ti4 ai2 fu5
+etf
+yi4 ti4 ai2 fu5
+HS
+ai2 qv5 ai2 si5
+hs
+ai2 qv5 ai2 si5
+IBM
+ai4 bi4 ai2 mu5
+ibm
+ai4 bi4 ai2 mu5
+IPO
+ai4 pi4 ou1
+ipo
+ai4 pi4 ou1
+MES
+ai2 mu5 yi4 ai2 si5
+mes
+ai2 mu5 yi4 ai2 si5
+MS
+ai2 mu5 ai2 si5
+ms
+ai2 mu5 ai2 si5
+NAL
+en1 ei1 ai2 ou5
+nal
+en1 ei1 ai2 ou5
+NAS
+en1 ei1 ai2 si5
+nas
+en1 ei1 ai2 si5
+NASDAQ
+na4 si1 da2 ke4
+nasdaq
+na4 si1 da2 ke4
+POW
+pi4 ou1 da2 bu5 lv5
+pow
+pi4 ou1 da2 bu5 lv5
+REQ
+ar2 yi4 ke1 you4
+req
+ar2 yi4 ke1 you4
+SOGO
+ai2 si5 ou1 ji4 ou1
+sogo
+ai2 si5 ou1 ji4 ou1
+ACCEPTANCE
+e2 ke1 sai1 pu3 te4 en1 si1
+acceptance
+e2 ke1 sai1 pu3 te4 en1 si1
+ADVANCED
+e2 de2 wang4 si1 te4
+advanced
+e2 de2 wang4 si1 te4
+ADVANTAGE
+e2 de2 wang4 ti1 zhi4
+advantage
+e2 de2 wang4 ti1 zhi4
+AGENCY
+ei1 zhen1 xi1
+agency
+ei1 zhen1 xi1
+AGENTS
+ei1 zhen1 ci4
+agents
+ei1 zhen1 ci4
+ALT
+ai1 ou1 te4
+alt
+ai1 ou1 te4
+ARRIVAL
+e2 ri4 ai4 wo4
+arrival
+e2 ri4 ai4 wo4
+AUTHORIZATION
+ao4 se4 ri4 ai4 zei2 shen1
+authorization
+ao4 se4 ri4 ai4 zei2 shen1
+BAL
+bai4 ou1
+bal
+bai4 ou1
+BROOK
+bu4 ru4 ke1
+brook
+bu4 ru4 ke1
+BUTTON
+ba1 te4 en1
+button
+ba1 te4 en1
+CERTIFIED
+se4 ti1 fu1 ai4 de2
+certified
+se4 ti1 fu1 ai4 de2
+CHANTS
+chang4 ci2
+chants
+chang4 ci2
+CHOOSE
+chu4 zi1
+choose
+chu4 zi1
+CLARIFY
+ke1 la1 rui4 fu1 ai4
+clarify
+ke1 la1 rui4 fu1 ai4
+CLICK
+ke1 li4 ke1
+click
+ke1 li4 ke1
+COCA
+kou1 ke1
+coca
+kou1 ke1
+COLA
+kou1 le4
+cola
+kou1 le4
+COLLECTION
+ke1 lai2 ke1 shen1
+collection
+ke1 lai2 ke1 shen1
+COMPUTE
+ke1 mu3 po1 you4 te4
+compute
+ke1 mu3 po1 you4 te4
+CONDITIONS
+kang1 di1 shen1 zi1
+conditions
+kang1 di1 shen1 zi1
+CONVINCE
+kang1 wen1 si1
+convince
+kang1 wen1 si1
+CORRESPONDENT
+kao4 rui4 si1 bang1 de2 en1 te4
+correspondent
+kao4 rui4 si1 bang1 de2 en1 te4
+DEAL
+di4 ou1
+deal
+di4 ou1
+DECEMBER
+di4 san1 bo1
+december
+di4 san1 bo1
+DEF
+dai4 fu1
+def
+dai4 fu1
+DEFAULT
+di1 fo2 te4
+default
+di1 fo2 te4
+DEPOSITARY
+di1 pao1 ze2 te4 rui4
+depositary
+di1 pao1 ze2 te4 rui4
+DODE
+dou1 di1
+dode
+dou1 di1
+DOLL
+dao4
+doll
+dao4
+DOLLARS
+dao4 le4 si1
+dollars
+dao4 le4 si1
+DRIVE
+zhuai4 wu1
+drive
+zhuai4 wu1
+DROP
+zhao4 pu3
+drop
+zhao4 pu3
+DUPLICATE
+diu1 pu3 li4 ke1 ei1 te4
+duplicate
+diu1 pu3 li4 ke1 ei1 te4
+DUTY
+diu1 ti1
+duty
+diu1 ti1
+EM
+ai1 mu3
+em
+ai1 mu3
+ENDORSE
+yin1 dao4 si1
+endorse
+yin1 dao4 si1
+ENDORSEMENT
+yin1 dao4 si1 men2 te4
+endorsement
+yin1 dao4 si1 men2 te4
+EQVAL
+yi1 kao4
+eqval
+yi1 kao4
+EUROPEAN
+you1 ruo4 pin1
+european
+you1 ruo4 pin1
+EXCUSE
+yi1 ke1 si1 ke1 you2 si1
+excuse
+yi1 ke1 si1 ke1 you2 si1
+EXPENSIVE
+yi1 ke1 si1 pen1 xi1 wu1
+expensive
+yi1 ke1 si1 pen1 xi1 wu1
+FACE
+fei1 si1
+face
+fei1 si1
+FEDEX
+fu1 ai1 dai4 ke1 si1
+fedex
+fu1 ai1 dai4 ke1 si1
+FOUND
+fang4 de2
+found
+fang4 de2
+GOOD
+gu1 de2
+good
+gu1 de2
+HALL
+hao4
+hall
+hao4
+HAND
+han4 de2
+hand
+han4 de2
+HARD
+ha1 de2
+hard
+ha1 de2
+HOLIDAY
+hao3 le4 di1
+holiday
+hao3 le4 di1
+HOMEPAGE
+hou2 mu3 pei4 zhi1
+homepage
+hou2 mu3 pei4 zhi1
+HOUR
+ao4 wu1 er3
+hour
+ao4 wu1 er3
+HOURS
+ao4 wu1 er3 si1
+hours
+ao4 wu1 er3 si1
+HOW
+hao4
+how
+hao4
+HUNDRED
+han4 zhui1 de2
+hundred
+han4 zhui1 de2
+ICAL
+ai4 kai1 ou1
+ical
+ai4 kai1 ou1
+INCREASE
+yin1 ke1 rui4 si1
+increase
+yin1 ke1 rui4 si1
+ING
+ying1
+ing
+ying1
+INSTALLMENT
+yin1 si1 tao2 men2 te4
+installment
+yin1 si1 tao2 men2 te4
+JOB
+zhao4 bu4
+job
+zhao4 bu4
+KIM
+ke1 yi1 mu3
+kim
+ke1 yi1 mu3
+KNOW
+nou4
+know
+nou4
+LANDMARK
+lan2 de2 ma3 ke4
+landmark
+lan2 de2 ma3 ke4
+LANGUAGE
+lan2 gui1 zhi1
+language
+lan2 gui1 zhi1
+LIMITED
+li4 mi3 ti1 de2
+limited
+li4 mi3 ti1 de2
+LOADING
+lou4 ding3
+loading
+lou4 ding3
+LOT
+lao4 te4
+lot
+lao4 te4
+LUNCH
+lan4 chi1
+lunch
+lan4 chi1
+MAINTENANCE
+men2 te4 en1 nen4 si1
+maintenance
+men2 te4 en1 nen4 si1
+MANDARIN
+man4 de2 run4
+mandarin
+man4 de2 run4
+MARGIN
+ma1 zhen1
+margin
+ma1 zhen1
+MENU
+mai4 niu1
+menu
+mai4 niu1
+MISS
+mi4 si1
+miss
+mi4 si1
+MIST
+mi4 si1 te4
+mist
+mi4 si1 te4
+MUCH
+ma4 chi1
+much
+ma4 chi1
+MYSELF
+mai4 sai4 ou1 fu1
+myself
+mai4 sai4 ou1 fu1
+NATIVE
+nei4 ti1 fu1
+native
+nei4 ti1 fu1
+NOTES
+nou4 ci2
+notes
+nou4 ci2
+NOTICE
+nou4 ti1 si1
+notice
+nou4 ti1 si1
+NOVEMBER
+nou4 wan1 bo1
+november
+nou4 wan1 bo1
+OCTOBER
+ao4 ke1 tou1 ben1
+october
+ao4 ke1 tou1 ben1
+ONLY
+ang1 li4
+only
+ang1 li4
+PLANNING
+pu3 lan2 ning2
+planning
+pu3 lan2 ning2
+PRACTICE
+pu3 ri4 ai4 ke1 ti1 si1
+practice
+pu3 ri4 ai4 ke1 ti1 si1
+PRE
+pu3 rui4
+pre
+pu3 rui4
+PREM
+pu3 ri4 ai4 mu3
+prem
+pu3 ri4 ai4 mu3
+PRIVATIZED
+pu3 ri4 ai4 wo4 tai4 zi1 de2
+privatized
+pu3 ri4 ai4 wo4 tai4 zi1 de2
+PUBLIC
+pa4 bu4 li4 ke1
+public
+pa4 bu4 li4 ke1
+PURCHASING
+po1 chi1 ei1 zi1 ying1
+purchasing
+po1 chi1 ei1 zi1 ying1
+QVIZ
+kui2 zi1
+qviz
+kui2 zi1
+REAL
+rui4 ou1
+real
+rui4 ou1
+RECEPTION
+rui4 sai1 pu3 shen1
+reception
+rui4 sai1 pu3 shen1
+RENTAL
+run4 tou2
+rental
+run4 tou2
+RESPONSE
+rui4 si1 pang4 si1
+response
+rui4 si1 pang4 si1
+SEASON
+xi1 zi1 en1
+season
+xi1 zi1 en1
+SECTION
+sai1 ke1 shen1
+section
+sai1 ke1 shen1
+SHAM
+shai4 mu3
+sham
+shai4 mu3
+SHANGHAI
+shang4 hai3
+shanghai
+shang4 hai3
+SHARE
+shai4 er3
+share
+shai4 er3
+SHARES
+shai4 er3 zi1
+shares
+shai4 er3 zi1
+SI
+xi1
+si
+xi1
+SION
+sai4 en1
+sion
+sai4 en1
+STAMP
+si1 dan1 mu3 pu3
+stamp
+si1 dan1 mu3 pu3
+STANDING
+si1 dan1 ding1
+standing
+si1 dan1 ding1
+STEPS
+si1 dai4 pu3 si1
+steps
+si1 dai4 pu3 si1
+STREET
+si1 zhui4 te4
+street
+si1 zhui4 te4
+TAIPEI
+tai2 bei3
+taipei
+tai2 bei3
+TAX
+tai4 ke1 si1
+tax
+tai4 ke1 si1
+THIS
+zei2 si1
+this
+zei2 si1
+THOUSAND
+sao1 zi1 en1 de2
+thousand
+sao1 zi1 en1 de2
+TOO
+tu4
+too
+tu4
+TOOLING
+tu1 ling2
+tooling
+tu1 ling2
+TRANSCRIPT
+chuan1 si1 ke1 rui4 pu3 te4
+transcript
+chuan1 si1 ke1 rui4 pu3 te4
+UNKNOWN
+an1 nou4 en1
+unknown
+an1 nou4 en1
+US
+a4 si1
+us
+a4 si1
+VACATION
+wo4 ke1 ei1 shen1
+vacation
+wo4 ke1 ei1 shen1
+VANTAGE
+wang4 ti1 zhi1
+vantage
+wang4 ti1 zhi1
+VATE
+wei4 te4
+vate
+wei4 te4
+VISOR
+wai4 zi4 er2
+visor
+wai4 zi4 er2
+WAIVE
+wei4 wu1
+waive
+wei4 wu1
+WEALTH
+wai4 ou1 si1
+wealth
+wai4 ou1 si1
+WEEKDAY
+wei4 ke1 de2 ei1
+weekday
+wei4 ke1 de2 ei1
+YA
+ya4
+ya
+ya4
+YE
+yi4
+ye
+yi4
+YEAR
+yi4 er2
+year
+yi4 er2
+YVP
+ya4 pu3
+yvp
+ya4 pu3
+GPRS
+ji4 pi4 a2 ai2 si5
+gprs
+ji4 pi4 a2 ai2 si5
+MF
+ai2 mu5 ai2 fu5
+mf
+ai2 mu5 ai2 fu5
+AAAB
+ei1 ei1 ei1 bi4
+aaab
+ei1 ei1 ei1 bi4
+ABC
+ei1 bi4 ci1 yi1
+abc
+ei1 bi4 ci1 yi1
+ABCD
+ei1 bi4 ci1 yi1 di4
+abcd
+ei1 bi4 ci1 yi1 di4
+ABCDF
+ei1 bi4 ci1 yi1 di4 ai2 fu5
+abcdf
+ei1 bi4 ci1 yi1 di4 ai2 fu5
+ABCDFG
+ei1 bi4 ci1 yi1 di4 ai2 fu5 ji4
+abcdfg
+ei1 bi4 ci1 yi1 di4 ai2 fu5 ji4
+BFP
+bi4 ai2 fu5 pi4
+bfp
+bi4 ai2 fu5 pi4
+BI
+bi4 ai4
+bi
+bi4 ai4
+CN
+ci1 yi1 en1
+cn
+ci1 yi1 en1
+IE
+ai4 yi4
+ie
+ai4 yi4
+KAI
+kei1 ei1 ai4
+kai
+kei1 ei1 ai4
+KAIKIAN
+kei1 ei1 ai4 ke1 ei1 ai4 ei1 en1
+kaikian
+kei1 ei1 ai4 ke1 ei1 ai4 ei1 en1
+KIAN
+kei1 ai4 ei1 en1
+kian
+kei1 ai4 ei1 en1
+LI
+ai2 ou5 ai4
+li
+ai2 ou5 ai4
+LILI
+ai2 ou5 ai4 ai2 ou5 ai4
+lili
+ai2 ou5 ai4 ai2 ou5 ai4
+LOGO
+lou1 gou1
+logo
+lou1 gou1
+MO
+ai2 mu5 ou1
+mo
+ai2 mu5 ou1
+MOIGEN
+ai2 mu5 ou1 ai4 ji4 yi4 en1
+moigen
+ai2 mu5 ou1 ai4 ji4 yi4 en1
+NG
+en1 ji4
+ng
+en1 ji4
+VISA
+wei1 sa1
+visa
+wei1 sa1
+WAP
+da2 bu5 lv5 ei1 pi4
+wap
+da2 bu5 lv5 ei1 pi4
+APPLE
+ai1 pou1
+apple
+ai1 pou1
+AB
+ei1 bi4
+ab
+ei1 bi4
+ADD
+ei1 di4 di4
+add
+ei1 di4 di4
+AN
+ei1 en4
+an
+ei1 en4
+ANG
+ei1 en4 ji4
+ang
+ei1 en4 ji4
+AR
+ei1 ar2
+ar
+ei1 ar2
+BK
+bi4 kei1
+bk
+bi4 kei1
+CC
+xi1 xi1
+cc
+xi1 xi1
+CCM
+xi1 xi1 ai2 mu5
+ccm
+xi1 xi1 ai2 mu5
+CG
+xi1 ji4
+cg
+xi1 ji4
+CH
+xi1 ai2 qv5
+ch
+xi1 ai2 qv5
+CHAN
+xi1 ai2 qv5 ei1 en4
+chan
+xi1 ai2 qv5 ei1 en4
+CHANG
+xi1 ai2 qv5 ei1 en4 ji4
+chang
+xi1 ai2 qv5 ei1 en4 ji4
+CHANGMUN
+xi1 ai2 qv5 ei1 en4 ji4 ai2 mu5 you1 en1
+changmun
+xi1 ai2 qv5 ei1 en4 ji4 ai2 mu5 you1 en1
+CHIN
+xi1 ai2 qv5 ai4 en1
+chin
+xi1 ai2 qv5 ai4 en1
+CHING
+xi1 ai2 qv5 ai4 en1 ji4
+ching
+xi1 ai2 qv5 ai4 en1 ji4
+CHUCHIAYEN
+xi1 ai2 qv5 you1 xi1 ei1 chi1 ai4 ei1 wai4 yi4 en1
+chuchiayen
+xi1 ai2 qv5 you1 xi1 ei1 chi1 ai4 ei1 wai4 yi4 en1
+COM
+xi1 ou1 ai2 mu5
+com
+xi1 ou1 ai2 mu5
+CT
+xi1 ti4
+ct
+xi1 ti4
+GHENG
+ji4 ai2 qv5 yi4 en1 zhe4 ei1
+gheng
+ji4 ai2 qv5 yi4 en1 zhe4 ei1
+GM
+ji4 ai2 mu5
+gm
+ji4 ai2 mu5
+GUANG
+ji4 you1 en1 zhe4 ei1
+guang
+ji4 you1 en1 zhe4 ei1
+HN
+ai2 qv5 en1
+hn
+ai2 qv5 en1
+HTTP
+ai2 qv5 ti4 ti4 pi4
+http
+ai2 qv5 ti4 ti4 pi4
+HUA
+ai2 qv5 you1 ei1
+hua
+ai2 qv5 you1 ei1
+HUANG
+ai2 qv5 you1 ei1 en4 ji4
+huang
+ai2 qv5 you1 ei1 en4 ji4
+HUI
+ai2 qv5 you1 ai4
+hui
+ai2 qv5 you1 ai4
+HUING
+ai2 qv5 you1 ai4 en1 ji4
+huing
+ai2 qv5 you1 ai4 en1 ji4
+J
+jie1
+j
+jie1
+JIA
+jie1 ai4 ei1
+jia
+jie1 ai4 ei1
+JIX
+jie1 ai4 ai2 ke2 si5
+jix
+jie1 ai4 ai2 ke2 si5
+KL
+kei1 ai2 ou5
+kl
+kei1 ai2 ou5
+KV
+kei1 wei1
+kv
+kei1 wei1
+LIN
+ai2 ou5 ai4 en1
+lin
+ai2 ou5 ai4 en1
+LOVE
+ai2 ou5 ou1 wei1 yi4
+love
+ai2 ou5 ou1 wei1 yi4
+MB
+ai2 mu5 bi4
+mb
+ai2 mu5 bi4
+MBY
+ai2 mu5 bi4 wai4
+mby
+ai2 mu5 bi4 wai4
+MBYR
+ai2 mu5 bi4 wai4 ar2
+mbyr
+ai2 mu5 bi4 wai4 ar2
+MC
+ai2 mu5 xi1
+mc
+ai2 mu5 xi1
+MFQ
+ai2 mu5 ai2 fu5 ke1 you1
+mfq
+ai2 mu5 ai2 fu5 ke1 you1
+MG
+ai2 mu5 ji4
+mg
+ai2 mu5 ji4
+ML
+ai2 mu5 ai2 ou5
+ml
+ai2 mu5 ai2 ou5
+MUN
+ai2 mu5 you1 en1
+mun
+ai2 mu5 you1 en1
+MV
+ai2 mu5 wei1
+mv
+ai2 mu5 wei1
+NET
+en1 yi4 ti4
+net
+en1 yi4 ti4
+NF
+en1 ai2 fu5
+nf
+en1 ai2 fu5
+NGOH
+en1 ji4 ou4 ai2 qv5
+ngoh
+en1 ji4 ou4 ai2 qv5
+NL
+en1 ai2 ou5
+nl
+en1 ai2 ou5
+NLXDQD
+en1 ai2 ou5 ai2 ke2 si5 di4 ke1 you1 di4
+nlxdqd
+en1 ai2 ou5 ai2 ke2 si5 di4 ke1 you1 di4
+NT
+en1 ti4
+nt
+en1 ti4
+NTG
+en1 ti4 ji4
+ntg
+en1 ti4 ji4
+OHN
+ou1 ai2 qv5 en1
+ohn
+ou1 ai2 qv5 en1
+OO
+ou1 ou1
+oo
+ou1 ou1
+OVE
+ou1 wei1 yi4
+ove
+ou1 wei1 yi4
+PHON
+pi4 ai2 qv5 ou1 en1
+phon
+pi4 ai2 qv5 ou1 en1
+POH
+pi4 ou1 ai2 qv5
+poh
+pi4 ou1 ai2 qv5
+POHN
+pi4 ou1 ai2 qv5 en1
+pohn
+pi4 ou1 ai2 qv5 en1
+PU
+pi4 you1
+pu
+pi4 you1
+SE
+ai2 si5 yi4
+se
+ai2 si5 yi4
+THING
+ti4 ai2 qv5 ai4 en1 ji4
+thing
+ti4 ai2 qv5 ai4 en1 ji4
+TKN
+ti4 kei1 en1
+tkn
+ti4 kei1 en1
+UK
+you1 kei1
+uk
+you1 kei1
+UN
+you1 en1
+un
+you1 en1
+USE
+you1 ai2 si5 yi4
+use
+you1 ai2 si5 yi4
+WANG
+da2 bu5 lv5 ei1 en1 ji4
+wang
+da2 bu5 lv5 ei1 en1 ji4
+WEI
+da2 bu5 lv5 yi4 ai4
+wei
+da2 bu5 lv5 yi4 ai4
+WENG
+da2 bu5 lv5 yi4 en1 ji4
+weng
+da2 bu5 lv5 yi4 en1 ji4
+WW
+da2 bu5 lv5 da2 bu5 lv5
+ww
+da2 bu5 lv5 da2 bu5 lv5
+XDQD
+ai2 ke2 si5 di4 ke1 you1 di4
+xdqd
+ai2 ke2 si5 di4 ke1 you1 di4
+XUAN
+ai2 ke2 si5 you1 ei4 en1
+xuan
+ai2 ke2 si5 you1 ei4 en1
+XY
+ai2 ke2 si5 wai4
+xy
+ai2 ke2 si5 wai4
+XYZ
+ai2 ke2 si5 wai4 zei4
+xyz
+ai2 ke2 si5 wai4 zei4
+YA
+wai4 ei1
+ya
+wai4 ei1
+YAHOO
+wai4 ei1 ai2 qv5 ou1 ou1
+yahoo
+wai4 ei1 ai2 qv5 ou1 ou1
+YAP
+wai4 ei1 pi4
+yap
+wai4 ei1 pi4
+YE
+wai4 yi4
+ye
+wai4 yi4
+YEN
+wai4 yi4 en1
+yen
+wai4 yi4 en1
+YENHUANG
+wai4 yi4 en1 ai2 qv5 you1 ei1 en1 ji4
+yenhuang
+wai4 yi4 en1 ai2 qv5 you1 ei1 en1 ji4
+YENHUANGHUA
+wai4 yi4 en1 ai2 qv5 you1 ei1 en1 ji4 ai2 qv5 you1 ei1
+yenhuanghua
+wai4 yi4 en1 ai2 qv5 you1 ei1 en1 ji4 ai2 qv5 you1 ei1
+YI
+wai4 ai4
+yi
+wai4 ai4
+YT
+wai4 ti4
+yt
+wai4 ti4
+YUTINGNS
+wai4 you1 ti4 ai4 en1 ji4 en1 ai2 si5
+yutingns
+wai4 you1 ti4 ai4 en1 ji4 en1 ai2 si5
+ZIFU
+zei4 ai4 ai2 fu5 you1
+zifu
+zei4 ai4 ai2 fu5 you1
+AMERICA
+e1 mai3 rui4 ke4
+america
+e1 mai3 rui4 ke4
+BUSY
+bi1 zei2
+busy
+bi1 zei2
+DIALED
+dai4 ou1 de2
+dialed
+dai4 ou1 de2
+GERMANY
+zhe4 me5 ni4
+germany
+zhe4 me5 ni4
+HONGKONG
+hang1 kang4
+hongkong
+hang1 kang4
+INDIA
+yin1 di4 a4
+india
+yin1 di4 a4
+JAPAN
+zhe4 pan2
+japan
+zhe4 pan2
+KINGDOM
+ke1 yin1 de1 mu4
+kingdom
+ke1 yin1 de1 mu4
+LOVE
+la4 wu1
+love
+la4 wu1
+MALAYSIA
+mo4 lei1 she3
+malaysia
+mo4 lei1 she3
+MAN
+man4
+man
+man4
+MASTER
+ma1 si1 te4 er2
+master
+ma1 si1 te4 er2
+NORWAY
+nao1 wei4
+norway
+nao1 wei4
+PEOPLE
+pi1 pou1
+people
+pi1 pou1
+ROSE
+rou4 zi1
+rose
+rou4 zi1
+UGANDA
+you1 gan1 da2
+uganda
+you1 gan1 da2
+YAHOO
+ya3 hu3
+yahoo
+ya3 hu3
+JF
+jie1 ai2 fu2
+jf
+jie1 ai2 fu2
+JKZ
+jie1 kei4 zi4
+jkz
+jie1 kei4 zi4
+KFS
+kei4 ai2 fu2 ai2 si4
+kfs
+kei4 ai2 fu2 ai2 si4
+KZ
+kei4 zi4
+kz
+kei4 zi4
+LRPM
+ai2 ou4 a2 pi4 ai2 mu4
+lrpm
+ai2 ou4 a2 pi4 ai2 mu4
+LZWA
+ai2 ou4 zi4 da2 bu4 liu2 ei1
+lzwa
+ai2 ou4 zi4 da2 bu4 liu2 ei1
+NQ
+en1 ke1 you1
+nq
+en1 ke1 you1
+SVW
+ai2 si4 wei1 da2 bu4 liu2
+svw
+ai2 si4 wei1 da2 bu4 liu2
+POSE
+pi4 ou1 ai2 si4 yi4
+pose
+pi4 ou1 ai2 si4 yi4
+BD
+bi4 di4
+bd
+bi4 di4
+CEB
+si1 yi4 bi4
+ceb
+si1 yi4 bi4
+CEBBANK
+si1 yi4 bi4 bi4 ei1 en1 kei1
+cebbank
+si1 yi4 bi4 bi4 ei1 en1 kei1
+CVV
+si1 wei1 wei1
+cvv
+si1 wei1 wei1
+ETC
+yi4 ti1 si1
+etc
+yi4 ti1 si1
+EXE
+yi4 ai2 ke2 si5 yi4
+exe
+yi4 ai2 ke2 si5 yi4
+GCB
+ji4 si1 bi4
+gcb
+ji4 si1 bi4
+HAUNTED
+ai2 qv5 ei1 you1 en1 ti1 yi4 di4
+haunted
+ai2 qv5 ei1 you1 en1 ti1 yi4 di4
+INTERNET
+ai1 en1 ti1 yi4 a2 en1 yi4 ti1
+internet
+ai1 en1 ti1 yi4 a2 en1 yi4 ti1
+NAG
+en1 ei1 ji4
+nag
+en1 ei1 ji4
+QIN
+kiu1 ai1 en1
+qin
+kiu1 ai1 en1
+TAN
+ti1 ei1 en1
+tan
+ti1 ei1 en1
+TANG
+ti1 ei1 en1 ji4
+tang
+ti1 ei1 en1 ji4
+XP
+ai2 ke2 si5 pi4
+xp
+ai2 ke2 si5 pi4
+CLUB
+si1 ei1 ai2 ou5 you1 bi4
+club
+si1 ei1 ai2 ou5 you1 bi4
+DVD
+di4 wei1 di4
+dvd
+di4 wei1 di4
+SHI
+ai2 si5 ei2 ai2 qv5
+shi
+ai2 si5 ei2 ai2 qv5
+SHI
+shi4
+shi
+shi4
+SOU
+ai2 si5 ou1 you1
+sou
+ai2 si5 ou1 you1
+VCD
+wei1 si1 ei1 di4
+vcd
+wei1 si1 ei1 di4
+ZHU
+zhi1 wu2
+zhu
+zhi1 wu2
+ZHU
+zi1 ei4 ai2 qv5 you1
+zhu
+zi1 ei4 ai2 qv5 you1
+ZHUO
+zi1 ei4 ai2 qv5 you1 ou1
+zhuo
+zi1 ei4 ai2 qv5 you1 ou1
+ZUAN
+zi1 ei4 you1 ei1 en1
+zuan
+zi1 ei4 you1 ei1 en1
+ZUAN
+zi1 wu1 an4
+zuan
+zi1 wu1 an4
+BOY
+bo4 ei4
+boy
+bo4 ei4
+POLO
+pou1 lou4
+polo
+pou1 lou4
+CANADA
+ka1 na2 da4
+canada
+ka1 na2 da4
+ENGLISH
+ying1 ge5 li4 shi5
+english
+ying1 ge5 li4 shi5
+WIN
+wen1
+win
+wen1
+SAFARI
+sa1 fa1 rui4
+safari
+sa1 fa1 rui4
+WIFI
+wai1 fa1 ai4
+wifi
+wai1 fa1 ai4
+HASH
+ha4 shi1
+hash
+ha4 shi1
+IPHONE
+ai1 feng4
+iphone
+ai1 feng4
+ITUNES
+ai1 tun4 si1
+itunes
+ai1 tun4 si1
+NANO
+na1 nao4
+nano
+na1 nao4
+POS
+pou1 si1
+pos
+pou1 si1
+WORDING
+wo1 er2 ding1
+wording
+wo1 er2 ding1
+CXLL
+xi1 ai1 ke1 si1 ai1 ai1
+cxll
+xi1 ai1 ke1 si1 ai1 ai1
+POS
+pou1 si1
+pos
+pou1 si1
+SNS
+ai1 si1 en1 ai1 si1
+sns
+ai1 si1 en1 ai1 si1
+SOS
+ai1 si1 ou1 ai1 si1
+sos
+ai1 si1 ou1 ai1 si1
+SS
+ai1 si1 ai1 si1
+ss
+ai1 si1 ai1 si1
+P
+pi4
+p
+pi4
+ABCC
+ei1 bi4 si1 ei1 si1 ei1
+abcc
+ei1 bi4 si1 ei1 si1 ei1
+AD
+ei1 di4
+ad
+ei1 di4
+AP
+ei1 pi4
+ap
+ei1 pi4
+APN
+ei1 pi4 en1
+apn
+ei1 pi4 en1
+APP
+ei1 pi4 pi4
+app
+ei1 pi4 pi4
+BJ
+bi4 gou1
+bj
+bi4 gou1
+BJ
+bi4 zhei4
+bj
+bi4 zhei4
+BYD
+bi4 wai4 di4
+byd
+bi4 wai4 di4
+BZ
+bi4 zi1 ei4
+bz
+bi4 zi1 ei4
+CARD
+si1 ei1 ei1 ar2 di4
+card
+si1 ei1 ei1 ar2 di4
+CD
+si1 ei1 di4
+cd
+si1 ei1 di4
+CDMA
+si1 ei1 di4 ai2 mu5 ei1
+cdma
+si1 ei1 di4 ai2 mu5 ei1
+CEMCC
+si1 ei1 yi4 ai2 mu5 si1 ei1 si1 ei1
+cemcc
+si1 ei1 yi4 ai2 mu5 si1 ei1 si1 ei1
+CHINA
+si1 ei1 ai2 qv5 ai4 en1 ei1
+china
+si1 ei1 ai2 qv5 ai4 en1 ei1
+CM
+si1 ei1 ai2 mu5
+cm
+si1 ei1 ai2 mu5
+CMA
+si1 ei1 ai2 mu5 ei1
+cma
+si1 ei1 ai2 mu5 ei1
+CMCC
+si1 ei1 ai2 mu5 si1 ei1 si1 ei1
+cmcc
+si1 ei1 ai2 mu5 si1 ei1 si1 ei1
+CMENT
+si1 ei1 ai2 mu5 yi4 en1 ti4
+cment
+si1 ei1 ai2 mu5 yi4 en1 ti4
+CMNET
+si1 ei1 ai2 mu5 en1 yi4 ti4
+cmnet
+si1 ei1 ai2 mu5 en1 yi4 ti4
+CMNTNT
+si1 ei1 ai2 mu5 en1 ti4 en1 ti4
+cmntnt
+si1 ei1 ai2 mu5 en1 ti4 en1 ti4
+CMWAP
+si1 ei1 ai2 mu5 da2 bu5 lv5 ei1 pi4
+cmwap
+si1 ei1 ai2 mu5 da2 bu5 lv5 ei1 pi4
+CMWAT
+si1 ei1 ai2 mu5 da2 bu5 lv5 ei1 ti4
+cmwat
+si1 ei1 ai2 mu5 da2 bu5 lv5 ei1 ti4
+CMWEP
+si1 ei1 ai2 mu5 da2 bu5 lv5 yi4 pi4
+cmwep
+si1 ei1 ai2 mu5 da2 bu5 lv5 yi4 pi4
+CS
+si1 ei1 ai2 si5
+cs
+si1 ei1 ai2 si5
+CSL
+si1 ei1 ai2 si5 ai2 ou5
+csl
+si1 ei1 ai2 si5 ai2 ou5
+CSYL
+si1 ei1 ai2 si5 wai4 ai2 ou5
+csyl
+si1 ei1 ai2 si5 wai4 ai2 ou5
+CW
+si1 ei1 da2 bu5 lv5
+cw
+si1 ei1 da2 bu5 lv5
+CWNET
+si1 ei1 da2 bu5 lv5 en1 yi4 ti4
+cwnet
+si1 ei1 da2 bu5 lv5 en1 yi4 ti4
+CXGLL
+si1 ei1 ai2 ke2 si5 ji4 ai2 lou4 ai2 ou5
+cxgll
+si1 ei1 ai2 ke2 si5 ji4 ai2 lou4 ai2 ou5
+CXYE
+si1 ei1 ai2 ke2 si5 wai4 yi4
+cxye
+si1 ei1 ai2 ke2 si5 wai4 yi4
+CZWLAN
+si1 ei1 zi1 ei4 da2 bu5 lv5 ai2 ou5 ei1 en1
+czwlan
+si1 ei1 zi1 ei4 da2 bu5 lv5 ai2 ou5 ei1 en1
+DC
+di4 si1 ei1
+dc
+di4 si1 ei1
+DZ
+di4 zi1 ei4
+dz
+di4 zi1 ei4
+EDU
+yi4 di4 you1
+edu
+yi4 di4 you1
+EO
+yi4 ou1
+eo
+yi4 ou1
+FK
+ai2 fu5 kei1
+fk
+ai2 fu5 kei1
+GFHB
+ji4 ai2 fu5 ai2 qv5 bi4
+gfhb
+ji4 ai2 fu5 ai2 qv5 bi4
+GP
+ji4 pi4
+gp
+ji4 pi4
+GPD
+ji4 pi4 di4
+gpd
+ji4 pi4 di4
+GPR
+ji4 pi4 ar2
+gpr
+ji4 pi4 ar2
+GPS
+ji4 pi4 ai2 si5
+gps
+ji4 pi4 ai2 si5
+GPSR
+ji4 pi4 ai2 si5 ar2
+gpsr
+ji4 pi4 ai2 si5 ar2
+GSM
+ji4 ai2 si5 ai2 mu5
+gsm
+ji4 ai2 si5 ai2 mu5
+GSRS
+ji4 ai2 si5 ar2 ai2 si4
+gsrs
+ji4 ai2 si5 ar2 ai2 si4
+HF
+ai2 qv5 ai2 fu5
+hf
+ai2 qv5 ai2 fu5
+HFFZLL
+ai2 qv5 ai2 fu5 ai2 fu4 zi1 ei4 ai2 ou5 ai2 ou5
+hffzll
+ai2 qv5 ai2 fu5 ai2 fu4 zi1 ei4 ai2 ou5 ai2 ou5
+HTC
+ai2 qv5 ti4 si1 ei1
+htc
+ai2 qv5 ti4 si1 ei1
+IN
+ai4 en1
+in
+ai4 en1
+INN
+ai4 en1 en1
+inn
+ai4 en1 en1
+IP
+ai4 pi4
+ip
+ai4 pi4
+IPN
+ai4 pi4 en1
+ipn
+ai4 pi4 en1
+IT
+ai4 ti4
+it
+ai4 ti4
+KB
+kei1 bi4
+kb
+kei1 bi4
+KPHYJHN
+kei1 pi4 ai2 qv5 wai4 gou1 ai2 qv5 en1
+kphyjhn
+kei1 pi4 ai2 qv5 wai4 gou1 ai2 qv5 en1
+KPHYJHN
+kei1 pi4 ai2 qv5 wai4 zhei4 ai2 qv5 en1
+kphyjhn
+kei1 pi4 ai2 qv5 wai4 zhei4 ai2 qv5 en1
+KPSY
+kei1 pi4 ai2 si5 wai4
+kpsy
+kei1 pi4 ai2 si5 wai4
+KT
+kei1 ti4
+kt
+kei1 ti4
+KTCKB
+kei1 ti4 si1 ei1 ke1 ei4 bi4
+ktckb
+kei1 ti4 si1 ei1 ke1 ei4 bi4
+KTCL
+kei1 ti4 si1 ei1 ai2 ou5
+ktcl
+kei1 ti4 si1 ei1 ai2 ou5
+KTGM
+kei1 ti4 ji4 ai2 mu5
+ktgm
+kei1 ti4 ji4 ai2 mu5
+KTGTFK
+kei1 ti4 ji4 ti4 ai2 fu5 ke1 ei4
+ktgtfk
+kei1 ti4 ji4 ti4 ai2 fu5 ke1 ei4
+KTLB
+kei1 ti4 ai2 ou5 bi4
+ktlb
+kei1 ti4 ai2 ou5 bi4
+KTLCYJ
+kei1 ti4 ai2 ou5 si1 ei1 wai4 gou1
+ktlcyj
+kei1 ti4 ai2 ou5 si1 ei1 wai4 gou1
+KTLCYJ
+kei1 ti4 ai2 ou5 si1 ei1 wai4 zhei4
+ktlcyj
+kei1 ti4 ai2 ou5 si1 ei1 wai4 zhei4
+KTQSL
+kei1 ti4 ke1 you4 ai2 si5 ai2 ou5
+ktqsl
+kei1 ti4 ke1 you4 ai2 si5 ai2 ou5
+KTSJLL
+kei1 ti4 ai2 si5 gou1 ai2 ou5 ai2 ou5
+ktsjll
+kei1 ti4 ai2 si5 gou1 ai2 ou5 ai2 ou5
+KTSJLL
+kei1 ti4 ai2 si5 zhei4 ai2 ou5 ai2 ou5
+ktsjll
+kei1 ti4 ai2 si5 zhei4 ai2 ou5 ai2 ou5
+KTXYKJ
+kei1 ti4 ai2 ke2 si5 wai4 kei1 gou1
+ktxykj
+kei1 ti4 ai2 ke2 si5 wai4 kei1 gou1
+KTXYKJ
+kei1 ti4ai2 ke2 si5 wai4 kei1 zhei4
+ktxykj
+kei1 ti4ai2 ke2 si5 wai4 kei1 zhei4
+LAN
+ai2 ou5 ei1 en1
+lan
+ai2 ou5 ei1 en1
+LG
+ai2 ou5 ji4
+lg
+ai2 ou5 ji4
+LTC
+ai2 ou5 ti4 si1 ei1
+ltc
+ai2 ou5 ti4 si1 ei1
+MCC
+ai2 mu5 si1 ei1 si1 ei1
+mcc
+ai2 mu5 si1 ei1 si1 ei1
+ME
+ai2 mu5 yi4
+me
+ai2 mu5 yi4
+MENU
+ai2 mu5 yi4 en1 you1
+menu
+ai2 mu5 yi4 en1 you1
+MM
+ai2 mu5 ai2 mu5
+mm
+ai2 mu5 ai2 mu5
+MMMSC
+ai2 mu5 ai2 mu5 ai2 mu5 ai2 si5 si1 ei1
+mmmsc
+ai2 mu5 ai2 mu5 ai2 mu5 ai2 si5 si1 ei1
+MMSC
+ai2 mu5 ai2 mu5 ai2 si5 si1 ei1
+mmsc
+ai2 mu5 ai2 mu5 ai2 si5 si1 ei1
+MOBILE
+ai2 mu5 ou1 bi4 ai4 ai2 ou5 yi4
+mobile
+ai2 mu5 ou1 bi4 ai4 ai2 ou5 yi4
+MOMENT
+ai2 mu5 ou1 ai2 mu5 yi4 en1 ti4
+moment
+ai2 mu5 ou1 ai2 mu5 yi4 en1 ti4
+MONTERNET
+ai2 mu5 ou1 en1 ti4 yi4 ar2 en1 yi4 ti4
+monternet
+ai2 mu5 ou1 en1 ti4 yi4 ar2 en1 yi4 ti4
+MPPT
+ai2 mu5 pi4 pi4 ti4
+mppt
+ai2 mu5 pi4 pi4 ti4
+MSN
+ai2 mu5 ai2 si5 en1
+msn
+ai2 mu5 ai2 si5 en1
+MT
+ai2 mu5 ti4
+mt
+ai2 mu5 ti4
+NA
+en1 ei1
+na
+en1 ei1
+OK
+ou1 kei1
+ok
+ou1 kei1
+ORANGE
+ou1 ar2 ei1 en1 ji4 yi4
+orange
+ou1 ar2 ei1 en1 ji4 yi4
+PD
+pi4 di4
+pd
+pi4 di4
+PDCDMA
+pi4 di4 si1 ei1 di4 ai2 mu5 ei1
+pdcdma
+pi4 di4 si1 ei1 di4 ai2 mu5 ei1
+PDSCDMA
+pi4 di4 ai2 si5 si1 ei1 di4 ai2 mu5 ei1
+pdscdma
+pi4 di4 ai2 si5 si1 ei1 di4 ai2 mu5 ei1
+PIN
+pi4 ai4 en1
+pin
+pi4 ai4 en1
+PM
+pi4 ai2 mu5
+pm
+pi4 ai2 mu5
+PMN
+pi4 ai2 mu5 en1
+pmn
+pi4 ai2 mu5 en1
+PMNE
+pi4 ai2 mu5 en1 yi4
+pmne
+pi4 ai2 mu5 en1 yi4
+POK
+pi4 ou1 kei1
+pok
+pi4 ou1 kei1
+PRS
+pi4 ar2 ai2 si5
+prs
+pi4 ar2 ai2 si5
+PS
+pi4 ai2 si5
+ps
+pi4 ai2 si5
+PSR
+pi4 ai2 si5 ar2
+psr
+pi4 ai2 si5 ar2
+PUK
+pi4 you1 kei1
+puk
+pi4 you1 kei1
+PX
+pi4 ai2 ke2 si5
+px
+pi4 ai2 ke2 si5
+QKTQSL
+ke1 you4 kei1 ti4 ke1 you4 ai2 si5 ai2 ou5
+qktqsl
+ke1 you4 kei1 ti4 ke1 you4 ai2 si5 ai2 ou5
+QSL
+ke1 you4 ai2 si5 ai2 ou5
+qsl
+ke1 you4 ai2 si5 ai2 ou5
+QXSSL
+ke1 you4 ai2 ke2 si5 ai2 si5 ai2 si5 ai2 ou5
+qxssl
+ke1 you4 ai2 ke2 si5 ai2 si5 ai2 si5 ai2 ou5
+RT
+ar2 ti4
+rt
+ar2 ti4
+SB
+ai2 si5 bi4
+sb
+ai2 si5 bi4
+SFR
+ai2 si5 ai2 fu5 ar2
+sfr
+ai2 si5 ai2 fu5 ar2
+SGH
+ai2 si5 ji4 ai2 qv5
+sgh
+ai2 si5 ji4 ai2 qv5
+SGHE
+ai2 si5 ji4 ai2 qv5 yi4
+sghe
+ai2 si5 ji4 ai2 qv5 yi4
+SIM
+ai2 si5 ai4 ai2 mu5
+sim
+ai2 si5 ai4 ai2 mu5
+SIM
+si1 yi4 mu5
+sim
+si1 yi4 mu5
+SM
+ai2 si5 ai2 mu5
+sm
+ai2 si5 ai2 mu5
+SSA
+ai2 si5 ai2 si5 ei1
+ssa
+ai2 si5 ai2 si5 ei1
+TB
+ti4 bi4
+tb
+ti4 bi4
+TCL
+ti4 si1 ei1 ai2 ou5
+tcl
+ti4 si1 ei1 ai2 ou5
+TD
+ti4 di4
+td
+ti4 di4
+TDS
+ti4 di4 ai2 si5
+tds
+ti4 di4 ai2 si5
+TDSCDMA
+ti4 di4 ai2 si5 si1 ei1 di4 ai2 mu5 ei1
+tdscdma
+ti4 di4 ai2 si5 si1 ei1 di4 ai2 mu5 ei1
+TO
+ti4 ou1
+to
+ti4 ou1
+TP
+ti4 pi4
+tp
+ti4 pi4
+USIM
+you1 ai2 si5 ai4 ai2 mu5
+usim
+you1 ai2 si5 ai4 ai2 mu5
+VLANWLIN
+wei1 ai2 ou5 ei1 en1 da2 bu5 lv5 ai2 lou4 ai4 en1
+vlanwlin
+wei1 ai2 ou5 ei1 en1 da2 bu5 lv5 ai2 lou4 ai4 en1
+VPMN
+wei1 pi4 ai2 mu5 en1
+vpmn
+wei1 pi4 ai2 mu5 en1
+WCDM
+da2 bu5 lv5 si1 ei1 di4 ai2 mu5
+wcdm
+da2 bu5 lv5 si1 ei1 di4 ai2 mu5
+WCDMA
+da2 bu5 lv5 si1 ei1 di4 ai2 mu5 ei1
+wcdma
+da2 bu5 lv5 si1 ei1 di4 ai2 mu5 ei1
+WCMWAP
+da2 bu5 lv5 ai2 mu5 da2 bu4 liu1 ei1 pi4
+wcmwap
+da2 bu5 lv5 ai2 mu5 da2 bu4 liu1 ei1 pi4
+WEB
+da2 bu5 lv5 yi4 bi4
+web
+da2 bu5 lv5 yi4 bi4
+WFIA
+da2 bu5 lv5 ai2 fu5 ai4 ei1
+wfia
+da2 bu5 lv5 ai2 fu5 ai4 ei1
+WIFI
+da2 bu5 lv5 ai4 ai2 fu5 ai4
+wifi
+da2 bu5 lv5 ai4 ai2 fu5 ai4
+WIFI
+wai1 fo2 ai4
+wifi
+wai1 fo2 ai4
+WLAN
+da2 bu5 lv5 ai2 ou5 ei1 en1
+wlan
+da2 bu5 lv5 ai2 ou5 ei1 en1
+WLAN
+da2 bu5 lv5 lei4 en1
+wlan
+da2 bu5 lv5 lei4 en1
+WLIN
+da2 bu5 lv5 ai2 ou5 ai4 en1
+wlin
+da2 bu5 lv5 ai2 ou5 ai4 en1
+YCXVIP
+wai4 si1 ei1 ai2 ke2 si5 wei1 ai4 pi4
+ycxvip
+wai4 si1 ei1 ai2 ke2 si5 wei1 ai4 pi4
+YX
+wai4 ai2 ke2 si5
+yx
+wai4 ai2 ke2 si5
+YXC
+wai4 ai2 ke2 si5 si1 ei1
+yxc
+wai4 ai2 ke2 si5 si1 ei1
+YXCAVIP
+wai4 ai2 ke2 si5 si1 ei1 ei1 wei1 ai4 pi4
+yxcavip
+wai4 ai2 ke2 si5 si1 ei1 ei1 wei1 ai4 pi4
+YXCVIP
+wai4 ai2 ke2 si5 si1 ei1 wei1 ai4 pi4
+yxcvip
+wai4 ai2 ke2 si5 si1 ei1 wei1 ai4 pi4
+YXYZ
+wai4 ai2 ke2 si5 wai4 zi1 ei4
+yxyz
+wai4 ai2 ke2 si5 wai4 zi1 ei4
+APP
+a4 pu5
+app
+a4 pu5
+IPHONE
+ai1 feng4
+iphone
+ai1 feng4
+MOBILE
+mou1 bai4 ou4
+mobile
+mou1 bai4 ou4
+PAD
+pai4 de5
+pad
+pai4 de5
+PUSH
+pu4 shi5
+push
+pu4 shi5
+STORE
+si3 duo4
+store
+si3 duo4
+ZONE
+zou4 en5
+zone
+zou4 en5
+Ò«
+yao4
+Éæ
+she4
+Ì¸
+tan2
+ÒÁ
+yi1
+¶´
+dong4
+ßÛ
+guang1
+â©
+hu2
+í¨
+que4
+ºÓ
+he2
+ÁÙ
+lin2
+áî
+guang3
+Îü
+xi1
+æ½
+chang1
+Ïß
+xian4
+·´
+fan3
+ÅÆ
+pai2
+³û
+chu2
+¹Ã
+gu1
+÷¦
+le4
+Â¬
+lu2
+³ı
+chu2
+±ë
+biao1
+ÄÖ
+nao4
+Ø¥
+nian4
+¸²
+fu4
+¹õ
+gun3
+óº
+mie4
+õØ
+chi2
+ÀÜ
+lei3
+ğ«
+po2
+±À
+beng1
+·Ò
+fen1
+Ò±
+ye3
+îß
+bu1
+÷À
+ge2
+êã
+lai4
+äÒ
+huang2
+õÈ
+li4
+¶ë
+e2
+é¢
+chui2
+áÙ
+bin1
+µÎ
+di1
+Ğë
+xu1
+Äõ
+nie4
+Â¹
+lu4
+³Á
+chen2
+ºó
+hou4
+±®
+bei1
+²Í
+can1
+²À
+bu4
+Úú
+fang1
+íÎ
+zhai4
+öé
+huan4
+¿İ
+ku1
+°é
+ban4
+çè
+dian4
+åÔ
+wei1
+Àë
+li2
+ôà
+yi4
+ä¥
+zhen1
+ÛÖ
+he4
+Øè
+wang3
+îÂ
+guan4
+ñÑ
+biao3
+Ôî
+zao4
+ï©
+lao2
+Òö
+yin1
+·Ş
+fen4
+Ñá
+yan4
+Ç¥
+qian1
+æì
+ke4
+Üø
+ming2
+ñÚ
+lv3
+³«
+chang4
+ìÚ
+yi4
+Âà
+luo2
+ôù
+chi3
+¿Ë
+ke4
+ğÉ
+hu2
+¾Ş
+ju4
+÷õ
+can3
+ôñ
+jiu1
+óû
+dou1
+³İ
+chi3
+Ò¨
+yao3
+ÌÑ
+tao2
+ä÷
+gan3
+ÍÚ
+wa1
+·û
+fu2
+Åû
+pi1
+òâ
+yu4
+ìÄ
+zhu4
+ïñ
+zhong1
+÷ı
+han1
+Ëù
+suo3
+Éã
+she4
+¹à
+guan4
+èÔ
+xia2
+Øú
+ning4
+¾¤
+jing1
+Ñ§
+xue2
+ôæ
+pian1
+ğÒ
+liu4
+ÓÕ
+you4
+Øò
+pi3
+¼ù
+jian4
+îÀ
+zeng1
+ê¾
+ze4
+ëö
+lv3
+±ê
+biao1
+Ô½
+yue4
+çö
+lian3
+Âø
+man2
+²í
+cha4
+ºÄ
+hao4
+ÚÓ
+mo2
+¿ï
+kuang1
+åó
+nu3
+æı
+wan2
+ä­
+xun2
+ÛÌ
+si1
+¶®
+dong3
+Åä
+pei4
+÷Î
+chi1
+Ãë
+miao3
+İÅ
+chang1
+éÓ
+jue2
+½­
+jiang1
+Á¬
+lian2
+Ñ¢
+xuan3
+âİ
+xie4
+ã«
+qie4
+×¤
+zhu4
+öÏ
+you2
+¾ï
+jue1
+¸È
+gai4
+Ò¤
+yao2
+ÆÉ
+po4
+»ò
+huo4
+Ô«
+yuan2
+ô¢
+zan1
+Ë¹
+si1
+°Ä
+ao4
+îÃ
+juan1
+ŞÅ
+kuang3
+ğ½
+luan2
+êè
+chan1
+Øë
+zhang3
+»Í
+huang2
+¿ğ
+kuang1
+Êï
+shu3
+Æò
+qi3
+ïä
+pu2
+¼¨
+ji1
+ëÙ
+yan1
+ÆÕ
+pu3
+Ù½
+pai2
+±¢
+bao2
+³Ş
+chi3
+õö
+mo4
+²á
+ce4
+ê´
+beng4
+»º
+huan3
+èÄ
+rui4
+°ñ
+bang3
+¸º
+fu4
+°Ì
+ba1
+Ó£
+ying1
+¼Ç
+ji4
+Å¿
+pa1
+â×
+yu3
+õã
+cuo1
+±é
+bian4
+°»
+ang4
+µş
+die2
+¶½
+du1
+Û«
+ying3
+àÍ
+chi1
+ìö
+tiao1
+÷Ö
+mao2
+¿á
+ku4
+í·
+gan1
+ôª
+xi4
+é·
+ju3
+î¤
+sou3
+ãÓ
+wen2
+»ş
+ji1
+Ö¿
+zhi4
+´ö
+dai3
+íó
+yuan1
+×ù
+zuo4
+óÎ
+da2
+Êá
+shu1
+ïÈ
+si1
+àş
+guo2
+Áş
+long2
+Î¸
+wei4
+°¸
+an4
+îé
+bi4
+°©
+ai2
+ì«
+ju4
+Æ¸
+pin4
+çí
+er3
+ÖÈ
+zhi4
+ÂÏ
+luan2
+äû
+shao4
+ËĞ
+song4
+¾ş
+jun4
+âä
+wu3
+òë
+lang2
+áª
+qi2
+ÚĞ
+di4
+Ìì
+tian1
+Ôı
+zha2
+ò¹
+xian3
+¶ı
+er3
+Û¡
+di3
+æª
+qie4
+Ø±
+tuo1
+Ïı
+xiao2
+ß»
+fu1
+êÏ
+han2
+Ñ´
+xun4
+õü
+shang1
+ÇÚ
+qin2
+ºù
+hu2
+Á¼
+liang2
+Ì©
+tai4
+Ïİ
+xian4
+æä
+yi4
+ôÎ
+ba1
+ñ»
+tiao3
+Æİ
+qi1
+±µ
+bei4
+ñ£
+ban1
+ô£
+deng1
+í½
+zhuo2
+åö
+bi4
+Ó·
+yong1
+àŞ
+o1
+åğ
+ju4
+â½
+tun2
+À·
+lan2
+òÎ
+zhi4
+Ñş
+yao2
+Îş
+xi1
+ÊÙ
+shou4
+ÌÜ
+teng2
+íä
+jiang1
+÷è
+qi2
+ÎÏ
+wo1
+Ë¿
+si1
+À½
+lan2
+ğİ
+li4
+Ûµ
+zhang1
+ÕÑ
+zhao1
+ó©
+cao2
+éÔ
+qiao2
+Ú©
+ou1
+å®
+yue4
+Ğ­
+xie2
+ÈŞ
+rong2
+±Í
+bi4
+Ù·
+ping1
+¹Å
+gu3
+ÒÌ
+yi2
+¼í
+jian3
+Ò©
+yao4
+ÓÄ
+you1
+Òí
+yi4
+¼«
+ji2
+ë£
+mao4
+Ñ³
+xun4
+Ğ©
+xie1
+ÓŞ
+yu2
+ÁÓ
+lie4
+çÏ
+man4
+Ãõ
+min3
+·á
+feng1
+Äá
+ni2
+àÊ
+suo1
+Û£
+jia2
+ìı
+te4
+Ëè
+sui3
+ËÒ
+sou1
+äÇ
+fei2
+Ôï
+zao4
+Ñå
+yan4
+ìÕ
+tui4
+Ç©
+qian1
+ëª
+lu5
+Á¾
+liang4
+Â®
+lu2
+Êş
+shu4
+âª
+cha2
+ö÷
+fen4
+±ö
+bin1
+éÃ
+shuo4
+Äø
+nie4
+Æ«
+pian1
+ì´
+ji1
+÷Ò
+tao1
+Õ¿
+zhan4
+µ®
+dan4
+Òò
+yin1
+³æ
+chong2
+Àê
+li2
+Êñ
+shu3
+Ğ¿
+xin1
+ØØ
+wen3
+Ø¾
+nai4
+Ü½
+fu2
+ØÉ
+yan3
+·ã
+feng1
+ì¯
+shu1
+ÚÜ
+jue2
+½×
+jie1
+É±
+sha1
+Ïì
+xiang3
+½ç
+jie4
+¹Ş
+guan4
+º¾
+hao2
+×¾
+zhuo1
+ØÓ
+ze2
+¿¿
+kao4
+ôş
+gu1
+°ç
+ban4
+¼³
+ji2
+à»
+ao2
+ĞÃ
+xin1
+×Ë
+zi1
+µÙ
+di4
+ä¦
+yin1
+öÆ
+qiong2
+Ğì
+xu2
+öÚ
+jie2
+Õá
+zhe4
+¾ò
+jue2
+îª
+cheng1
+óê
+tuo4
+´î
+da1
+³½
+chen2
+µù
+die1
+ÙÑ
+chi4
+æÅ
+gou4
+áò
+xia2
+ğÈ
+chun2
+æŞ
+jue2
+Åß
+pei1
+²º
+bu4
+îù
+zhu1
+·ï
+feng4
+Õ¯
+zhai4
+Ñ®
+xun2
+ÂÒ
+luan4
+¶ö
+e4
+¹¿
+gu1
+Æé
+qi2
+Öğ
+zhu2
+À«
+kuo4
+á¸
+gou3
+½¹
+jiao1
+Ëİ
+su4
+Öü
+zhu4
+Ê¬
+shi1
+ìÂ
+shi2
+Ãó
+min3
+ïÌ
+huan2
+èî
+jie2
+Ù´
+qiu2
+äØ
+mei2
+Î­
+wei3
+±÷
+bin4
+ğ¤
+nian2
+´Õ
+cou4
+Ûô
+cheng2
+ñ¯
+yi4
+äÈ
+cong2
+æß
+bao1
+ôã
+zhu4
+º×
+he4
+Æº
+ping2
+¸¡
+fu2
+Æ§
+pi4
+àó
+you4
+ÃÖ
+mi2
+è²
+can4
+¶ä
+duo3
+òÊ
+you4
+¾¨
+jing1
+à·
+ku4
+ñß
+qiang3
+÷Í
+wang3
+ß½
+yi4
+õû
+jue2
+êÉ
+sheng4
+ÄÁ
+mu4
+ÉÚ
+shao4
+ÉÀ
+shan1
+è¸
+wei3
+õì
+fan2
+¶è
+duo4
+İÚ
+wei1
+æá
+si4
+ôé
+mi4
+ÀÇ
+lang2
+Áº
+liang2
+ÇÏ
+qiao4
+ä¾
+zhu3
+Ö¥
+zhi1
+¸ã
+gao3
+òª
+sang3
+¹³
+gou1
+é¾
+sun3
+ÚÚ
+zen4
+ğ¼
+xiu1
+öÍ
+bei4
+Ô¾
+yue4
+¹½
+gu1
+Ğ§
+xiao4
+óÜ
+quan2
+×¸
+zhui4
+Üê
+bi4
+æ¾
+bi4
+Ëç
+sui2
+ïè
+pu3
+Ôë
+zao4
+¸©
+fu3
+ë×
+guang1
+»÷
+ji1
+èª
+jin3
+Ö¶
+zhi2
+ËÁ
+si4
+ÎÃ
+wen2
+Íê
+wan2
+ö×
+hou4
+ê¶
+pi4
+Èº
+qun2
+·Ô
+fen1
+êÇ
+ni4
+Ë¬
+shuang3
+ã°
+chou2
+·Ü
+fen4
+åØ
+huang2
+áô
+fei4
+ÉÂ
+shan3
+Êø
+shu4
+âè
+wu3
+Ûª
+li4
+Ñ©
+xue3
+Èí
+ruan3
+²ñ
+chai2
+Øâ
+piao1
+éâ
+mo4
+ÑÔ
+yan2
+Äù
+nie4
+ÚÆ
+chan3
+Í÷
+wang3
+çá
+ji1
+Èå
+ru2
+ÕŞ
+zhe2
+ä®
+jiang4
+Ï¥
+xi1
+ÙÏ
+bin1
+éß
+cha2
+ëå
+niao4
+³£
+chang2
+Öµ
+zhi2
+ö²
+mai2
+÷Å
+kuan1
+÷¤
+guan1
+´Û
+cuan4
+Éİ
+she1
+ØÔ
+gua4
+¾Ø
+ju3
+ÔÉ
+yun3
+Å¾
+pa1
+³±
+chao2
+Áâ
+ling2
+ÛÁ
+ge3
+Øº
+gao1
+ÆÎ
+pu2
+³Ì
+cheng2
+óü
+lu4
+Øå
+huo1
+ĞÑ
+xing3
+»ï
+huo3
+äÛ
+ke4
+â¶
+chuan3
+ñ½
+ke1
+Ãù
+ming2
+ÔÁ
+yue4
+ÍÖ
+tuo3
+Îê
+wu3
+ÜÁ
+ji4
+İô
+shuo4
+ôï
+fu1
+ÄË
+nai3
+êà
+gai1
+Şñ
+kui2
+²õ
+chan2
+ôá
+ling2
+Ú´
+gua4
+¸¶
+fu4
+õÇ
+shan1
+æË
+li2
+ÉÁ
+shan3
+Çê
+qing3
+ÒÛ
+yi4
+³ñ
+chou2
+ÊŞ
+shou4
+ãä
+yuan2
+òÚ
+wu2
+°­
+ai4
+ë°
+chuan1
+¸Î
+gan1
+Ââ
+luo2
+öå
+shi2
+ç÷
+qi2
+ÑÄ
+ya2
+è×
+zhi3
+²£
+bo1
+â¯
+zhang1
+ßÜ
+hui4
+ÅÏ
+pan4
+ã®
+chang3
+Ó¢
+ying1
+¾¿
+jiu1
+íé
+zhi3
+ß·
+le4
+ñÇ
+mei4
+Ëñ
+sun3
+±û
+bing3
+İ¢
+gen4
+İı
+cu4
+ŞÍ
+liao4
+ÁÁ
+liang4
+İ¨
+kan3
+èù
+ling2
+Òï
+yi4
+é¥
+jian4
+·ı
+fu2
+òÒ
+kuo4
+ÕÕ
+zhao4
+îş
+ha1
+âÃ
+xiang3
+ÚÄ
+yu2
+ÒÉ
+yi2
+çË
+yi4
+Ä­
+mo4
+Öí
+zhu1
+·×
+fen1
+Í¡
+ting1
+éÏ
+gan3
+öş
+sao1
+ÈÌ
+ren3
+Û©
+yun4
+èØ
+tuo4
+ĞÎ
+xing2
+óö
+li4
+åÛ
+ao2
+µü
+die2
+èú
+chu3
+ê½
+gao3
+Í¢
+ting2
+Îğ
+wu4
+éû
+lu4
+óş
+gui3
+÷³
+qiao2
+ÖÛ
+zhou1
+äİ
+mang3
+¹ª
+gong1
+ÜÌ
+wu4
+öÀ
+sun3
+ÁŞ
+lin4
+å¥
+lian2
+ì·
+pei4
+Îİ
+wu1
+°÷
+bang4
+õÅ
+zhi2
+³Ï
+cheng2
+Ô¥
+yu4
+Ë©
+shuan1
+Ëı
+ta1
+ÅÎ
+pan4
+Çß
+qin4
+Ï¤
+xi1
+Èñ
+rui4
+ÄÊ
+nai3
+òº
+hao2
+öâ
+li2
+åş
+bi3
+æ÷
+ji4
+Ûğ
+shang3
+çù
+qi2
+äÊ
+guan4
+¿ä
+kua1
+Óâ
+yu2
+´È
+ci2
+ÑÆ
+ya1
+Í¯
+tong2
+ßÏ
+you1
+»â
+hui4
+¼ô
+jian3
+ÔÖ
+zai1
+Ü·
+qian1
+áá
+hou4
+óË
+hu4
+ìÊ
+han2
+é°
+ju4
+¹û
+guo3
+¶ğ
+e2
+Ù»
+qian4
+Î¼
+wei4
+Ş¹
+xun1
+İ«
+wo1
+íÁ
+ai4
+äè
+pang1
+áÒ
+mei2
+ŞÔ
+fu3
+ºĞ
+he2
+Á²
+lian3
+Ëğ
+sun3
+°û
+bao1
+÷ñ
+qu1
+å»
+wu4
+ºÕ
+he4
+êº
+gan4
+Ô®
+yuan2
+½Õ
+jie1
+µô
+diao4
+î¨
+ming2
+²û
+chan3
+Í¾
+tu2
+Ì¢
+ta4
+Ë÷
+suo3
+ğ¥
+fu4
+íö
+zi4
+Ìİ
+ti1
+ºğ
+hou3
+öÉ
+zan4
+ìè
+hu4
+Î¡
+wei1
+±Ğ
+bi4
+İÖ
+qia1
+ôä
+fei3
+Ì¹
+tan3
+Øï
+mu4
+ÇÃ
+qiao1
+ì÷
+qi2
+Ãö
+min3
+âµ
+huan1
+²²
+bo2
+á§
+ji2
+²÷
+chan2
+¾À
+jiu1
+â·
+huo3
+Öì
+zhu1
+òÄ
+you2
+ëÈ
+yao2
+º¡
+hai2
+îâ
+mu4
+²İ
+cao3
+°Ã
+ao4
+Ñ÷
+yang3
+õı
+gu1
+ÈÀ
+rang3
+Î¤
+wei2
+Ô»
+yue1
+ÑŞ
+yan4
+ã·
+zhui4
+±Ü
+bi4
+Ã·
+mei2
+¾ñ
+jue2
+°¨
+ai2
+¿»
+kang4
+äÉ
+shen3
+Ğû
+xuan1
+ò¬
+ru2
+Ğú
+xuan1
+Êİ
+shou4
+Â°
+lu3
+ğ¸
+si1
+Õ°
+zhan1
+ßş
+sha4
+ÈÊ
+ren2
+Ú­
+he1
+íù
+lai4
+¹Ô
+guai1
+ç¯
+xiao1
+á÷
+shou4
+òÌ
+jia2
+÷Û
+xiu1
+ï«
+te4
+êõ
+wu3
+õõ
+diao1
+çÀ
+hui4
+â£
+guo3
+·°
+fan2
+Ğ±
+xie2
+÷à
+lie4
+Àû
+li4
+êÅ
+yu4
+âğ
+chu4
+Êü
+shu4
+ğ¡
+zhen3
+ÛÀ
+he2
+õä
+pian2
+ĞÆ
+xin4
+ôº
+wei3
+¾ª
+jing1
+×à
+zou4
+×¿
+zhuo1
+è¶
+zan4
+°ú
+bao1
+ÖÒ
+zhong1
+÷¯
+li3
+éí
+ren4
+´ã
+cui4
+èÍ
+nai4
+Ãü
+ming4
+ğó
+gu4
+ÍË
+tui4
+³ò
+chou3
+ãÎ
+jiu1
+±×
+bi4
+Éà
+she2
+õÖ
+chuo1
+ìË
+men4
+íò
+sheng3
+·Ï
+fei4
+ìÅ
+xuan4
+äô
+yi1
+¼ü
+jian4
+Ñß
+yan4
+¾¬
+jing1
+ëá
+luo2
+Áå
+ling2
+òÉ
+cheng1
+Í©
+tong2
+äÕ
+jian1
+Ùğ
+yan3
+¼á
+jian1
+óô
+gou1
+óâ
+shao1
+·Ì
+fei3
+·Â
+fang3
+Çò
+qiu2
+¹İ
+guan3
+á¬
+ya2
+öº
+chuo4
+»è
+hun1
+Îå
+wu3
+´Ü
+cuan4
+ÓÆ
+you1
+çÚ
+zuan3
+ôğ
+qu1
+¸Ä
+gai3
+Õô
+zheng1
+çæ
+ke1
+¸Ñ
+gan3
+ñ´
+yi4
+ì»
+ni3
+¶¾
+du2
+æÑ
+zhang1
+´¥
+chu4
+µÏ
+di2
+¶À
+du2
+Î¬
+wei2
+´Ú
+cuan1
+Ïö
+xiao1
+·Û
+fen3
+Üİ
+chi2
+ºÖ
+he4
+¸Æ
+gai4
+æò
+liu2
+¹É
+gu3
+ê«
+ji2
+é½
+ta4
+°Æ
+ba1
+ÊË
+shi4
+ïÜ
+man4
+ëí
+cou4
+Ùì
+fu2
+Ûû
+an3
+ËÈ
+si4
+ÖÇ
+zhi4
+·Ú
+fen2
+¼½
+ji4
+Â¢
+long3
+Áì
+ling3
+İå
+pai4
+Ù°
+mou2
+óí
+kong1
+æÇ
+pi4
+é×
+zun1
+ËÏ
+song4
+¶İ
+dun4
+¿Ğ
+ken3
+¿ñ
+kuang2
+¼Ê
+ji4
+°í
+ban4
+Çæ
+qing2
+â±
+jue2
+ìî
+qu1
+î¹
+gu3
+ÁÛ
+lin2
+Æç
+qi2
+ñá
+pan4
+½Î
+jiao4
+¶ø
+er2
+Ìé
+ti4
+ÚÌ
+e4
+²ş
+chang1
+±ç
+bian4
+ºé
+hong2
+Ù¾
+zhuo1
+ÄÉ
+na4
+ŞÏ
+gan1
+²è
+cha2
+İş
+lin4
+Èş
+san1
+Ğá
+xiu4
+âá
+dao1
+ÜÈ
+xian4
+éÒ
+tuo2
+ãà
+qi4
+Âô
+mai4
+ÎÕ
+wo4
+ÈÕ
+ri4
+´·
+chui2
+Ğ·
+xie4
+ğñ
+zhu2
+ßÍ
+duo1
+ê§
+jian1
+²«
+bo2
+¶º
+dou4
+í×
+chen3
+¿Ù
+kou1
+³·
+che4
+Úù
+wu1
+¿å
+kua3
+óÑ
+gou3
+÷»
+tou2
+æ§
+da2
+öñ
+gu4
+´ª
+chuan2
+ñË
+ge1
+ïÑ
+mei2
+×­
+zhuan4
+ÅÒ
+pang1
+êæ
+dan3
+÷é
+ao2
+Ïê
+xiang2
+Øí
+sa1
+¹ò
+gui4
+½ı
+jin4
+ğÙ
+guan4
+èû
+fen2
+Àç
+li2
+³ú
+chu2
+×ğ
+zun1
+º·
+han4
+éÛ
+lei2
+Èß
+rong3
+Ï¶
+xi4
+Íğ
+wan3
+è¢
+ju1
+¶î
+e2
+ÜÍ
+qian4
+Ãµ
+mei2
+ë´
+ke4
+·è
+feng1
+Èî
+ruan3
+ãÀ
+chu4
+²°
+bo2
+äÃ
+zhuo1
+Á®
+lian2
+»Å
+huang1
+åÂ
+ya4
+ä±
+xun2
+ÆÊ
+pou1
+á¥
+fu2
+Ş¨
+rui2
+Ì²
+tan1
+¹ì
+gui3
+½Ğ
+jiao4
+¹ù
+guo1
+·ö
+fu2
+Ó¼
+yong3
+ß¡
+zhe2
+Íå
+wan1
+åâ
+xie4
+ÉÆ
+shan4
+Âæ
+luo4
+ºÜ
+hen3
+Àì
+li2
+Ì»
+tan3
+òŞ
+qiang1
+½ï
+jin1
+ÔÔ
+zai1
+ÀÃ
+lan4
+ğÄ
+wu3
+ñ÷
+ning2
+°ô
+bang4
+õ¹
+shi3
+Ûõ
+shi2
+É¸
+shai1
+½ª
+jiang1
+Ù²
+yan3
+ïí
+zhuo2
+áÇ
+kong1
+ä³
+su4
+Ğ³
+xie2
+µº
+dao3
+íæ
+meng2
+²ú
+chan3
+·¸
+fan4
+Ì¼
+tan4
+æµ
+xian2
+ÖÎ
+zhi4
+Üû
+chong1
+ÉÎ
+shang3
+ËÕ
+su1
+Ï«
+xi1
+à¢
+dan4
+åÜ
+gou4
+²©
+bo2
+ğÍ
+wu4
+±í
+biao3
+¾Â
+jiu3
+Öó
+zhu3
+Êğ
+shu3
+Şà
+na4
+×·
+zhui1
+Şõ
+chuai1
+Ë¨
+shuan1
+ãÙ
+tian2
+»¤
+hu4
+Àæ
+li2
+íõ
+sui1
+öí
+zou1
+Ã¾
+mei3
+ÙÈ
+yan3
+±ô
+bin1
+í§
+zi4
+öÎ
+xin1
+Ûè
+ni2
+·õ
+fu1
+è®
+cong1
+Ïú
+xiao1
+µï
+diao1
+Úø
+mang2
+÷ê
+she4
+İò
+bang4
+º¤
+hai4
+Òß
+yi4
+ÛØ
+wu1
+»·
+huan2
+ğ¶
+qu2
+Ùø
+ying2
+¼Ï
+jia1
+µî
+dian4
+Æ·
+pin3
+î¯
+bi4
+Æí
+qi2
+è»
+wu4
+ºÊ
+he2
+ß¿
+li4
+¾ø
+jue2
+Óµ
+yong1
+à¿
+nie4
+¿¦
+ka1
+¶ò
+e4
+ç¾
+ti2
+öÒ
+ping2
+Âè
+ma1
+æê
+li2
+ºò
+hou4
+ìÖ
+liu1
+µÛ
+di4
+÷ß
+huan2
+Õ¥
+zha4
+ñ¦
+biao1
+Ôª
+yuan2
+ÓÛ
+yu2
+îñ
+cheng2
+·É
+fei1
+ïë
+deng4
+ïó
+cuo2
+É½
+shan1
+æ¿
+chan2
+·§
+fa2
+åÌ
+pang2
+ÃÈ
+meng2
+éÅ
+rong2
+·Ù
+fen2
+Ğæ
+xu1
+ó×
+chi1
+ÈÃ
+rang4
+Ìı
+ting1
+¾¼
+jiong3
+ñÁ
+yu3
+ß¢
+xie2
+äâ
+ta1
+ñ¥
+huang2
+öü
+huang2
+µ°
+dan4
+Ù¸
+yong3
+çî
+gong3
+µ³
+dang3
+àñ
+hu2
+±Õ
+bi4
+İÏ
+zu1
+õÕ
+ji4
+´Ø
+cu4
+ö¶
+tiao2
+âÈ
+sou1
+âó
+yang4
+ôĞ
+tiao4
+ô¯
+yi3
+Ú×
+mi4
+±Â
+beng2
+îØ
+huo3
+ØË
+si1
+ç×
+qian3
+ŞÚ
+yi4
+Ü¿
+yun2
+Ç¢
+qia4
+Ìê
+ti4
+ğè
+jia1
+÷Ë
+liang3
+Şï
+xuan1
+è¥
+yuan4
+¿±
+kan1
+¿Û
+kou4
+åÈ
+jia1
+ßù
+zhuan4
+Ó°
+ying3
+²µ
+bo2
+íã
+deng4
+ÆÃ
+po1
+ñÆ
+jin1
+Ğè
+xu1
+Û²
+juan4
+·«
+fan1
+İø
+su4
+å«
+han4
+ïı
+ke1
+·Ê
+fei2
+Öê
+zhu1
+Í·
+tou2
+¼µ
+ji2
+ó¬
+xi1
+µĞ
+di2
+ÂØ
+lun2
+Ú²
+kuang1
+Ğ¨
+xie1
+¾Ñ
+ju1
+×ö
+zuo4
+òğ
+fu2
+Êé
+shu1
+Ãú
+ming2
+¿­
+kai3
+êğ
+jian4
+¾§
+jing1
+âı
+kai3
+áı
+xian3
+ÊØ
+shou3
+Åó
+peng2
+¼Õ
+jia2
+Òâ
+yi4
+Üº
+xiong1
+Ôò
+ze2
+³¢
+chang2
+»õ
+huo4
+İµ
+you2
+ÙÛ
+tun3
+õÂ
+jian3
+Ç§
+qian1
+ïú
+ji1
+Ï¸
+xi4
+ÀÚ
+lei3
+Áà
+ling1
+õæ
+nie4
+±ä
+bian4
+Ëî
+sui4
+µ·
+dao3
+õ¥
+zhi3
+º²
+han4
+Şê
+zha1
+Çá
+qing1
+íµ
+miao3
+Î÷
+xi1
+ÙÓ
+jing3
+àõ
+qing1
+éè
+piao3
+ÄÍ
+nai4
+Õí
+zhen3
+¸¿
+fu4
+»¶
+huan1
+ã´
+kui4
+Î´
+wei4
+´¿
+chun2
+×ì
+zui3
+ñŞ
+zhe3
+ã¬
+xing4
+´¡
+chu3
+Èú
+sai1
+±Ø
+bi4
+à¼
+su4
+¿Ö
+kong3
+İí
+bei4
+êÊ
+ye4
+½±
+jiang3
+Ôç
+zao3
+Ê¿
+shi4
+Ğõ
+xu4
+ßî
+zha1
+ÔÏ
+yun4
+õÑ
+xian1
+äı
+chan2
+İÄ
+shu1
+Ü¯
+chi2
+×¯
+zhuang1
+¶°
+dong4
+´ê
+cuo1
+Üì
+ju3
+¹ä
+guang4
+ÔÑ
+za1
+¶Ó
+dui4
+Ò¥
+yao2
+Øö
+chang1
+ìÍ
+yan4
+Û¢
+tai2
+í÷
+chi1
+ä¡
+huan2
+Íì
+wan3
+ïÓ
+ge2
+·¦
+fa2
+¸­
+fu3
+²å
+cha1
+Ëë
+sui4
+Ñ¯
+xun2
+Ö´
+zhi2
+ó³
+hui4
+Ö±
+zhi2
+ãò
+lu2
+Æ´
+pin1
+ò²
+chai4
+Ğâ
+xiu4
+Æê
+qi2
+×Ú
+zong1
+×©
+zhuan1
+¾ü
+jun1
+âñ
+peng1
+ôÉ
+jie2
+ğá
+gan1
+õİ
+jian4
+±Ú
+bi4
+ìë
+si4
+óÀ
+qing4
+ÔÕ
+zai1
+î²
+fan4
+êê
+xi2
+¸è
+ge1
+²Ú
+cao1
+ÀÄ
+lan4
+Ş§
+jue2
+÷Ú
+zi1
+Éü
+sheng1
+Í°
+tong3
+Âî
+ma4
+¾¶
+jing4
+à®
+jie1
+é£
+liang2
+Â©
+lou4
+³õ
+chu1
+Ôğ
+ze2
+ÑÏ
+yan2
+¼ë
+jian3
+ñ©
+zhai4
+÷¹
+bei4
+õ»
+dun3
+ÈË
+ren2
+ìæ
+hu4
+İ»
+chun2
+¶ì
+e2
+Éı
+sheng1
+Òæ
+yi4
+×¡
+zhu4
+¾Ü
+ju4
+îö
+diao4
+ä½
+huan4
+Åõ
+peng3
+âÀ
+yu4
+ïğ
+biao1
+Äå
+ni4
+´Ò
+cong1
+ãĞ
+yu4
+éÇ
+xie4
+¼¿
+ji4
+óÂ
+shi4
+Áú
+long2
+Á¦
+li4
+¼Æ
+ji4
+µ½
+dao4
+Îâ
+wu2
+Íè
+wan2
+ŞÓ
+chen1
+ºØ
+he4
+òä
+guo3
+áÛ
+dian1
+×À
+zhuo1
+Ë¤
+shuai1
+Îë
+wu4
+Õ±
+zhan1
+èÑ
+jiu4
+æÆ
+mo2
+ÖÃ
+zhi4
+ìÒ
+bao1
+ãÉ
+min3
+¼£
+ji1
+ËÉ
+song1
+ê¢
+zi1
+Ò×
+yi4
+ì¿
+wei3
+éÑ
+qing2
+õÛ
+bo2
+ñï
+lou2
+ôß
+ji4
+Î¢
+wei1
+â®
+nao2
+µç
+dian4
+îÜ
+gu3
+ëÂ
+jing3
+¿ı
+kui2
+È¬
+quan2
+ÀÁ
+lan3
+íÍ
+qiao1
+Å£
+niu2
+Éª
+se4
+í¤
+nv4
+íà
+qing4
+Î£
+wei1
+Õø
+zheng1
+à£
+bo5
+ê²
+ling2
+ÖÔ
+zhong1
+Í»
+tu1
+ÌÃ
+tang2
+ö¬
+pei4
+µõ
+diao4
+ÒÖ
+yi4
+Ëº
+si1
+æ¡
+jin4
+Ú÷
+kuang4
+à°
+kui4
+ÂÂ
+lv3
+ò¿
+chi1
+óï
+xiao1
+ÌÂ
+tang2
+Í«
+tong2
+È¶
+que4
+Éì
+shen1
+¼Ş
+jia4
+Ú®
+di3
+õÊ
+jia1
+¾è
+juan1
+ó­
+xiang4
+³à
+chi4
+êÙ
+nang3
+ÛÏ
+qiu2
+ï§
+an3
+ÄÜ
+neng2
+ÁÀ
+liang4
+ç½
+xiang1
+ËÌ
+song4
+îÈ
+zhao1
+àù
+zhi4
+ï¿
+kun1
+µÓ
+di2
+èÇ
+cheng2
+í¾
+bian1
+°®
+ai4
+°Á
+ao4
+Åı
+pi2
+Úê
+xing2
+ÑÜ
+yan3
+ìó
+zhi1
+ñÍ
+lian2
+»Û
+hui4
+¿à
+ku3
+½ù
+jin4
+³Õ
+chi1
+İ¶
+di2
+Òì
+yi4
+óë
+bi4
+Ëô
+suo1
+äø
+shu4
+³ì
+chou2
+°ß
+ban1
+Ìò
+tian3
+µê
+dian4
+Ïã
+xiang1
+ßÌ
+ning2
+¹¦
+gong1
+¼¥
+ji1
+Å²
+nuo2
+÷Ñ
+tie4
+±ş
+bing3
+äã
+hun4
+êÜ
+kuang4
+Ãò
+min3
+Æ¢
+pi2
+ô¦
+zhou4
+Òú
+yin2
+¹Í
+gu4
+ÈÓ
+reng1
+æÚ
+fu2
+µ­
+dan4
+ãÇ
+wei2
+ËÛ
+su4
+Àü
+li4
+¶ş
+er4
+Ùí
+su4
+µâ
+dian3
+Ş¾
+qu2
+Äú
+nin2
+çÔ
+liao2
+Äİ
+ni1
+ÓÉ
+you2
+îÚ
+yu4
+Ûî
+kai3
+Ğà
+xiu3
+÷È
+mei4
+ÓÏ
+you3
+Éº
+shan1
+é¶
+cha2
+Æâ
+qi1
+çø
+ying1
+µµ
+dang4
+Ìö
+tiao2
+İĞ
+dang4
+Åí
+peng2
+Ñ±
+xun2
+ÂÑ
+luan3
+áù
+bi4
+Âü
+man4
+Üµ
+nai3
+ÊĞ
+shi4
+ßº
+yao1
+Â¯
+lu2
+¿¯
+kan1
+³Å
+cheng1
+Í¶
+tou2
+Üã
+ying2
+óı
+duan4
+ÖÉ
+zhi4
+Ô­
+yuan2
+Şù
+nuo4
+¼ç
+jian1
+½Ø
+jie2
+à§
+shua1
+ì×
+man4
+·À
+fang2
+Úß
+chen4
+á¹
+mao3
+°Ï
+ba2
+ÈÔ
+reng2
+Ú¯
+zhao4
+íŞ
+gun3
+»é
+hun1
+Ôù
+zeng4
+³Í
+cheng2
+Î×
+wu1
+È·
+que4
+Ò¿
+yi1
+µÊ
+deng4
+ãë
+wen4
+¹ü
+guo3
+÷ä
+ji3
+å³
+gui3
+íğ
+miao3
+îÅ
+ga2
+¸Ô
+gang1
+Ñó
+yang2
+Ø»
+tao2
+Ü§
+yin1
+ï¼
+ben1
+ä¶
+wei2
+º©
+han1
+¾ô
+jue2
+¸ù
+gen1
+ç¦
+fu2
+±î
+bie1
+æ°
+pin1
+î³
+zhen3
+é¹
+mei2
+İë
+mo4
+Ìµ
+tan2
+éõ
+hu1
+î¿
+ji1
+áÀ
+lao2
+Ô²
+yuan2
+Óñ
+yu4
+ÚÈ
+chen2
+ñè
+zi3
+¸Ú
+gang3
+±à
+bian1
+â¦
+she1
+ëü
+meng2
+ÈÒ
+ren4
+ŞÎ
+ga4
+ïÆ
+qie4
+°æ
+ban3
+Üß
+ling2
+åè
+tuan4
+¸İ
+gao1
+ŞÉ
+xi1
+±å
+bian4
+å¦
+ru2
+¿«
+kai1
+ô¿
+meng2
+óß
+shi4
+î´
+she1
+ÚÁ
+zou1
+âÏ
+pi3
+À¸
+lan2
+¾½
+jiong3
+è«
+huang2
+ËÙ
+su4
+Ïô
+xiao1
+Åê
+peng1
+Úô
+xi2
+Úû
+bing3
+Ö®
+zhi1
+êå
+ji1
+ì¼
+liu2
+Íó
+wan4
+æĞ
+lei2
+ßâ
+ji4
+´İ
+cui1
+ğÕ
+jiu4
+×Ô
+zi4
+±ø
+bing1
+òµ
+meng2
+í²
+yu4
+Êî
+shu3
+Ùõ
+luan2
+Ñâ
+yan4
+¶Û
+dun4
+Çâ
+qing1
+ÜË
+qin2
+¹Ö
+guai4
+çé
+dai4
+ô¸
+xi1
+ÛÕ
+yong1
+Ãã
+mian3
+êí
+gou4
+²Ä
+cai2
+Õ¾
+zhan4
+¾µ
+jing4
+ØŞ
+ji1
+Âú
+man3
+İ¡
+qian2
+¿ì
+kuai4
+ÓÒ
+you4
+ÕÒ
+zhao3
+óÆ
+du3
+öĞ
+fang2
+Íı
+wang4
+Áß
+lin4
+ÍÆ
+tui1
+å¯
+fen4
+õ·
+li3
+Ğí
+xu3
+²ë
+cha2
+ğ¾
+bo2
+Åè
+pen2
+ÂÇ
+lv4
+ÇÜ
+qin2
+¾¦
+jing1
+ì®
+biao1
+ÊÈ
+shi4
+ëÍ
+lu2
+½¤
+jian4
+Æğ
+qi3
+òï
+nan3
+ÍÈ
+tui3
+¹Ò
+gua4
+åå
+la1
+ØÇ
+she4
+Ëæ
+sui2
+áâ
+lai2
+¿¹
+kang4
+İÁ
+nai4
+äé
+ming2
+Ôì
+zao4
+åò
+jing4
+ê¯
+jian3
+¿Ê
+ke3
+¼Ú
+jia4
+Õä
+zhen1
+Øİ
+la4
+ïÕ
+na2
+¿Æ
+ke1
+ôâ
+xi1
+á£
+man4
+Ãç
+miao2
+ä·
+zhuo2
+·²
+fan2
+¹®
+gong3
+±¹
+bei4
+×ï
+zui4
+Ó¾
+yong3
+õí
+cu4
+áú
+juan4
+ÍÕ
+tuo2
+êÑ
+xuan1
+Úİ
+yan4
+ºè
+hong2
+ÕÍ
+zhang4
+ÇÁ
+qiao1
+º®
+han2
+Ç­
+qian2
+Ş¥
+hui4
+ë¢
+bo4
+Ò²
+ye3
+õ¢
+tuo2
+ØÌ
+ye4
+æº
+jing4
+ôİ
+jiang4
+Şã
+bai3
+é¨
+cou4
+»å
+hui4
+îµ
+wan3
+´×
+cu4
+Ô¨
+yuan1
+é»
+zhen1
+ğà
+you2
+óæ
+qie4
+°Å
+ba1
+¸¤
+fu2
+Ò¬
+ye1
+îà
+bo2
+µé
+dian4
+Èª
+quan2
+áó
+pao2
+Íí
+wan3
+³Ù
+chi2
+¹¯
+gong3
+ÀÎ
+lao2
+İ¤
+mai3
+¿Â
+ke1
+´¾
+chun2
+Å¼
+ou3
+ÒÆ
+yi2
+ÀÏ
+lao3
+Ş¿
+heng2
+¹¹
+gou4
+Ïû
+xiao1
+ÙÙ
+dan1
+¸á
+gao1
+Ûì
+die2
+ò­
+pin2
+êÛ
+shi4
+´µ
+chui1
+¾«
+jing1
+ÍÎ
+tun2
+Ğª
+xie1
+½ñ
+jin1
+æÈ
+ai4
+İÙ
+xiang1
+Ù¡
+tong2
+ìÛ
+yu4
+Å¤
+niu3
+µ¼
+dao3
+Ù¨
+kua3
+ÔÙ
+zai4
+îË
+chuan4
+Â´
+lu4
+¹µ
+gou1
+É¡
+san3
+±Ì
+bi4
+ğ±
+bao3
+Ùñ
+bo2
+Ë®
+shui3
+È³
+que2
+íÅ
+tong2
+¿ù
+kui1
+ÂÃ
+lv3
+å¡
+sui1
+ÉŞ
+she1
+Ù¼
+ruo4
+óñ
+kui4
+ëÓ
+zhen1
+Âº
+lu4
+àÆ
+hao2
+â¸
+sun1
+Íé
+wan2
+çï
+xu1
+×Â
+zhuo2
+¼¼
+ji4
+Şü
+ying1
+Àô
+li4
+´Ç
+ci2
+â¤
+luo2
+¼Ó
+jia1
+õ°
+hai3
+Éû
+sheng1
+ßå
+zha4
+ô³
+fang3
+ÛÛ
+kuang4
+Ğî
+xu4
+³Ç
+cheng2
+æ¦
+si4
+÷§
+biao4
+òù
+bian1
+ºİ
+hen3
+ïå
+lu3
+È¿
+rang2
+óµ
+shan4
+¶Ã
+du3
+¹ë
+gui1
+ó¦
+pang2
+ËË
+song3
+Õù
+zheng1
+°ø
+bang4
+Åø
+pi1
+Ö©
+zhi1
+éê
+ji2
+Á°
+lian2
+Ø©
+cheng2
+´¸
+chui2
+ìû
+xi3
+ëÇ
+na4
+Àä
+leng3
+íø
+mou2
+Àñ
+li3
+Äô
+nie4
+ÉÃ
+shan4
+×Ó
+zi3
+¸â
+gao1
+Öï
+zhu1
+¸ú
+gen1
+¸ç
+ge1
+ê¹
+la2
+¸°
+fu4
+±ı
+bing3
+ô¨
+yu2
+ÏÆ
+xian1
+³º
+che4
+åĞ
+xiao1
+ßñ
+xi1
+óä
+qing4
+¹­
+gong1
+ê¼
+tan2
+õó
+xie4
+ĞÏ
+xing2
+çú
+hu3
+áå
+huang2
+Ã£
+mang2
+Äº
+mu4
+×´
+zhuang4
+àÚ
+liao2
+å÷
+yu4
+ç£
+shu1
+È¨
+quan2
+Âõ
+mai4
+Àï
+li3
+Î·
+wei4
+èÏ
+zhe4
+Öé
+zhu1
+ğî
+cuo2
+ğÓ
+liao2
+¹§
+gong1
+Âù
+man2
+³÷
+chu2
+Ûü
+yi4
+Ëà
+su4
+³ù
+chu2
+îÇ
+po1
+ÍÇ
+tui2
+çÄ
+zhui4
+å´
+dang4
+°µ
+an4
+ÔÅ
+yun2
+Åæ
+pei4
+¼¶
+ji2
+áÃ
+yan1
+ó¤
+chi1
+ôõ
+zan3
+Çè
+qing2
+Úª
+ju4
+ÅÔ
+pang2
+êá
+jin4
+ÛÇ
+jue2
+ôü
+zhou4
+åì
+ji1
+°½
+ao2
+±£
+bao3
+Àã
+leng2
+ÎË
+weng1
+î¡
+sui1
+÷ó
+li2
+ò°
+qiu2
+Õü
+zheng3
+à¤
+ding4
+Úá
+jin3
+¸Í
+gan1
+Ã©
+mao2
+³­
+chao1
+»ô
+huo4
+â«
+wei3
+Ä«
+mo4
+ô±
+zhong1
+çô
+xi3
+ºÌ
+he2
+ÊÑ
+shi4
+ÜĞ
+bian4
+´Æ
+ci2
+÷¥
+yao2
+ëê
+zong1
+ã¯
+wang3
+ğ­
+hu4
+â¾
+xi4
+º¼
+hang2
+°º
+ang2
+éı
+nian3
+ë«
+pu3
+·®
+fan2
+öÌ
+liu2
+á¯
+cen2
+âÌ
+san3
+ÁÖ
+lin2
+ëä
+wan3
+ÌÎ
+tao1
+ôÈ
+suo1
+±¾
+ben3
+×Ş
+zou1
+¶¹
+dou4
+ÃŞ
+mian2
+îÁ
+he2
+ÛĞ
+ben4
+¿×
+kong3
+õË
+bo3
+ÙÚ
+tong2
+Ú¸
+gou4
+×ß
+zou3
+ßÎ
+nao2
+Ëá
+suan1
+ÛÓ
+shu2
+İ½
+qi2
+¾Ë
+jiu4
+éµ
+lv5
+ãÔ
+hun1
+î§
+ke1
+ŞË
+pao2
+²­
+bo2
+âï
+hu4
+Óå
+yu2
+öæ
+tiao2
+íÉ
+fu2
+Äè
+nian1
+Üò
+fu2
+äÑ
+sou1
+Ã±
+mao4
+Äë
+nian3
+äì
+xiao1
+ÀÀ
+lan3
+î±
+tian2
+ìğ
+fu2
+âÚ
+ao2
+Òø
+yin2
+Í¹
+tu1
+Æá
+qi1
+Ëå
+sui2
+ÁÔ
+lie4
+æí
+zhui1
+ßï
+suo3
+ÏÒ
+xian2
+Ì«
+tai4
+°á
+ban1
+Èè
+ru3
+°Ö
+ba4
+ğê
+yi2
+ïõ
+bi3
+ÕÈ
+zhang4
+ôÄ
+sha1
+Ôá
+zang4
+¹ß
+guan4
+õé
+chu2
+´É
+ci2
+Ûé
+mu4
+ç¹
+quan3
+Óã
+yu2
+ï³
+liu3
+Ù¿
+shu1
+æ¸
+wei3
+Şç
+qian2
+Òº
+ye4
+áÌ
+zai3
+Öû
+zhu4
+ìç
+jiong1
+ëĞ
+zhou4
+»ã
+hui4
+îê
+ni2
+å°
+hao4
+¾Ğ
+ju1
+ØÍ
+yan4
+ËÖ
+su1
+¿¾
+kao3
+Ñö
+yang3
+ÉØ
+shao2
+Ğ¬
+xie2
+èĞ
+long2
+âĞ
+wu3
+´ø
+dai4
+¿°
+kan1
+é²
+duan4
+â­
+mei2
+öø
+die2
+Çé
+qing2
+°ó
+bang3
+¿Ä
+ke1
+êÍ
+hui1
+½ø
+jin4
+í£
+hui4
+àï
+nan1
+ÄÛ
+nen4
+íÒ
+wo4
+ºä
+hong1
+ë¥
+cui4
+¸Á
+ga2
+·­
+fan1
+Õß
+zhe3
+Ûó
+yin2
+Ô©
+yuan1
+Âó
+mai4
+ãõ
+duo4
+ïÉ
+e4
+±Ç
+bi2
+ó°
+shuai4
+ŞÜ
+jun4
+½½
+jiao1
+Õ©
+zha4
+¶¸
+dou3
+ØÕ
+you3
+Ò£
+yao2
+Şı
+zhi2
+Áã
+ling2
+ÌØ
+te4
+Ë¾
+si1
+×Ñ
+zi3
+í©
+qian1
+ëÃ
+ruan3
+µö
+diao4
+éŞ
+bo4
+ÚÑ
+zi1
+ãª
+quan1
+Ë´
+shun4
+ÛÙ
+ge1
+Ñµ
+xun4
+óª
+piao1
+êÄ
+mao3
+Éµ
+sha3
+éÂ
+gao3
+Ìó
+tian3
+àâ
+deng1
+ëÎ
+jia3
+òÔ
+jiao1
+³¨
+chang3
+óá
+pa2
+ìã
+xu4
+ÄÌ
+nai3
+à±
+jiu1
+Ü¡
+peng2
+àø
+wei2
+ä¨
+zhu1
+ê¥
+lin2
+Ë¦
+shuai3
+×É
+zi1
+õÜ
+zhi2
+äÌ
+shuan4
+Âß
+luo2
+¼²
+ji2
+÷Æ
+bin4
+Û¦
+kuai4
+êç
+fu4
+°İ
+bai4
+åï
+xi3
+¾ç
+ju4
+ïé
+cuan1
+èÆ
+chu3
+ãÌ
+lv5
+âë
+chuang4
+²ö
+chan2
+ê»
+hao4
+Òµ
+ye4
+¾ë
+juan4
+ÏÇ
+xian1
+ëÅ
+gong1
+¶³
+dong4
+ñö
+ling2
+Ê«
+shi1
+Şû
+luo4
+Æ©
+pi4
+åª
+zhuo2
+Ñü
+yao1
+ºû
+hu2
+Åñ
+peng2
+çÛ
+yao1
+¿ó
+kuang4
+é¯
+pin3
+õ½
+xue2
+Ê½
+shi4
+åÏ
+qiu2
+ã×
+que4
+Ğä
+xiu4
+ë¯
+xian1
+æõ
+cong1
+°î
+bang1
+ñİ
+chi3
+Òü
+yin3
+·Ä
+fang3
+¹ô
+gui4
+ä¤
+jia1
+Æù
+qi4
+ÌÔ
+tao2
+ÎÔ
+wo4
+ğì
+lao2
+µğ
+diao1
+Á´
+lian4
+ÕØ
+zhao4
+³Ò
+cheng3
+åû
+yan2
+¶Ğ
+duan4
+¹£
+geng3
+Å×
+pao1
+ñê
+si4
+æû
+zhou4
+ØĞ
+gui3
+ßô
+feng3
+À³
+lai2
+åº
+qian1
+ßŞ
+yi1
+»Ù
+hui3
+äÀ
+xi1
+¾£
+jing1
+Èï
+rui3
+Ëú
+ta1
+çç
+long2
+¹Ğ
+gua3
+¾Æ
+jiu3
+ºÛ
+hen2
+¿Á
+ke1
+¼»
+ji4
+è½
+qi3
+¹Ñ
+gua3
+¹¤
+gong1
+ÔÇ
+yun2
+³Ä
+chen4
+ãı
+min3
+¼è
+jian1
+Á×
+lin2
+â¡
+suan1
+ê³
+bu4
+Ì´
+tan2
+Æß
+qi1
+òİ
+fu2
+÷Ğ
+yan4
+Ğ¡
+xiao3
+ï¹
+a1
+Ø¨
+gen4
+Ñ£
+xuan4
+ÅÈ
+pai4
+Ï§
+xi1
+ÕÂ
+zhang1
+åÅ
+ze2
+î¾
+li2
+É¿
+shan1
+½Ï
+jiao4
+¹¾
+gu1
+Õå
+zhen1
+Ï®
+xi2
+»¨
+hua1
+ê·
+po1
+¸×
+gang1
+È¥
+qu4
+Çö
+qiu2
+ğÇ
+bei1
+åÙ
+qiu2
+ÏÉ
+xian1
+µÕ
+di2
+á¿
+zheng1
+êó
+mao2
+ºÁ
+hao2
+Áø
+liu3
+ÔÌ
+yun4
+Éô
+shen3
+á¨
+qi3
+ğô
+wei3
+ÁÂ
+liang4
+ğÛ
+ding1
+³è
+chong3
+ò«
+hao4
+´ñ
+da2
+îÖ
+kang4
+¹á
+guan4
+±¯
+bei1
+ïÍ
+ai1
+¾÷
+jue2
+½î
+jin1
+õ¾
+cu4
+ÏÕ
+xian3
+ëÜ
+hai3
+âî
+niu3
+ÛÊ
+dang4
+Îí
+wu4
+öÖ
+fu4
+¿¥
+jun4
+à³
+yin1
+µË
+deng4
+ŞÒ
+tuan2
+íÙ
+jie2
+·Ë
+fei3
+´÷
+dai4
+¿µ
+kang1
+ÔÒ
+za2
+ßİ
+xiu1
+ñ¢
+mo4
+ÊÆ
+shi4
+Òã
+yi4
+»Ï
+huang3
+Çà
+qing1
+ÌŞ
+ti1
+¹¶
+gou3
+Ñ²
+xun2
+ÁÈ
+liao2
+ãù
+xuan4
+Ïë
+xiang3
+åõ
+fu2
+ñü
+han1
+Èæ
+ru2
+Ï­
+xi2
+ö¾
+tuo2
+Ìà
+ti1
+è´
+lu4
+óÓ
+si4
+´¢
+chu3
+ÚÙ
+jian3
+¶ú
+er3
+ğº
+zhi4
+ÌÒ
+tao2
+îí
+kao4
+Ûø
+lie4
+¼¬
+ji2
+ê×
+yao4
+¿·
+kang1
+õ¤
+ming3
+ìÇ
+ye4
+Ì¶
+tan2
+ÃÇ
+men5
+î¥
+kui2
+Îì
+wu4
+õú
+hu2
+ÃÛ
+mi4
+µÂ
+de2
+Ó÷
+yu4
+ÑÛ
+yan3
+ÏØ
+xian4
+õå
+rou2
+İá
+bao3
+ÉÜ
+shao4
+ßı
+cui4
+Ï¿
+xia2
+ÈÍ
+ren4
+Òù
+yin2
+Ìº
+tan3
+æÄ
+wu4
+÷°
+da2
+ÙÇ
+fen4
+éå
+tian3
+Ç¼
+qiang1
+êÃ
+zan3
+ÊÒ
+shi4
+ÇÕ
+qin1
+Æ¶
+pin2
+÷û
+xi1
+¶Í
+duan4
+Øì
+le4
+ÆÀ
+ping2
+·¤
+fa2
+Ù¢
+tuo2
+ÑÃ
+ya2
+òÍ
+nao2
+°×
+bai2
+Û±
+yan3
+İÛ
+chan3
+÷ç
+mi2
+Ãá
+mian3
+İÆ
+tie1
+Îò
+wu4
+ğ¯
+jiu1
+èµ
+bi4
+Ïí
+xiang3
+áº
+min2
+Çí
+qiong2
+Â¸
+lu4
+Èà
+rou2
+ï×
+yi4
+Öë
+zhu1
+³ş
+chu3
+ÀÌ
+lao1
+âç
+chong1
+îü
+hua2
+ÄÀ
+mu4
+ßµ
+kou4
+È­
+quan2
+æâ
+fu4
+ÜÔ
+mo4
+Ï½
+xia2
+çÊ
+li2
+âÔ
+xiang2
+ĞÉ
+xing1
+¶¯
+dong4
+õ²
+lao2
+ô¶
+zhu2
+×è
+zu3
+Ø®
+yu2
+Ò¡
+yao2
+ÜÂ
+li4
+÷¡
+ao2
+ç®
+geng3
+¼¢
+ji1
+áõ
+rong2
+Ú½
+qiao4
+ã¼
+yong1
+³ï
+chou2
+Ş±
+wei1
+À¥
+kun1
+È£
+qu3
+â÷
+chao1
+á©
+qian1
+Ë°
+shui4
+ÊÀ
+shi4
+Êó
+shu3
+Äß
+ni2
+òÆ
+zha4
+áÚ
+yi2
+óÍ
+po3
+îã
+tan3
+³ü
+chu2
+ÁÄ
+liao2
+ôÙ
+ci2
+×ø
+zuo4
+ÍÃ
+tu4
+õÆ
+fu1
+ºş
+hu2
+ó²
+peng2
+òñ
+kui2
+ëé
+yu2
+é­
+lan3
+ÊÚ
+shou4
+ß®
+yi4
+ÏÄ
+xia4
+À»
+lan2
+ÈÛ
+rong2
+öã
+lian2
+íÆ
+di3
+æ¥
+yu2
+³ø
+chu2
+Üü
+jiang1
+ì¦
+sha4
+¹æ
+gui1
+ßÕ
+da1
+´ä
+cui4
+¼¾
+ji4
+ßõ
+ze2
+ñ·
+qiong2
+´ç
+cun4
+Ùæ
+chan3
+Ûâ
+long3
+º§
+hai4
+íÓ
+qi4
+áÆ
+guo1
+ñë
+huo1
+½÷
+jin3
+Î±
+wei3
+ÅÀ
+pa2
+àë
+huo4
+Åé
+peng1
+ÔÀ
+yue4
+Ş·
+tai2
+·í
+feng3
+ÒÚ
+yi4
+Çü
+qu1
+×á
+zou4
+ÇÇ
+qiao2
+íı
+ya2
+ÇŞ
+qin3
+÷ğ
+yi1
+İ÷
+yu4
+»»
+huan4
+é¸
+xuan4
+ÌÌ
+tang4
+¶¢
+ding1
+Äö
+nie4
+¿½
+kao3
+İß
+xi3
+ì¾
+yang2
+³Ô
+chi1
+½¿
+jiao1
+ß°
+dai4
+´¯
+chuang1
+Ê§
+shi1
+ÏÏ
+xian2
+ĞÛ
+xiong2
+Ä·
+mu3
+Áµ
+lian4
+ÜÉ
+chang2
+êÌ
+yan4
+ïİ
+luo2
+»İ
+hui4
+òú
+mao2
+×¢
+zhu4
+Ì¡
+ta3
+ÎÊ
+wen4
+Éù
+sheng1
+àé
+ru2
+¾®
+jing3
+ï»
+nuo4
+ôÇ
+qiang3
+ÖÊ
+zhi4
+â¬
+wei4
+İó
+jian1
+Øü
+you1
+Ë¸
+shuo4
+ÖÑ
+zhong1
+Èµ
+que4
+ÅÄ
+pai1
+ëø
+teng2
+ßà
+kuai4
+²ï
+cha4
+èë
+hua4
+ÊÎ
+shi4
+ËÍ
+song4
+ÔÄ
+yue4
+Ãé
+miao2
+ÕÆ
+zhang3
+´­
+chuan3
+ÒË
+yi2
+öß
+xiang3
+âù
+yi2
+´º
+chun1
+ë²
+ya4
+ØÙ
+jing3
+Õ´
+zhan1
+óÌ
+qiong2
+ÀÈ
+lang2
+ĞÓ
+xing4
+êî
+jin4
+Å¨
+nong2
+·µ
+fan3
+¶»
+dou4
+½º
+jiao1
+Ä¡
+mo2
+ÆÄ
+po1
+°Ê
+ba1
+áà
+yang2
+Óó
+yu4
+ÎÉ
+wen3
+½·
+jiao1
+ËÚ
+su4
+Ó©
+ying2
+Îà
+wu2
+½Ù
+jie2
+õ³
+bu2
+âØ
+bi4
+ØÜ
+kai3
+²¡
+bing4
+Ğ«
+xie1
+Û­
+xi1
+Û÷
+xun1
+ÛÎ
+ben3
+æ­
+shu1
+÷®
+zun1
+Âı
+man4
+Îä
+wu3
+ÀË
+lang4
+ê±
+ou1
+³Û
+chi2
+Éş
+sheng2
+Ù«
+yi4
+Ï¬
+xi1
+¹ø
+guo1
+İÀ
+jin3
+ëÚ
+kuai4
+ã©
+ti4
+éÜ
+yan2
+×¨
+zhuan1
+ãæ
+mian3
+íô
+yi2
+ß¬
+zuan4
+Ú¦
+jie2
+äö
+xuan2
+ºà
+heng1
+Ô§
+yuan1
+ŞÇ
+da1
+ñª
+long2
+îå
+shuo4
+íĞ
+nao2
+ÃÜ
+mi4
+ÊÖ
+shou3
+äÔ
+pen2
+¾²
+jing4
+ÅÌ
+pan2
+µ´
+dang4
+ß©
+xing3
+Ğù
+xuan1
+±õ
+bin1
+ÙÕ
+jiao1
+óã
+xiao3
+Øä
+qiao1
+âÇ
+cha1
+ïù
+lv3
+Ş²
+yi4
+Ã÷
+ming2
+Êä
+shu1
+ë¾
+yue4
+Ôæ
+zao3
+é¼
+fei3
+÷º
+jie4
+öò
+ni2
+áñ
+yun3
+×Ä
+zhuo2
+ç§
+zhou4
+·¨
+fa3
+ë»
+you3
+º÷
+hu2
+»Ö
+hui1
+Íô
+wang1
+³ê
+chou2
+ôè
+yi4
+ÆÔ
+pu3
+±¸
+bei4
+Ë£
+shua3
+ÚÍ
+yu4
+ä¹
+cen2
+ğş
+sao4
+îĞ
+bu4
+íÀ
+fa3
+ê¬
+kan1
+Ö«
+zhi1
+ÎÂ
+wen1
+ÇÈ
+qiao2
+ÙÁ
+wo1
+Æ¤
+pi2
+Óé
+yu2
+íÚ
+di4
+ß¥
+cuan1
+»ß
+hui4
+íü
+suo1
+ëû
+gu3
+Ãô
+min3
+Şë
+ya4
+õ¿
+bie2
+Ãğ
+mie4
+å¾
+huan2
+°Í
+ba1
+à¯
+yong2
+åä
+sui4
+Ìü
+ting1
+½¯
+jiang3
+óÉ
+zhao4
+Ü¶
+du4
+ã¹
+bi4
+¿ß
+ku1
+»¼
+huan4
+äà
+li4
+åë
+zhi3
+±Ş
+bian1
+ÁÉ
+liao2
+±ü
+bing3
+Êç
+shu1
+±Ï
+bi4
+ãÃ
+tian3
+Éñ
+shen2
+ÆÖ
+pu3
+Íá
+wai1
+Úî
+zou1
+áö
+kuai4
+Ùâ
+xi1
+Â¿
+lv5
+êÂ
+he2
+Ğº
+xie4
+õë
+pu3
+Ëø
+suo3
+è­
+cui3
+ê÷
+ji1
+òÜ
+chu2
+êÒ
+kui2
+ãå
+mu4
+±º
+bei4
+¸®
+fu3
+»Ó
+hui1
+Ú¨
+shan4
+¹ç
+gui1
+ôË
+xi1
+ÓË
+you2
+¹¡
+geng3
+»¸
+huan2
+àÛ
+pu1
+ºæ
+hong1
+·å
+feng1
+óÛ
+yan2
+ö·
+zi1
+Ü­
+yong1
+Ôõ
+zen3
+ß¹
+a1
+¸Õ
+gang1
+Ü¦
+die2
+å¢
+li3
+öî
+fei1
+íß
+sang3
+ÄÎ
+nai4
+õç
+pan2
+³¼
+chen2
+ğï
+xian2
+Ìí
+tian1
+éø
+shi4
+Ğş
+xuan2
+ÚÊ
+xue4
+áä
+chang2
+ò¨
+nie4
+Şú
+sang3
+ê­
+deng3
+èò
+xu3
+ïÂ
+pei2
+àØ
+peng1
+¾Í
+jiu4
+¸Ù
+gang1
+òé
+quan2
+êİ
+yi2
+Äó
+nie1
+Ú³
+lei3
+¿é
+kuai4
+áÎ
+yu2
+ÃÏ
+meng4
+ÆÏ
+pu2
+Øû
+ka3
+âû
+yan1
+ñÕ
+ju1
+ÄÚ
+nei4
+öÓ
+nian2
+ÀÂ
+lan3
+°²
+an1
+ò¸
+rui4
+¿æ
+kua4
+Ù§
+you4
+ÊÄ
+shi4
+È÷
+sa3
+ôî
+dao4
+µú
+die2
+²×
+cang1
+Â×
+lun2
+çş
+wan3
+Ï±
+xi2
+ÆÆ
+po4
+Ó¨
+ying2
+ïÎ
+lou4
+äş
+lai4
+îò
+jia2
+Ğğ
+xu4
+÷ì
+dai4
+´¨
+chuan1
+¸Ò
+gan3
+Ï©
+xi1
+Ø´
+zhi1
+Ó¥
+ying1
+ö«
+ji4
+ÈĞ
+ren4
+ñº
+yao3
+Ô´
+yuan2
+ÃÑ
+mi2
+á±
+ba1
+åÖ
+lu4
+çâ
+wei3
+Èõ
+ruo4
+¼Ü
+jia4
+Û§
+qie4
+Òä
+yi4
+½ú
+jin4
+æ¢
+zi3
+Òá
+yi4
+á¤
+zhang4
+ĞÈ
+xing1
+î½
+lan3
+¿Î
+ke4
+¸µ
+fu4
+òô
+sou1
+ÈÖ
+rong2
+ÔÆ
+yun2
+ÁÆ
+liao2
+ÒĞ
+yi3
+³¸
+che4
+½§
+jian4
+µæ
+dian4
+î×
+tou3
+ğ®
+yong3
+çÖ
+jiang1
+º¦
+hai4
+íç
+bo2
+ÇÛ
+qin2
+Íİ
+wa1
+Ö·
+zhi3
+ĞÖ
+xiong1
+ğÁ
+yu4
+²Ù
+cao1
+»¬
+hua2
+×ô
+zuo3
+×Ø
+zong1
+ñ±
+pi3
+ïì
+huo4
+âÂ
+yi2
+¿õ
+kuang4
+İ©
+bi2
+éÈ
+jin3
+¸ó
+ge2
+î¦
+mao4
+åË
+hou4
+Ï¨
+xi1
+³ç
+chong2
+Æ¼
+ping2
+±ó
+bin1
+Èä
+ru2
+ÀÆ
+lang2
+Àå
+li2
+å¹
+qian1
+¼±
+ji2
+Û·
+shan4
+ôÓ
+can4
+¶Â
+du3
+Ç¾
+qiang2
+ßÓ
+shen3
+ÔË
+yun4
+Äû
+ning2
+è©
+tang2
+àÀ
+he1
+Åú
+pi1
+°·
+an4
+Æû
+qi4
+åù
+shuo4
+ºí
+hou2
+´ü
+dai4
+õï
+lin4
+ä©
+ji4
+´°
+chuang1
+Íâ
+wai4
+ãã
+feng1
+Èø
+sa4
+ÕÎ
+zhang4
+ÓÀ
+yong3
+Ã§
+mang3
+Ë½
+si1
+»ê
+hun2
+³á
+chi4
+á¢
+wo4
+Ûº
+feng1
+¾·
+jing4
+³Ê
+cheng2
+Ä¸
+mu3
+Êê
+shu2
+í¯
+men4
+»Ä
+huang1
+×æ
+zu3
+Û®
+fu2
+·£
+fa2
+Ö¹
+zhi3
+èÂ
+miao3
+Âí
+ma3
+ç³
+fei1
+Úğ
+pi2
+õô
+zhi4
+Ìæ
+ti4
+ï±
+cuo4
+ÄÔ
+nao3
+ÍÉ
+tui4
+Ê×
+shou3
+á­
+xian4
+¹¨
+gong1
+â§
+cu4
+¶©
+ding4
+½»
+jiao1
+ì¢
+lin4
+Ñì
+yang1
+Áá
+ling2
+³Ü
+chi3
+¼Å
+ji4
+»Æ
+huang2
+×¼
+zhun3
+îæ
+shi4
+»×
+hui2
+ÌÄ
+tang2
+ÂË
+lv4
+Î§
+wei2
+Ü¬
+man4
+ïü
+lang2
+ğú
+hou2
+ê£
+cou4
+½ä
+jie4
+Ëã
+suan4
+Öã
+zhou3
+î©
+piao3
+ÍÌ
+tun1
+»Á
+huan4
+¿Ø
+kong4
+æ£
+gui1
+µÚ
+di4
+Çñ
+qiu1
+Ñæ
+yan4
+Ñ¿
+ya2
+´Å
+ci2
+Éğ
+shen1
+»ó
+huo4
+íÌ
+xia2
+Èğ
+rui4
+õĞ
+xian3
+ÒÔ
+yi3
+ïø
+shu2
+õ£
+xian1
+¸î
+ge1
+Ñ¥
+xue1
+İ±
+tu2
+ÊÁ
+shi4
+Ù÷
+bing3
+áÁ
+lai2
+·ü
+fu2
+Ó±
+ying3
+ìß
+jue2
+³®
+chao1
+ä×
+wo4
+ò½
+dou3
+÷ù
+wu2
+Á¸
+liang2
+òê
+wan1
+É©
+sao3
+Öß
+zhou1
+×Ö
+zi4
+·Ø
+fen2
+ºâ
+heng2
+éÆ
+zhu1
+İâ
+pa1
+Ö¼
+zhi3
+»Ë
+huang2
+Ûú
+zhi2
+ĞÚ
+xiong1
+ò¾
+yin3
+Íë
+wan3
+æÔ
+bi4
+°ù
+bang4
+íÇ
+la2
+ë¼
+yuan2
+ÇÙ
+qin2
+ÓÎ
+you2
+í¡
+dui4
+óò
+huang2
+æ¹
+e1
+Ä÷
+nie4
+²ß
+ce4
+Ã¦
+mang2
+Äı
+ning2
+î÷
+yin1
+ëÊ
+long2
+Å´
+nuo4
+ñ¸
+zhun1
+²¼
+bu4
+Ã¹
+mei2
+ğ§
+gui1
+Üà
+niao3
+çÆ
+jin4
+´Î
+ci4
+½ò
+jin1
+Ğ½
+xin1
+Ø²
+yao1
+Ñô
+yang2
+ôµ
+lu2
+÷Â
+bi4
+öù
+e4
+ÙŞ
+zu3
+Ïş
+xiao3
+»æ
+hui4
+ÔÍ
+yun4
+ÈÉ
+ren2
+ÛÄ
+xie2
+¶å
+duo4
+ó¸
+chan2
+ö´
+ju3
+É°
+sha1
+´¼
+chun2
+±¬
+bao4
+çğ
+ya2
+äÂ
+du2
+òû
+qin2
+Å­
+nu4
+Âê
+ma3
+ÉĞ
+shang4
+àÏ
+lei5
+ÏÍ
+xian2
+ã¿
+chong1
+¹¬
+gong1
+²§
+bo1
+ëÄ
+tai4
+æ×
+shuang1
+ôÛ
+rou2
+¹÷
+gun4
+ñø
+guo1
+ñ®
+lai4
+èå
+zhen1
+ê°
+zang1
+Ç¤
+qian1
+âÁ
+chi4
+éô
+zhen3
+ëï
+mian3
+¼ò
+jian3
+Æú
+qi4
+ÙØ
+xuan1
+ÑË
+yan1
+Æş
+qia1
+æî
+can1
+ÅÇ
+pai2
+öİ
+ji4
+Å©
+nong2
+ñÈ
+pan4
+µ¤
+dan1
+êÕ
+tun1
+êë
+di2
+ä¯
+liu2
+Ì×
+tao4
+ÓÙ
+yu1
+íË
+mang2
+¼§
+ji1
+Ùº
+feng4
+ã¢
+yun4
+ñş
+hang2
+ç¼
+ke4
+Õ¬
+zhai2
+È½
+ran3
+â¥
+ni2
+ÊÌ
+shi4
+ëÁ
+huang1
+ÑÂ
+ya2
+¸·
+fu4
+êñ
+jiang4
+ÚÔ
+dang3
+Øó
+ya2
+êÓ
+ai4
+ññ
+nou4
+á¶
+xiu4
+çü
+yan3
+ó®
+zhong1
+Öç
+zhou4
+¾Ö
+ju2
+ïÒ
+mo4
+óÙ
+bi4
+Ûş
+nian4
+ñÏ
+lian3
+äê
+huang2
+ğÖ
+yu4
+¶Ë
+duan1
+¼ø
+jian4
+ò´
+ge4
+ÄÃ
+na2
+Õ­
+zhai3
+Ãï
+mie4
+Üä
+qiong2
+İ­
+e2
+åô
+mi3
+³ª
+chang4
+º¶
+han4
+¼°
+ji2
+İê
+ru4
+ÉÄ
+shan4
+ãö
+ling2
+ëî
+nan3
+éº
+ying2
+Åµ
+nuo4
+ô§
+yu2
+Ëê
+sui4
+Àí
+li3
+Ç÷
+qu1
+Ø¡
+chu4
+¼â
+jian1
+Ëª
+shuang1
+çä
+min2
+¶ª
+diu1
+èÅ
+jian3
+çÓ
+xie2
+Ç®
+qian2
+Ìï
+tian2
+¾ö
+jue2
+ºï
+hou2
+ğ¿
+li2
+ÏÈ
+xian1
+å±
+ba4
+ŞÑ
+men2
+Á­
+lian2
+ò÷
+lou2
+Şì
+qin4
+Ñ¡
+xuan3
+äù
+si1
+İÈ
+huan2
+ì³
+fei3
+É§
+sao1
+ë±
+dong1
+âõ
+ni2
+ÜÎ
+qi2
+Ï¯
+xi2
+ÛË
+chang4
+ñä
+jun1
+Ş¢
+kou4
+íû
+di4
+¶ß
+duo1
+²â
+ce4
+Ãê
+miao3
+İÊ
+fu2
+åç
+hui4
+ß²
+bu3
+Ïó
+xiang4
+äÄ
+pi4
+ñù
+kui4
+Ç£
+qian1
+Õ÷
+zheng1
+îÆ
+yi3
+À÷
+li4
+º¸
+han4
+´Ö
+cu1
+¶à
+duo1
+ô²
+ban3
+ñ§
+luo3
+ÀÍ
+lao2
+õ¶
+ju4
+¶ï
+e2
+ÎÌ
+weng1
+Ü¨
+leng2
+çë
+min2
+¸Ì
+gan1
+÷©
+man2
+ìñ
+zuo4
+àÃ
+ge2
+ĞÅ
+xin4
+ç±
+ling2
+áü
+yu2
+åà
+lin2
+Ù¥
+ji2
+ÍŞ
+wa2
+ÏÂ
+xia4
+»Ú
+hui3
+óÏ
+sheng1
+ğ´
+dong1
+ëú
+chuai4
+Õ¸
+zhan3
+Æ£
+pi2
+å¤
+chan2
+¹¢
+geng3
+Şò
+yuan4
+öÈ
+wu4
+òĞ
+qu1
+¹Ï
+gua1
+äÜ
+she4
+İ£
+jin4
+²¦
+bo1
+À§
+kun4
+ÏĞ
+xian2
+´õ
+dai3
+Êû
+shu4
+éş
+wang3
+İ®
+mei2
+¸«
+fu3
+´Ä
+ci2
+æ¨
+zhou2
+ÉÛ
+shao4
+İì
+en1
+ç¥
+xie4
+ì°
+gou4
+ÑÙ
+yan3
+Îç
+wu3
+Ìè
+ti4
+ßæ
+nong2
+Òè
+yi4
+»Ş
+hui4
+ã¡
+ke4
+»ı
+ji1
+õ©
+tu2
+Ü²
+yi4
+Â»
+lu4
+´½
+chun2
+µı
+die2
+Ä¢
+mo2
+Îö
+xi1
+¸û
+geng1
+ã¾
+qiao2
+¹Ù
+guan1
+ò¦
+e4
+Ï²
+xi3
+¶É
+du4
+ÏÀ
+xia2
+·¾
+fang2
+Öö
+zhu3
+´û
+dai4
+ÈÜ
+rong2
+òß
+qing1
+äò
+lian4
+µø
+die1
+Ì³
+tan2
+å©
+hao2
+²¹
+bu3
+²ù
+chan3
+Áé
+ling2
+éÖ
+lu3
+Ã¯
+mao4
+ï´
+kai1
+àú
+pei4
+Ü¼
+xiang1
+îÓ
+ban3
+Áö
+liu2
+æø
+xiang1
+Şİ
+tian4
+éÁ
+cui1
+Õî
+zhen3
+áÊ
+yao3
+ì¡
+lian2
+î°
+quan3
+Í²
+tong3
+äÙ
+yan4
+ÔŞ
+zan4
+°ê
+ban4
+àä
+jin4
+ëÖ
+jing4
+Ñï
+yang2
+³î
+chou2
+ÒÃ
+yi2
+ÂÆ
+lv3
+Ã¶
+mei2
+äµ
+lai2
+ßÄ
+qin4
+âö
+fu2
+ÊÇ
+shi4
+Ş´
+sou3
+½²
+jiang3
+Ò¯
+ye2
+ÏÌ
+xian2
+íÃ
+long2
+ÅÍ
+pan2
+Â¼
+lu4
+ç«
+ku4
+î¢
+pi4
+İ¦
+hong2
+ê¸
+ga1
+éò
+zhi3
+ô©
+chong1
+éä
+shang1
+Ó»
+yong3
+ÈÁ
+rang3
+ÑÒ
+yan2
+²ç
+cha2
+å½
+qian1
+ïÊ
+cha1
+¹í
+gui3
+Ğ²
+xie2
+µò
+diao1
+Ûï
+shan1
+ì©
+biao1
+Ğé
+xu1
+ğë
+zhi4
+À¤
+kun1
+ğÔ
+jiao1
+Ìø
+tiao4
+Øõ
+wu3
+äó
+zhu1
+»û
+ji1
+Ì¬
+tai4
+¾Ì
+jiu4
+í¼
+ya4
+âÊ
+xiu1
+Ã½
+mei2
+ã£
+bei4
+Î°
+wei3
+åÒ
+qun1
+ßğ
+zao4
+ãº
+su4
+ä²
+ru4
+éà
+you2
+Úı
+bei4
+±ú
+bing3
+Çõ
+qiu2
+Ç°
+qian2
+ËÜ
+su4
+Ä»
+mu4
+Ïè
+xiang2
+Ú·
+shen1
+âŞ
+lin3
+æå
+nu2
+Ö¬
+zhi1
+ÕÉ
+zhang4
+êø
+ju4
+ÙÄ
+guan1
+ö®
+sha4
+¶û
+er3
+È§
+quan2
+º­
+han2
+Ç´
+qian3
+Çİ
+qin2
+İ¼
+jing1
+ì§
+xin1
+Ñ«
+xun1
+×Ç
+zhuo2
+ßç
+gen2
+Àª
+kuo4
+ßÊ
+ling4
+Ìñ
+tian2
+ãê
+bian4
+Åà
+pei2
+¹ï
+gui3
+÷Ù
+ji4
+Åğ
+peng2
+³Ö
+chi2
+äõ
+lu4
+Ğ¦
+xiao4
+æë
+qi2
+¶Ê
+du4
+öÛ
+wei3
+àÔ
+beng1
+×¶
+zhui1
+óå
+ze2
+µ¾
+dao4
+ÛÔ
+ji1
+²¾
+bu4
+Ãâ
+mian3
+æİ
+jie2
+òÕ
+yang2
+é¬
+lian4
+ÂÔ
+lue:4
+ÕÖ
+zhao4
+ëñ
+e4
+Èé
+ru3
+éÎ
+hu2
+ÕÔ
+zhao4
+Íµ
+tou1
+âÄ
+bo1
+Óì
+yu3
+é´
+chen4
+Òê
+yi4
+Êè
+shu1
+ÑÖ
+yan2
+´Ş
+cui1
+Îñ
+wu4
+÷·
+rou2
+Ó§
+ying1
+ã¥
+qian1
+ëã
+pao1
+Ìù
+tie1
+ÖÆ
+zhi4
+°Ô
+ba4
+ÜÊ
+cong1
+âş
+xun2
+ÓÑ
+you3
+ãâ
+cha4
+÷Ç
+du2
+Îø
+xi1
+÷¨
+xue3
+Ã«
+mao2
+ÒÓ
+yi3
+åİ
+ta1
+Æ¡
+pi2
+Ñí
+yang1
+åÉ
+jing4
+Ô¡
+yu4
+àò
+ling2
+±²
+bei4
+õ«
+kun1
+º¿
+hao2
+ÉÊ
+shang1
+¶¶
+dou3
+Ê¥
+sheng4
+ñ¼
+dou4
+ğ²
+zhen4
+´ì
+cuo4
+·à
+fen4
+Ö§
+zhi1
+ÕÄ
+zhang1
+Ûù
+yuan4
+îá
+yue4
+÷â
+hui1
+ì¸
+mao2
+Òå
+yi4
+Õ¹
+zhan3
+Øğ
+ren4
+Äµ
+mu3
+æÏ
+chang2
+Óø
+yu4
+¼Ñ
+jia1
+¾ß
+ju4
+Íç
+wan2
+çº
+wan3
+ã§
+kun3
+·ä
+feng1
+è°
+zhang1
+àÑ
+piao4
+êú
+pian1
+íÔ
+dui4
+ÒÀ
+yi1
+ØÊ
+jue2
+åü
+wu3
+èÉ
+xiao1
+À¾
+lan2
+Ù£
+ni4
+¶Î
+duan4
+ìä
+xi1
+Òİ
+yi4
+Óğ
+yu3
+Ş»
+gao3
+ÔÓ
+za2
+İÑ
+jian1
+¼å
+jian1
+Ş¡
+qu2
+¼Ô
+jia2
+ôÅ
+bi4
+Ãæ
+mian4
+¼Ì
+ji4
+±½
+ben3
+Ì­
+tai4
+À×
+lei2
+¾Ä
+jiu3
+ºö
+hu1
+Ü¹
+wan2
+ôÂ
+jia1
+íî
+kou1
+öØ
+tai2
+Í½
+tu2
+óÈ
+jian3
+Îı
+xi1
+Ş«
+meng2
+Ö¡
+zheng4
+ôë
+qi2
+óì
+dan1
+èá
+lao3
+¸å
+gao3
+ß¦
+gan3
+ñõ
+dan1
+Öô
+zhu3
+å¿
+jian3
+Ì®
+tan1
+ÔĞ
+yun4
+îø
+kai3
+×ó
+zuo3
+÷Ï
+xiang3
+õª
+lei4
+Ğö
+xu4
+×»
+zhun1
+ó¥
+tang2
+õ±
+tang2
+¶Õ
+dun1
+ãû
+tuo2
+·¡
+er4
+´®
+chuan4
+µã
+dian3
+Å¦
+niu3
+İè
+zhen1
+Ùà
+cuan1
+ñÌ
+ken4
+Óº
+yong1
+ĞÕ
+xing4
+ô½
+cao2
+Ôº
+yuan4
+Â±
+lu3
+ì²
+hu2
+ìÔ
+bian1
+èÎ
+zhi4
+Şş
+han4
+¸§
+fu3
+õ×
+huai2
+»¡
+hu2
+¾ğ
+jue2
+Õñ
+zhen4
+°¹
+ang1
+¶ã
+duo3
+¾ì
+juan4
+îİ
+ke1
+Şí
+yu2
+àİ
+jiao4
+Ğ¼
+xie4
+æ¼
+jie2
+í¦
+yang4
+Ô¶
+yuan3
+ÍÅ
+tuan2
+ÂÍ
+luan2
+µ¬
+dan4
+Æ¿
+ping2
+áş
+yin2
+¸Ş
+gao1
+ñÛ
+bian3
+ÕÊ
+zhang4
+İõ
+lang4
+Õ½
+zhan4
+ÛÒ
+fa2
+ñ¤
+ji2
+Ú¤
+ming2
+öç
+gun3
+¶Ï
+duan4
+äë
+ying2
+Ëß
+su4
+Ïñ
+xiang4
+ß¨
+pi3
+ëë
+ding4
+ïã
+jue2
+â¿
+ren4
+¿è
+kua4
+èõ
+fu2
+ï¨
+ru2
+Ì¾
+tan4
+íê
+fu2
+Ùã
+xun4
+ôÌ
+xian1
+Ê´
+shi2
+ÒŞ
+yi4
+İù
+meng2
+çÃ
+gou1
+ò¥
+han4
+´Ô
+cong2
+±´
+bei4
+Ò¢
+yao2
+ÇÓ
+qie4
+÷ã
+mi2
+õ¸
+xun1
+ôø
+jiang1
+Âª
+lou4
+¶ô
+e4
+çª
+dai4
+ŞÈ
+yi4
+íİ
+zhe2
+ÜÜ
+qing3
+Ë¯
+shui4
+öÅ
+chou2
+éï
+gu1
+ßÈ
+xia1
+í¶
+ji1
+»Ã
+huan4
+óú
+mie4
+ó¹
+lian2
+Ùç
+kui2
+ĞÁ
+xin1
+Ãß
+mian2
+ÙÎ
+tang3
+±¿
+ben4
+²¥
+bo1
+Êß
+shu1
+èó
+fan4
+ñÜ
+lan2
+Ë»
+si1
+ÓÌ
+you2
+Õ®
+zhai4
+ôÕ
+zong4
+èğ
+juan4
+¼õ
+jian3
+ºÚ
+hei1
+Ô¢
+yu4
+ì¬
+sou1
+Æì
+qi2
+¾Û
+ju4
+×¹
+zhui4
+ğĞ
+ying1
+¾´
+jing4
+Ú¿
+kuang2
+âê
+chang4
+âÍ
+zhuan4
+Å¯
+nuan3
+Øñ
+yu3
+ã¤
+song3
+ÚÒ
+pian3
+Úä
+qian1
+Ï»
+xia2
+áÂ
+song1
+Ä©
+mo4
+ÜÇ
+rui4
+ÄĞ
+nan2
+Á¥
+li4
+Úş
+ye4
+Üõ
+quan2
+êä
+qiu2
+ôı
+yi3
+İ¿
+song1
+Èê
+ru3
+İç
+jia1
+Ş×
+jie2
+à¥
+lang1
+³¹
+che4
+ÎÖ
+wo4
+´à
+cui4
+òÛ
+li2
+æ²
+li3
+ë®
+dao1
+¸Ø
+gang1
+öä
+jian1
+çû
+kun1
+èÕ
+xiao1
+ÍÙ
+tuo4
+Ñ¸
+xun4
+½ğ
+jin1
+ßØ
+xiao1
+éá
+ao2
+Ş©
+zui4
+ÖÜ
+zhou1
+Ç¡
+qia4
+Çç
+qing2
+ß´
+ji1
+é¤
+guo3
+ß«
+huo1
+İÜ
+kai3
+Ñé
+yan4
+¸ô
+ge2
+óî
+yuan1
+ïÃ
+juan3
+µÉ
+deng4
+¸Û
+gang3
+Á«
+lian2
+ğ¢
+ji4
+°¶
+an4
+ñ¨
+ying3
+¼ì
+jian3
+Í§
+ting3
+Åô
+peng2
+¶Ò
+dui4
+¿ø
+kui1
+Õã
+zhe4
+Ùµ
+li3
+ÜÙ
+mu4
+îı
+quan2
+»´
+huai2
+ëì
+jian4
+Şé
+die2
+æÃ
+ting2
+¶Ş
+duo1
+êÈ
+qi2
+ÌÅ
+tang2
+Ãø
+ming2
+âÓ
+xiu1
+çÍ
+bin1
+ßã
+mie1
+ÓÃ
+yong4
+ã­
+fei3
+òæ
+yi4
+´â
+cui4
+Îá
+wu2
+²Ã
+cai2
+ÈØ
+rong2
+Ê¼
+shi3
+âã
+chan4
+Ö£
+zheng4
+É¤
+sang3
+ëº
+die2
+µñ
+diao1
+Åş
+pi2
+µì
+dian4
+Í®
+tong2
+çò
+yao2
+ö¢
+su4
+Åã
+pei2
+Î¿
+wei4
+Çå
+qing1
+éü
+zhe2
+õ­
+hu2
+÷´
+man2
+ÚÏ
+an1
+×²
+zhuang4
+Å¸
+ou1
+¼Ø
+jia3
+Ôß
+zang1
+¾Ã
+jiu3
+Üô
+xing4
+óó
+hou2
+ïØ
+jia1
+²Ë
+cai4
+ÙÖ
+jiu4
+ÃÅ
+men2
+Ñğ
+yang2
+ãú
+pan4
+ñú
+ao2
+Ñø
+yang3
+ç¸
+liu3
+¹Ó
+gua4
+Üâ
+mao2
+¶¦
+ding3
+ğ©
+hao4
+Á¯
+lian2
+Éó
+shen3
+³í
+chou2
+ÛÑ
+e4
+é¿
+xie4
+½¢
+jian4
+¸ş
+geng1
+ğ¹
+er2
+±Æ
+bi1
+»ø
+ji1
+Ö¤
+zheng4
+Øê
+ding1
+À¦
+kun3
+ÕĞ
+zhao1
+Ğå
+xiu4
+ÉÕ
+shao1
+Æ÷
+qi4
+ÈÅ
+rao3
+òÏ
+si1
+º¯
+han2
+×Æ
+zhuo2
+ï¬
+keng1
+îÍ
+men2
+ÂÈ
+lv4
+Éé
+shen1
+Ó¹
+yong1
+Ø³
+yao2
+Ğ¹
+xie4
+±°
+bei1
+ºü
+hu2
+ßû
+tao2
+Áí
+ling4
+àº
+qin2
+å§
+pu2
+õ¦
+yan4
+·¯
+fan2
+Óß
+yu2
+Ùë
+fu2
+µİ
+di4
+Üğ
+ting2
+óÒ
+li4
+Õ£
+zha3
+Ëó
+suo1
+±§
+bao4
+Äì
+nian3
+È¢
+qu3
+³ã
+chi4
+´Ù
+cu4
+¹ğ
+gui4
+òÈ
+ling2
+Ì¯
+tan1
+îğ
+you3
+ÙÜ
+she2
+ëà
+tun2
+Óİ
+yu2
+ìİ
+sui4
+Ûç
+tuo2
+½ë
+jie4
+Â·
+lu4
+Õû
+zheng3
+ë©
+chang3
+ó¢
+yuan2
+¿³
+kan3
+÷¾
+di3
+öõ
+shi1
+Ùş
+xian3
+×Í
+zi1
+ëó
+cheng2
+½£
+jian4
+·©
+fa4
+ÖÌ
+zhi4
+í¢
+jia2
+¿û
+kui2
+åá
+ju4
+¶Ü
+dun4
+Ï¾
+xia2
+Ï£
+xi1
+ÜÏ
+shan1
+å¶
+you4
+Ëí
+sui4
+õÙ
+zhi4
+ô·
+ze2
+Óí
+yu3
+î­
+gu3
+Úè
+zuo4
+×ç
+zu3
+á¾
+xun2
+ää
+bi4
+Àµ
+lai4
+Äâ
+ni3
+ÍÀ
+tu2
+öÊ
+mou2
+¼ó
+jian3
+æ±
+cha4
+Ü£
+sao4
+½à
+jie2
+Óä
+yu2
+ç¶
+duo3
+êµ
+zeng4
+Àİ
+lei3
+â¨
+mi2
+ñØ
+bei4
+éé
+dan1
+à×
+mi4
+¾©
+jing1
+éÉ
+qiang2
+ãİ
+pan2
+ç©
+chu4
+µÀ
+dao4
+ôÃ
+qiu2
+àÂ
+suo1
+²¿
+bu4
+éî
+e4
+Éë
+shen1
+èÁ
+pi2
+ÌÆ
+tang2
+ãÖ
+qu4
+Õ·
+zhan3
+Ñ¦
+xue1
+ËØ
+su4
+óÔ
+tiao2
+ÙĞ
+nuo2
+µÖ
+di3
+Üî
+hui2
+íÛ
+xuan4
+Çã
+qing1
+°Ú
+bai3
+Êò
+shu3
+íÊ
+xing2
+îî
+lao3
+ï÷
+mo4
+¹Â
+gu1
+ïò
+shen3
+È«
+quan2
+õ¼
+qiong2
+Îó
+wu4
+ÖÁ
+zhi4
+Ò¼
+yi1
+»ö
+huo4
+ÎÅ
+wen2
+¹ú
+guo2
+ëõ
+ge2
+ö»
+wo4
+ÖÚ
+zhong4
+äª
+xu4
+Ù¯
+nong2
+öó
+nian2
+»­
+hua4
+÷¿
+hou2
+Ô³
+yuan2
+Û¥
+zhu1
+µí
+dian4
+Ó¬
+ying2
+Ğ¸
+xie4
+Òî
+yi4
+Îº
+wei4
+²ä
+ceng4
+É­
+sen1
+´Ğ
+cong1
+Ïî
+xiang4
+à´
+chi4
+óÃ
+zhu2
+Çä
+qing1
+Ò»
+yi1
+ï¶
+lang2
+éÌ
+tang2
+ËÑ
+sou1
+ë¿
+wo4
+Óù
+yu4
+æö
+chan3
+Í×
+tuo3
+¾û
+jun1
+¾Ç
+jiu4
+ìà
+cuan4
+Ãı
+miu4
+¶á
+duo2
+¾Ò
+ju1
+ØÒ
+bian3
+Ç¨
+qian1
+ÃÙ
+mi4
+ãô
+si4
+êÖ
+xun1
+Î©
+wei2
+Üñ
+qiao2
+¿¢
+jun4
+ÀÒ
+lao4
+Îú
+xi1
+¶Ô
+dui4
+ñ¶
+xi1
+ËÔ
+sou4
+°À
+ao3
+°´
+an4
+ØÂ
+mi3
+Òş
+yin3
+»À
+huan4
+æ·
+di4
+äÍ
+xie4
+Òé
+yi4
+´Á
+chuo1
+æÊ
+chi1
+Äé
+nian1
+ğÅ
+miao2
+ôØ
+zan1
+¿Ó
+keng1
+ÑÎ
+yan2
+Ùî
+si4
+±Ö
+bi4
+î¸
+gang1
+÷ï
+xia2
+³²
+chao2
+Ïé
+xiang2
+ô÷
+zhe3
+àç
+sai1
+³¥
+chang2
+Ñê
+yang1
+ÚÅ
+shen3
+ÎÄ
+wen2
+¸£
+fu2
+²ø
+chan2
+íå
+ca3
+Öú
+zhu4
+ãğ
+shu4
+±á
+bian3
+ïË
+sou1
+Çó
+qiu2
+×°
+zhuang1
+÷¢
+qi2
+ğğ
+sha1
+ö£
+zhi4
+½Ü
+jie2
+ßì
+geng3
+Öä
+zhou4
+ÂÜ
+luo2
+¼¦
+ji1
+ôÒ
+zi1
+ßó
+ji1
+Âş
+man4
+ÆÑ
+pu2
+å·
+chen2
+¼¤
+ji1
+ÙÉ
+xie2
+ìÜ
+fan2
+Ëû
+ta1
+Ş¼
+li2
+Îï
+wu4
+Ê­
+shi1
+ç·
+shou4
+¾Ô
+ju1
+»Ç
+huang2
+à¹
+hui4
+ò§
+zhuan1
+±¦
+bao3
+÷ë
+lin2
+µ¡
+dai4
+°±
+an1
+ÊÛ
+shou4
+æÕ
+niao3
+·½
+fang1
+İÇ
+yu2
+ìì
+xian1
+åÃ
+wu3
+¹·
+gou3
+Í³
+tong3
+ñà
+ru2
+Û¯
+pi2
+°È
+ba1
+ö©
+wen2
+Äî
+nian4
+ÜÕ
+gan1
+éÚ
+yuan2
+Ñû
+yao1
+×±
+zhuang1
+öÔ
+lu2
+äî
+cao2
+õğ
+chan2
+ÁĞ
+lie4
+´í
+cuo4
+Ì½
+tan4
+òá
+xi1
+··
+fan4
+Û¾
+qu2
+»§
+hu4
+Âİ
+luo2
+Öº
+zhi3
+ÔÊ
+yun3
+ìÃ
+hu1
+ôÚ
+xu3
+Áû
+long2
+°è
+ban4
+Â²
+lu3
+ÌÏ
+tao1
+Áô
+liu2
+îô
+ye2
+Ûö
+guo1
+óİ
+zheng1
+Öİ
+zhou1
+À´
+lai2
+ºÆ
+hao4
+Ù³
+li4
+±¥
+bao3
+Ş³
+weng4
+î¶
+tuan3
+àô
+yu3
+±ï
+bie1
+ä¸
+juan1
+Áü
+long2
+¸Ê
+gan1
+ã³
+yun4
+Ú§
+hong4
+Ë±
+shun3
+¼î
+jian3
+æ´
+wa1
+×İ
+zong4
+İú
+dou1
+Óô
+yu4
+¿Ü
+kou4
+²Ô
+cang1
+×Î
+zi1
+â³
+xie4
+î¼
+pi2
+¼ß
+jian1
+Øã
+jue2
+´²
+chuang2
+Êù
+shu4
+Ê÷
+shu4
+àÎ
+pei4
+±±
+bei3
+ìÀ
+dun4
+µÜ
+di4
+ôÑ
+xi1
+ÃÎ
+meng4
+Ïª
+xi1
+Å¥
+niu3
+òÅ
+ran2
+÷Ê
+yan3
+Ìë
+ti4
+Ò¸
+ye4
+»±
+huai2
+âÙ
+geng1
+ÙÒ
+xi1
+è§
+nao3
+Çô
+qiu2
+ãé
+gu3
+¿ç
+kua4
+ÒÇ
+yi2
+Å÷
+pi1
+ÎÍ
+weng4
+»Ì
+huang2
+Ê¹
+shi3
+ãş
+jing1
+µ¶
+dao1
+¶õ
+e4
+íÖ
+ding4
+Ê¦
+shi1
+°ı
+bao1
+Úõ
+han2
+ğü
+lou4
+æğ
+wu4
+í¿
+feng1
+öà
+xun2
+ò¼
+gong1
+¿ë
+kuai4
+ÛÜ
+pi3
+Ïä
+xiang1
+Õº
+zhan4
+ó½
+qu2
+Àî
+li3
+Òë
+yi4
+²Ö
+cang1
+àÙ
+jue1
+Ôã
+zao1
+¾¯
+jing3
+Æ¾
+ping2
+ï¤
+se4
+ğ¦
+rang2
+Ùá
+di2
+áû
+li4
+÷æ
+zhu3
+íª
+min3
+¼¡
+ji1
+õù
+pi2
+¾Á
+jiu3
+¾Î
+jiu4
+Ğß
+xiu1
+¸¢
+fu2
+´ß
+cui1
+İ²
+xian1
+´ï
+da2
+Ê®
+shi2
+ÖÕ
+zhong1
+ô»
+meng3
+ãï
+gan1
+È¡
+qu3
+×£
+zhu4
+¼ñ
+jian3
+Üå
+min2
+°«
+ai3
+Æ½
+ping2
+ŞŞ
+ye2
+Íú
+wang4
+ÔÈ
+yun2
+ŞÄ
+yi4
+ÄÓ
+nao2
+Ä¶
+mu3
+Ì¿
+tan4
+åß
+xian1
+¾Ù
+ju3
+°£
+ai1
+ÄÂ
+mu4
+Ùä
+hong2
+ëÒ
+gua1
+ğÎ
+yao4
+ºÀ
+hao2
+ÙÔ
+jian4
+´³
+chuang3
+æÍ
+qiang2
+Â¥
+lou2
+ÀÅ
+lang2
+âô
+zuo4
+ë­
+pie1
+ôó
+lie4
+ô­
+chuan2
+Óª
+ying2
+²È
+cai3
+»¦
+hu4
+¶¬
+dong1
+å¸
+ning2
+Ô×
+zai3
+çÙ
+huan2
+İğ
+ji2
+¶ç
+duo4
+çê
+po4
+ğä
+zha4
+ÛÃ
+xu4
+ßá
+duo3
+Ïõ
+xiao1
+²¤
+bo1
+ÌÙ
+teng2
+åÊ
+dai4
+ÎÀ
+wei4
+Ôâ
+zao1
+Ä¿
+mu4
+Çı
+qu1
+áÜ
+chi4
+íá
+qu2
+ñÅ
+ren4
+ëÛ
+sa4
+è÷
+zi3
+öŞ
+jiao1
+æó
+shan4
+Ş÷
+shuo4
+ê®
+gai4
+ËÊ
+song3
+É÷
+shen4
+ÊÔ
+shi4
+µÁ
+dao4
+ïÚ
+biao1
+¾¹
+jing4
+Éâ
+she4
+Ü¤
+dai4
+¼º
+ji3
+Ñ¨
+xue2
+âú
+tong4
+´¹
+chui2
+ğÜ
+jie1
+±É
+bi3
+¾ê
+juan1
+²Ì
+cai4
+Êà
+shu1
+Èó
+run4
+éì
+yi4
+õ´
+jiao4
+İº
+ying1
+Ø¦
+sa4
+µÒ
+di2
+ğÂ
+xian2
+·î
+feng4
+ô¼
+shou3
+ãî
+le4
+à²
+sou1
+÷í
+chu4
+İñ
+li2
+ÜÖ
+pie3
+¸±
+fu4
+ÛÆ
+xie4
+Ê±
+shi2
+¸¹
+fu4
+ºÒ
+he2
+Õ«
+zhai1
+ÌÍ
+tao1
+çÇ
+zhen3
+ëù
+zhi4
+¼·
+ji3
+ÙÀ
+luo3
+Á»
+liang2
+Á³
+lian3
+äá
+ru4
+Ìú
+tie3
+´£
+chu4
+ë½
+guo2
+ãÆ
+yan2
+Ô°
+yuan2
+²Ç
+cai3
+õÒ
+ji1
+·İ
+fen4
+äü
+tong2
+ÚÃ
+wei3
+À¡
+kui4
+Ãñ
+min2
+»¥
+hu4
+áÈ
+jue2
+ÂÙ
+lun2
+¸¦
+fu3
+ÓÊ
+you2
+Ñç
+yan4
+»î
+huo2
+Û¹
+ling2
+Üó
+ren3
+±È
+bi3
+×®
+zhuang1
+Ã®
+mao3
+Å®
+nv3
+çµ
+gun3
+æà
+zang3
+ï®
+li3
+æ®
+luan2
+¾¥
+jing1
+Ø¤
+gai4
+îÎ
+chai1
+áØ
+deng4
+ò©
+man1
+Ó³
+ying4
+éØ
+xi1
+ØÑ
+kui4
+ô´
+ge3
+²ª
+bo2
+½ü
+jin4
+¾¸
+jing4
+ç­
+jiang4
+·Ó
+fen1
+¼ğ
+jian3
+Û°
+tan2
+³À
+chen2
+Î¹
+wei4
+æé
+pian2
+ÈÑ
+ren4
+İä
+lou2
+õñ
+lie4
+²¯
+bo2
+Ì±
+tan1
+Ò§
+yao3
+ÎÈ
+wen3
+âß
+ying1
+Éè
+she4
+³ä
+chong1
+ÓÓ
+you4
+÷¬
+gui4
+Ä¯
+mo4
+Ìõ
+tiao2
+Ø·
+yin4
+Ù±
+chou2
+ÀØ
+lei2
+¶ü
+er3
+èÊ
+fang1
+·¥
+fa2
+éç
+lian4
+ÚË
+ye4
+íè
+kan1
+·ß
+fen4
+ïÄ
+tan2
+¹Î
+gua1
+É´
+sha1
+È×
+rong2
+¹Á
+gu1
+Ôô
+zei2
+Ñã
+yan4
+Û¤
+zhi4
+İé
+shi1
+Ô£
+yu4
+×â
+zu1
+±Ä
+beng4
+è¹
+yun4
+¿Ş
+ku1
+ä¼
+mei3
+´á
+cui4
+ßÆ
+za1
+Çì
+qing4
+·ø
+fu2
+Íî
+wan3
+³Ú
+chi2
+¹»
+gou4
+ñí
+tang1
+öÇ
+luan2
+óÕ
+jia1
+öï
+kun1
+òÀ
+han1
+·Î
+fei4
+´»
+chun1
+Íñ
+wan3
+ìº
+jing1
+éÀ
+gao1
+ÑÀ
+ya2
+ÁÅ
+liao2
+êÎ
+bu1
+ó´
+pan2
+Ú»
+hun4
+Ûã
+dian4
+Ê¨
+shi1
+ğ×
+hu4
+æÜ
+zi1
+Ò³
+ye4
+Ù¬
+tiao1
+ĞÊ
+xing1
+Ü¥
+ku1
+äç
+tang2
+Æ­
+pian4
+á×
+lin2
+Úö
+qiong2
+ØÈ
+cuo4
+²³
+bo2
+¼ı
+jian4
+áÄ
+gu4
+î¬
+lin2
+Òõ
+yin1
+ÓÂ
+yong3
+´Ê
+ci2
+Öò
+zhu2
+Øà
+wan1
+ïß
+zu2
+Æü
+qi4
+÷ö
+an4
+»Ò
+hui1
+ï¥
+chong4
+¶ó
+e4
+½¸
+jiao1
+ñı
+qi2
+Ãå
+mian3
+Õë
+zhen1
+ëŞ
+zhen4
+Áç
+ling2
+à½
+du1
+ñ×
+da1
+Ç¹
+qiang1
+ÁÕ
+lin2
+×Ü
+zong3
+ŞÆ
+lian2
+×é
+zu3
+ßø
+lin2
+÷ª
+min3
+Ìî
+tian2
+½´
+jiang4
+Î¶
+wei4
+İ´
+sui1
+Äæ
+ni4
+ãÑ
+chang1
+»Ñ
+huang3
+ìµ
+lan2
+Êæ
+shu1
+á®
+ao4
+È©
+quan2
+È°
+quan4
+²Â
+cai1
+èı
+qian4
+È¤
+qu4
+º¥
+hai4
+äí
+lan3
+ñÀ
+ju4
+ìÆ
+tai2
+ÓÍ
+you2
+Ã³
+mao4
+³é
+chou1
+Üí
+tong2
+îç
+xuan4
+ÇÎ
+qiao4
+áÉ
+rong2
+ğË
+ci2
+Øô
+wa3
+ãÈ
+hong2
+àğ
+lun2
+Çë
+qing3
+½ş
+jin4
+Õé
+zhen1
+Âë
+ma3
+âÅ
+yu2
+Áä
+ling2
+Áğ
+liu2
+ê¿
+xin1
+æÓ
+shan4
+ÍÁ
+tu3
+è±
+pu2
+ÔÃ
+yue4
+öì
+ling2
+±ù
+bing1
+Éê
+shen1
+Ûñ
+nao3
+ì¤
+xi1
+ÌÉ
+tang3
+Ğã
+xiu4
+·ù
+fu2
+Ó¸
+yong1
+Èá
+rou2
+êò
+pin4
+ßè
+mou1
+èã
+rao2
+Ô¦
+yu4
+áø
+sun1
+Áê
+ling2
+±ª
+bao4
+Ü´
+jiao1
+Éä
+she4
+àĞ
+cao2
+ï²
+lue:4
+Æã
+qi1
+ëß
+mi3
+¿Å
+ke1
+áã
+xi3
+ÖÓ
+zhong1
+ë³
+yin1
+×ò
+zuo2
+´Ã
+ci1
+Åº
+ou3
+Í£
+ting2
+·Ç
+fei1
+¾å
+ju4
+Üı
+luo4
+÷Ø
+tiao2
+Ó²
+ying4
+ß³
+chi4
+ö¨
+li4
+àÌ
+tong1
+ÜŞ
+fu2
+ÄÕ
+nao3
+Ş£
+xu5
+Èç
+ru2
+Àú
+li4
+Ã¼
+mei2
+Úñ
+wei1
+º°
+han3
+Ö²
+zhi2
+Ü±
+pi2
+Ò÷
+yin2
+°Ü
+bai4
+òè
+tiao2
+ñ¬
+chou1
+ßÔ
+hui1
+Ñù
+yang4
+ÑÈ
+ya4
+õÃ
+fu1
+ë¡
+ge2
+¾é
+juan1
+Óö
+yu4
+Ó¯
+ying2
+¹Õ
+guai3
+Ä¬
+mo4
+Û¬
+gao4
+è¿
+ma4
+·¹
+fan4
+ôç
+he2
+éö
+li4
+ëğ
+wa4
+²Ğ
+can2
+ñç
+lei3
+Ø¸
+kui2
+Ãí
+miao4
+Ôµ
+yuan2
+Ç·
+qian4
+À±
+la4
+Ä¾
+mu4
+°ï
+bang1
+ïÇ
+kai3
+÷Á
+ke1
+ĞÄ
+xin1
+öú
+qiu1
+Ú¡
+song1
+ïô
+zhi4
+äÏ
+mian3
+Ô·
+yuan4
+ºã
+heng2
+åé
+zhi4
+¶µ
+dou1
+áé
+qu2
+Òô
+yin1
+³ë
+chou2
+äú
+shan1
+Ş½
+huo4
+ÓÚ
+yu2
+ÎÒ
+wo3
+½Ñ
+jiao4
+ÊÅ
+shi4
+ÚÖ
+shi4
+ŞÀ
+fan2
+óÊ
+zi3
+Õş
+zheng4
+¾Ó
+ju1
+é³
+chui2
+ÉÍ
+shang3
+òõ
+yu2
+æÎ
+piao2
+¸ª
+fu3
+»Ø
+hui2
+Ïğ
+xiang4
+Ú¹
+quan2
+õÓ
+jiao1
+áÏ
+cuo2
+ç²
+qi3
+Ûê
+ao4
+Â¦
+lou2
+»Ê
+huang2
+ï¯
+gao4
+Ø¢
+ji1
+ÑÑ
+yan2
+Ãî
+miao4
+í»
+dun4
+îÑ
+tai4
+ò»
+jie4
+Ô¹
+yuan4
+ğµ
+lu2
+Ñë
+yang1
+ğå
+pao4
+ŞÂ
+mi2
+ó¿
+ying1
+ÓÔ
+you4
+ç¬
+hang2
+ÌÁ
+tang2
+àà
+lu1
+Ìª
+tai4
+é¦
+di4
+İ¥
+sun1
+âí
+bian4
+÷×
+ran2
+¹å
+gui1
+ØÏ
+po3
+áŞ
+cu2
+½¾
+jiao1
+ÑÉ
+yan1
+åã
+miao3
+¾ı
+jun1
+¹±
+gong4
+´ë
+cuo4
+÷¸
+gou1
+·¿
+fang2
+Â¤
+long3
+¹â
+guang1
+ÁÒ
+lie4
+Î»
+wei4
+ß§
+huan4
+°Î
+ba2
+Æ®
+piao1
+²½
+bu4
+ëË
+dong4
+ïî
+yi4
+òí
+chun1
+Ç½
+qiang2
+ì£
+yu2
+ç¡
+yun2
+÷ø
+you4
+ÃÌ
+meng3
+÷Ã
+lou2
+èä
+zhi4
+Ëò
+suo1
+É¹
+shai4
+Í´
+tong4
+ÛŞ
+li4
+ÃÔ
+mi2
+é±
+qiu1
+Ôå
+zao3
+èÌ
+zhu4
+ÅØ
+pao2
+×Õ
+zi4
+ãŞ
+qiang1
+¸¥
+fu2
+ßé
+ma4
+ÚÕ
+su4
+Òç
+yi4
+ñğ
+jiang3
+×Ï
+zi3
+¹¥
+gong1
+Éö
+shen4
+Æ¨
+pi4
+¸³
+fu4
+Õ§
+zha4
+ëè
+fei2
+ÎÛ
+wu1
+éÍ
+zhu1
+Úº
+zheng4
+¶÷
+en1
+áÑ
+zi1
+ğØ
+lu4
+¹Ø
+guan1
+Ã¤
+mang2
+í´
+xue2
+Ëä
+sui1
+ÇÔ
+qie4
+è¯
+xuan2
+öª
+ting2
+Ø×
+yi4
+èô
+gu4
+×¥
+zhua1
+Öæ
+zhou4
+Çş
+qu2
+ìØ
+shang1
+Áæ
+ling2
+Ê©
+shi1
+İà
+e4
+½é
+jie4
+ìÓ
+xuan1
+ó¯
+zhang1
+ôÜ
+qiu3
+ÎØ
+wu1
+Ï°
+xi2
+Ó®
+ying2
+ç»
+zi1
+áÖ
+zhang4
+íâ
+dun1
+Ô¤
+yu4
+Ûä
+lu2
+Ã²
+mao4
+ãµ
+e4
+Âï
+ma5
+ìú
+zhuo2
+ï½
+de2
+½è
+jie4
+Èì
+ru4
+áµ
+jia3
+âø
+yi4
+ç¤
+gan4
+»Ü
+hui4
+±·
+bei4
+Ì£
+ta4
+ââ
+cun3
+¸ß
+gao1
+Ò¦
+yao2
+Í­
+tong2
+¿ã
+ku4
+Şæ
+lie4
+Àº
+lan2
+½Í
+jiao4
+¿ª
+kai1
+ĞÙ
+xiong1
+Ñ·
+xun4
+ßĞ
+si1
+Ìğ
+tian2
+Ä®
+mo4
+¸¼
+fu4
+é¡
+luo2
+Öå
+zhou4
+ßÅ
+yin3
+Ø¼
+dian3
+°ª
+ai3
+òÖ
+mou2
+Şğ
+bing4
+´æ
+cun2
+Ã¬
+mao2
+Äã
+ni3
+»¿
+huan4
+¾É
+jiu4
+´Ï
+cong1
+ÇÍ
+qiao4
+´Ñ
+cong1
+½©
+jiang1
+õÎ
+qiao1
+ö³
+chen4
+Æñ
+qi3
+âÆ
+hun2
+àã
+hao1
+ë¬
+qu2
+ÅÂ
+pa4
+íÕ
+bei4
+çÒ
+sao1
+îÛ
+zheng1
+Ô¸
+yuan4
+÷É
+ba2
+Õò
+zhen4
+çì
+jia1
+ÌÊ
+tang3
+Ä³
+mou3
+ãÁ
+lin3
+ÁÎ
+liao4
+ÇÅ
+qiao2
+À©
+kuo4
+¼´
+ji2
+×ñ
+zun1
+Õ²
+zhan1
+¹×
+guan1
+Ê°
+shi2
+»³
+huai2
+ó£
+xi1
+Ìç
+ti4
+âË
+jin3
+²±
+bo2
+ÁÏ
+liao4
+Õê
+zhen1
+Æ³
+pie1
+àÓ
+ying1
+ëÆ
+zhun1
+òÇ
+qiu1
+ß­
+nang3
+Óû
+yu4
+ÇÖ
+qin1
+È»
+ran2
+à­
+kui2
+Ì÷
+tiao4
+¿í
+kuan1
+Õµ
+zhan3
+Õª
+zhai1
+»°
+hua4
+Çª
+qian1
+½Ò
+jie1
+Ã¸
+mei2
+±Ô
+bi4
+ÅŞ
+pei1
+İÍ
+cui4
+µà
+dian1
+Ùê
+hong1
+ÓÜ
+yu2
+åÍ
+bu1
+Ùé
+pu2
+Òı
+yin3
+Ïá
+xiang1
+öè
+sha1
+Ñ­
+xun2
+Üú
+jiao1
+Ì§
+tai2
+Ğµ
+xie4
+äå
+xiu4
+ÇÂ
+qiao1
+ÊÓ
+shi4
+â°
+jing4
+º±
+han3
+äÁ
+song1
+ÇØ
+qin2
+áÔ
+song1
+¾°
+jing3
+ñÖ
+duo1
+Ğ×
+xiong1
+Öı
+zhu4
+»ù
+ji1
+½í
+jin1
+ã¸
+qiao3
+Æµ
+pin2
+µŞ
+di4
+ñé
+chao4
+ß¤
+zun3
+ğ³
+gu1
+òü
+ao2
+×ã
+zu2
+Ùô
+xie4
+ì¹
+zhan1
+êâ
+zhen4
+¿¤
+jun4
+ËÃ
+si4
+ÊÃ
+shi4
+Ğ¥
+xiao4
+óÄ
+yu2
+åÀ
+jian3
+°ğ
+bang1
+Û»
+chu2
+ö­
+fei1
+è¬
+ying1
+Çµ
+qian4
+ÖÏ
+zhi4
+ÅÁ
+pa4
+Û½
+mai4
+ô°
+bi3
+Şä
+ju1
+õà
+zhong3
+ñÉ
+dang1
+ºº
+han4
+ë¹
+du2
+Ë«
+shuang1
+îì
+duo2
+½ã
+jie3
+Å¢
+ning4
+ÁÍ
+liao4
+Ğ÷
+xu4
+±­
+bei1
+Õ¢
+zha2
+¹Ì
+gu4
+Ş¶
+hao1
+»Ô
+hui1
+õ®
+ti2
+Ó½
+yong3
+¿â
+ku4
+É¾
+shan1
+Û³
+yan1
+½ê
+jie4
+Øá
+kuai3
+µ¸
+dao3
+¿²
+kan3
+òó
+fu4
+»à
+hui4
+´ù
+dai4
+Øø
+kang4
+Ï¹
+xia1
+Íà
+wa4
+·ú
+fu2
+Ú£
+zhong3
+îÔ
+qian2
+Õè
+zhen1
+»Â
+huan4
+Ğü
+xuan2
+¹ó
+gui4
+Åù
+pi1
+¹Ê
+gu4
+Ò¾
+yi1
+å¨
+bi4
+É¶
+sha4
+ó÷
+bi4
+²Ê
+cai3
+æÀ
+nu3
+âé
+kai4
+Æï
+qi2
+öÜ
+er2
+¾á
+ju4
+½³
+jiang4
+·ê
+feng2
+»½
+huan4
+æş
+kuang4
+Äª
+mo4
+Êí
+shu3
+èà
+kao3
+Ü÷
+xun2
+èÚ
+ling2
+×Ã
+zhuo2
+Ò­
+ye1
+ÍÜ
+wa1
+â²
+liao2
+îû
+diu1
+÷ò
+du2
+î»
+yan3
+²Ñ
+can2
+ò±
+ji3
+ñÄ
+na4
+±Ã
+beng4
+íï
+dun3
+õº
+cuo2
+ò×
+shen4
+Èı
+san1
+±¶
+bei4
+æ¶
+suo1
+¹Ä
+gu3
+æØ
+ga3
+ã½
+jing3
+ÚŞ
+zhan1
+ëÏ
+shen4
+Şó
+shu1
+Áè
+ling2
+öÂ
+ju1
+ğ£
+se4
+ÃÂ
+mei4
+ìª
+sa4
+ÍÏ
+tuo1
+ÖÍ
+zhi4
+ñµ
+song3
+ô«
+nie4
+Ú¾
+gao4
+óà
+gang4
+²¸
+bu3
+²ó
+chan1
+İ°
+li4
+Õ»
+zhan4
+°°
+an1
+ğø
+la4
+Ä¹
+mu4
+ïş
+ren3
+Üá
+yin4
+¶«
+dong1
+Ññ
+yang2
+·Í
+fei4
+ÅĞ
+pan4
+öö
+zi1
+»Õ
+hui1
+Éç
+she4
+ô¹
+shao1
+µá
+dian1
+Ä°
+mo4
+¹é
+gui1
+Î¥
+wei2
+Èù
+sai1
+Éî
+shen1
+ë§
+san1
+Ïâ
+xiang1
+ìŞ
+xian3
+Ó×
+you4
+¿¼
+kao3
+Êâ
+shu1
+Öâ
+zhou3
+·Õ
+fen1
+õò
+zuan1
+ÕÁ
+zhang1
+ÄÆ
+na4
+å¬
+xie4
+¹¸
+gou4
+ÏÜ
+xian4
+¼ú
+jian4
+Û¸
+zou1
+åê
+kao1
+Í±
+tong3
+õÌ
+tai2
+Õï
+zhen3
+Ò°
+ye3
+æÉ
+pin2
+ì½
+yi3
+Øş
+gou1
+·È
+fei1
+Ç²
+qian3
+Ê¸
+shi3
+ğÑ
+zhe4
+óø
+chi2
+³¶
+che3
+µ¦
+dan1
+Àà
+lei4
+íë
+fu3
+´©
+chuan1
+ÅÊ
+pan1
+Úò
+huang2
+öÙ
+gui1
+¼Ë
+ji4
+±Ê
+bi3
+Úã
+wu4
+äÖ
+xuan4
+ÅÃ
+pa5
+Àù
+li4
+çå
+jue2
+ÙË
+wei1
+Ä§
+mo2
+ëÑ
+zuo4
+Ç±
+qian2
+Õ¡
+zha2
+ÓÇ
+you1
+Æ±
+piao4
+ãó
+yang1
+Åë
+peng1
+µä
+dian3
+ÕÀ
+zhan4
+±Ë
+bi3
+¹Ë
+gu4
+Ôİ
+zan4
+ãì
+hang4
+·æ
+feng1
+Ñ×
+yan2
+ÀÊ
+lang3
+±ì
+biao1
+Âå
+luo4
+¹¼
+gu1
+çĞ
+lei2
+Ü°
+xin1
+æÁ
+ao3
+Æ×
+pu3
+Å¹
+ou1
+¸ë
+ge1
+åñ
+chan4
+Şô
+en4
+èñ
+an1
+ñ­
+ban1
+»È
+huang2
+Èü
+sai4
+¾Å
+jiu3
+º¨
+han1
+ÖÙ
+zhong4
+êÀ
+yun2
+âæ
+ou4
+ÀÔ
+lao4
+ïÀ
+gu4
+Âá
+luo2
+¿Ï
+ken3
+ÖŞ
+zhou1
+îŞ
+po3
+¿ô
+kuang4
+óÖ
+bian1
+µ«
+dan4
+îº
+li4
+ÍĞ
+tuo1
+¾à
+ju4
+ãá
+si4
+Ğñ
+xu4
+İ§
+zhou4
+Âò
+mai3
+°Ğ
+ba3
+ÚÇ
+sui4
+ãÒ
+xi4
+Í¸
+tou4
+çà
+ding1
+ß±
+shi4
+Ï¦
+xi1
+»É
+huang2
+åı
+yu4
+ÇË
+qiao4
+áï
+ma3
+àı
+ze2
+ôÔ
+lin2
+Ç¸
+qian4
+êé
+ji4
+ßß
+pai4
+Íø
+wang3
+ÆÂ
+po1
+Á¡
+li4
+Èë
+ru4
+ôå
+jian3
+º¢
+hai2
+Åî
+peng2
+Ï¢
+xi1
+Åá
+pei2
+è¨
+ai4
+³ö
+chu1
+ÒÏ
+yi3
+×î
+zui4
+Óş
+yu4
+ĞÍ
+xing2
+îÊ
+tu3
+åµ
+mi4
+ŞÁ
+nie4
+Ñ»
+ya1
+ó§
+shi4
+Â¾
+lu4
+»ä
+hui4
+ëµ
+yun1
+á´
+dong1
+ä¿
+qi2
+ïÔ
+juan1
+Â¨
+lou3
+÷Ó
+yong1
+äº
+bang1
+¿Ú
+kou3
+Ãº
+mei2
+ÇÉ
+qiao3
+°Û
+bai3
+¿Ã
+ke1
+Ğ¶
+xie4
+¼İ
+jia4
+·¶
+fan4
+äÓ
+xu4
+Ãû
+ming2
+àû
+tang3
+÷Ş
+bin4
+Á£
+li4
+İ·
+shen1
+èü
+du2
+¾Ï
+ju1
+½ô
+jin3
+õâ
+duo2
+Áñ
+liu2
+à¡
+yo1
+êË
+chao2
+ìş
+tan3
+Ë¶
+shuo4
+ã±
+hu1
+½ó
+jin1
+Æ°
+piao2
+½¡
+jian4
+ÌĞ
+tao1
+Êö
+shu4
+èÙ
+zhi1
+¸¨
+fu3
+Ğò
+xu4
+õ¯
+xu3
+Ü©
+hou4
+¶Ö
+dun1
+±»
+bei4
+ö¯
+yin2
+Çû
+qu1
+ä¬
+tao2
+÷¼
+ku1
+ÁÚ
+lin2
+È±
+que1
+çŞ
+zai1
+Ìã
+ti2
+Ä´
+mu3
+´è
+cuo1
+åÚ
+xia2
+Úë
+gai1
+İÃ
+ba2
+ãÅ
+shuan1
+ÈÄ
+rao2
+éã
+cu2
+éË
+chu1
+õø
+mo4
+âò
+da2
+Îß
+wu2
+ĞÇ
+xing1
+µß
+dian1
+¿Í
+ke4
+ÎÙ
+wu1
+ÃÊ
+meng2
+ÍÑ
+tuo1
+Ú¬
+gu3
+ØÆ
+ze4
+ÒÜ
+yi4
+ôÍ
+mi3
+ó±
+mao2
+ÏÓ
+xian2
+àì
+nang1
+èø
+suo1
+ÒÈ
+yi2
+òÓ
+qi2
+Çî
+qiong2
+àÕ
+sou3
+Ô¬
+yuan2
+õî
+zhu2
+İŞ
+kui4
+ÒØ
+yi4
+ìÉ
+wu4
+ó¶
+huo4
+íØ
+zhou2
+åÎ
+li3
+è³
+qu2
+Úæ
+ban3
+µª
+dan4
+Ş¦
+xun4
+Çï
+qiu1
+Êº
+shi3
+ôû
+gan1
+ìô
+ci2
+÷ô
+qing2
+ï¡
+sha1
+¶¥
+ding3
+ÜØ
+ba2
+ï·
+qin2
+êû
+kao4
+ÑÇ
+ya4
+İ¯
+you2
+ñò
+mo4
+æÖ
+ma1
+èì
+heng2
+¶í
+e2
+µ¨
+dan3
+¹Æ
+gu3
+¸»
+fu4
+÷£
+ta3
+¹ö
+gun3
+·³
+fan2
+é®
+ji2
+ÎÜ
+wu1
+¿ê
+kuai4
+ºø
+hu2
+½¨
+jian4
+î£
+rui4
+³¬
+chao1
+âÉ
+mo2
+Çğ
+qiu1
+í­
+dui4
+òà
+qi2
+¹Ü
+guan3
+Éï
+shen1
+ÓÈ
+you2
+Öõ
+zhu3
+ïÁ
+huo1
+Ùı
+lie4
+Á¢
+li4
+Ïæ
+xiang1
+É®
+seng1
+º«
+han2
+éÊ
+qi1
+ÂÖ
+lun2
+ĞÒ
+xing4
+¸Å
+gai4
+¸´
+fu4
+ÃÀ
+mei3
+Àõ
+li4
+ê©
+jia2
+ëÀ
+rong2
+Àğ
+li3
+Üï
+zhu1
+÷ú
+yan3
+Ö½
+zhi3
+¿Ì
+ke4
+Á¶
+lian4
+ÛÂ
+meng3
+ßÙ
+bi4
+½Ö
+jie1
+±Ñ
+bi4
+Óà
+yu2
+ğÏ
+jian1
+Ûá
+gan1
+»¾
+huan4
+ĞŞ
+xiu1
+¼ï
+jian3
+Ù©
+kan3
+õ÷
+xiu1
+ä§
+hui2
+ÔÂ
+yue4
+ËÎ
+song4
+ò£
+ying3
+Ûò
+gai1
+îÏ
+nv3
+ÓÅ
+you1
+Ñè
+yan4
+áÅ
+xiao2
+ÔÚ
+zai4
+Æı
+qi4
+ó«
+tang2
+âÕ
+tuo3
+ñ«
+yin3
+×Ê
+zi1
+òå
+guo1
+ïÙ
+bin1
+ÅË
+pan1
+ëÕ
+zhi1
+÷Õ
+kun1
+ö§
+yu2
+íş
+ni4
+¹°
+gong3
+Ê»
+shi3
+·é
+feng1
+¼æ
+jian1
+Ü¢
+tu4
+ĞÌ
+xing2
+ÄŞ
+ni2
+³´
+chao3
+ÂÀ
+lv3
+ê¤
+lu4
+ÂÎ
+luan2
+Ä¤
+mo2
+çÌ
+jian1
+ßä
+mi1
+²Õ
+cang1
+ÒÄ
+yi2
+ğ»
+gua1
+Ùú
+lei2
+Ò½
+yi1
+ßü
+hu1
+İî
+weng3
+Àè
+li2
+è¦
+xia2
+àÁ
+chen1
+ÒÒ
+yi3
+Üé
+rao2
+ÂÄ
+lv3
+Ø¬
+e4
+ä´
+wu2
+İÔ
+gu1
+èÃ
+yao3
+µ»
+dao3
+çÜ
+ji1
+Í¼
+tu2
+³Ã
+chen4
+Ëö
+suo3
+Ö¦
+zhi1
+ëâ
+cuo3
+÷÷
+fen2
+½õ
+jin3
+ÙÆ
+ju4
+ÃÃ
+mei4
+¼ã
+jian1
+ğÆ
+an1
+¿ü
+kui2
+ÕÌ
+zhang4
+ºµ
+han4
+Îù
+xi1
+àè
+pi1
+Ùù
+luo3
+ßò
+zuo4
+Â÷
+man2
+Ø°
+bi3
+Éø
+shen4
+Şö
+jian1
+ÑÁ
+ya2
+êª
+ji3
+öá
+geng3
+íÈ
+tuo2
+Öè
+zhou4
+×«
+zhuan4
+Òğ
+yin1
+á¡
+wei2
+ÎÇ
+wen3
+ØÛ
+gui4
+Á÷
+liu2
+ÓØ
+yu1
+¾Õ
+ju2
+ßÑ
+kuang1
+Ä×
+nao4
+ô¾
+chong1
+æÛ
+nu2
+Úí
+nie4
+ğí
+wu4
+İû
+xi3
+¿Ò
+ken3
+ÜÚ
+ju1
+ËÂ
+si4
+êö
+gu4
+Èâ
+rou4
+Óú
+yu4
+çÁ
+si1
+ºê
+hong2
+ÚÎ
+xuan1
+êÔ
+ming2
+ğ°
+yuan1
+¿ú
+kui1
+Í¤
+ting2
+Ñ¶
+xun4
+ÉÅ
+shan4
+êß
+zi1
+ëæ
+jing1
+Ë×
+su2
+È¹
+qun2
+¶Å
+du4
+æ¯
+jiao1
+ìĞ
+wei1
+ÀĞ
+lao3
+Ùò
+gun3
+¼é
+jian1
+æã
+zou1
+Ûå
+che4
+÷İ
+jiu1
+Ëé
+sui4
+Ïò
+xiang4
+ß×
+yi2
+İæ
+xuan1
+ĞÂ
+xin1
+Ää
+ni4
+Ö­
+zhi1
+ÜÃ
+e4
+¼É
+ji4
+·ç
+feng1
+öÃ
+luo4
+Êå
+shu1
+ã÷
+mao3
+Üö
+hui4
+ÂÅ
+lv3
+¾î
+juan4
+éú
+quan2
+Àò
+li4
+¸ê
+ge1
+âÑ
+gui3
+óù
+su4
+÷²
+da2
+ğõ
+yu3
+Øæ
+yi4
+ÏÛ
+xian4
+µÌ
+di1
+Íæ
+wan2
+Éí
+shen1
+·¼
+fang1
+öô
+diao1
+ó¾
+fou3
+Èİ
+rong2
+Ê¾
+shi4
+»«
+hua2
+õŞ
+die2
+ô¬
+nv4
+ç¨
+fu2
+ÏŞ
+xian4
+Ú¶
+hui1
+éÙ
+ju2
+æÌ
+yan1
+ßê
+chi1
+Öù
+zhu4
+Ş­
+qi2
+ãÂ
+meng3
+ºô
+hu1
+Æó
+qi3
+Í¿
+tu2
+Ëâ
+suan4
+öÕ
+su1
+¿Ñ
+ken3
+Ñ¾
+ya1
+¹º
+gou4
+òç
+pi2
+ã²
+cui4
+Îû
+xi1
+ó¡
+ma2
+×½
+zhuo1
+íú
+jian3
+Şî
+an3
+°Â
+ao4
+Õİ
+zhe2
+ëØ
+dong4
+µÇ
+deng1
+ïª
+lai2
+²Ó
+can4
+Ôê
+zao4
+ôÁ
+niao3
+êü
+qie4
+ÂÉ
+lv4
+±«
+bao4
+çß
+yong1
+Îè
+wu3
+æú
+yu1
+ÕÅ
+zhang1
+íÜ
+bian3
+â¹
+yin2
+±è
+bian4
+íÂ
+li4
+Ïå
+xiang1
+ß¼
+m2
+Öñ
+zhu2
+Ë³
+shun4
+Ìä
+ti2
+ÒÊ
+yi2
+ö½
+yuan2
+Íû
+wang4
+Şµ
+bi4
+¸Ğ
+gan3
+Ùß
+yue4
+á³
+ke3
+Øù
+zhu4
+Ì·
+tan2
+èÒ
+ping2
+ñô
+ding1
+óç
+zhu4
+ÌÛ
+teng2
+¶ù
+er2
+Î¦
+wei2
+Çù
+qu1
+ìé
+fei1
+¼®
+ji2
+îï
+er3
+Åï
+peng2
+á¦
+fan1
+Üª
+ge2
+ïç
+lan2
+Ê£
+sheng4
+õÍ
+kui3
+ÖÂ
+zhi4
+ôê
+zhi2
+ÑÓ
+yan2
+ãË
+ta4
+Ô¯
+yuan2
+Óæ
+yu2
+¸í
+ge1
+óé
+qian2
+èÀ
+li4
+É¬
+se4
+öğ
+chang1
+ÜÆ
+zhi3
+»ú
+ji1
+¸½
+fu4
+Íï
+wan3
+ãü
+hong2
+ó¨
+huang2
+Îî
+wu4
+ãè
+mi4
+°à
+ban1
+Äê
+nian2
+ë¦
+jian4
+ñó
+die2
+Ñò
+yang2
+Î½
+wei4
+éæ
+yun3
+æñ
+ao4
+³¦
+chang2
+Ôé
+zao3
+Ù­
+chai2
+È®
+quan3
+Åö
+peng4
+İü
+lian3
+ß£
+lu1
+Ø¯
+pie3
+º´
+han4
+Ú±
+yi2
+Ğ¢
+xiao4
+¶­
+dong3
+»ğ
+huo3
+ñ³
+qu2
+Ã×
+mi3
+Êª
+shi1
+à«
+nan2
+Óç
+yu2
+íí
+mian3
+Óî
+yu3
+ÉÖ
+shao2
+é§
+ju1
+Ñİ
+yan3
+åÑ
+ti4
+ÎÑ
+wo1
+ô®
+shan1
+ãí
+wei2
+×Ù
+zong1
+Û¿
+shao4
+÷µ
+jian1
+çı
+cong2
+âÖ
+an1
+»ñ
+huo4
+ğç
+xuan2
+¼Á
+ji4
+Æª
+pian1
+í®
+mao4
+ÊÜ
+shou4
+îó
+nao2
+ºú
+hu2
+ÏÁ
+xia2
+Ãà
+mian2
+ï­
+zeng4
+Ø§
+pi1
+â¢
+yi1
+çÉ
+gao3
+Å·
+ou1
+Ûİ
+yi2
+ÍÒ
+tuo2
+¾»
+jing4
+²Å
+cai2
+É£
+sang1
+ßÃ
+guo1
+Â£
+long3
+Ïø
+xiao1
+½İ
+jie2
+ÚÂ
+zhuo2
+ö¹
+yu3
+ØÁ
+qi2
+Æø
+qi4
+Ãª
+mao2
+³â
+chi4
+ö¥
+qing3
+Ø­
+shu4
+Ì°
+tan1
+ëÉ
+qian3
+Ñú
+yang4
+ğÃ
+ti2
+áÓ
+sheng4
+Ö°
+zhi2
+×Ò
+zi3
+İÕ
+han4
+åÇ
+er3
+ÙÌ
+zong3
+Àé
+li2
+ËÇ
+si4
+Şª
+ji2
+²Û
+cao2
+éù
+zhi4
+ãÍ
+kun3
+İÌ
+dan4
+°¯
+ai4
+ÑÕ
+yan2
+ô¡
+dian4
+¾æ
+ju4
+Æô
+qi3
+³©
+chang4
+Åå
+pei4
+ñÓ
+ti4
+ÙÂ
+bi3
+À¬
+la1
+Õç
+zhen1
+¸¾
+fu4
+ç¿
+miao3
+ğª
+xi1
+Ò¹
+ye4
+ñì
+lao4
+ÚØ
+zhe2
+á²
+hu4
+Ğ¯
+xie2
+õÁ
+ta1
+ïĞ
+fei4
+ÆÅ
+po2
+½ì
+jie4
+×å
+zu2
+Åâ
+pei2
+ìï
+hu4
+ÜÓ
+yi3
+İö
+ying2
+ÈÈ
+re4
+¹«
+gong1
+Êë
+shu2
+áÕ
+ji2
+²Ü
+cao2
+İİ
+qi4
+µó
+diao1
+ñ¹
+bian3
+µÑ
+di2
+ßË
+dong1
+ÅÓ
+pang2
+İ¬
+you3
+Ş¯
+xie4
+±æ
+bian4
+åÕ
+huan4
+öı
+bian1
+»Ğ
+huang3
+òÃ
+li4
+Ùö
+pou2
+ÉÇ
+shan4
+Ğï
+xu4
+àß
+qin2
+òö
+you2
+ØÀ
+ji1
+Àá
+lei4
+¿¶
+kang1
+ËÀ
+si3
+±Ó
+bi4
+ÈÚ
+rong2
+²ı
+chang1
+ôô
+zi1
+ïº
+qiang1
+Îõ
+xi1
+ôÆ
+di1
+ÖÄ
+zhi4
+ÎÓ
+wo4
+òì
+meng3
+½Ó
+jie1
+ÕË
+zhang4
+îÕ
+fang1
+Ûë
+ya1
+Ïü
+xiao1
+ÊÕ
+shou1
+Í¦
+ting3
+Ìş
+ting1
+Ûà
+ban3
+Ö¯
+zhi1
+àí
+wei2
+İ¾
+xi1
+½°
+jiang3
+¶Ì
+duan3
+ÊÉ
+shi4
+Íª
+tong2
+Ó¤
+ying1
+Ñä
+yan4
+ÌÓ
+tao2
+°ü
+bao1
+İÂ
+qi1
+Ô÷
+zeng1
+ó·
+meng3
+ğù
+yi4
+ºñ
+hou4
+æ¤
+niu1
+ÜÒ
+kou1
+º¬
+han2
+ö°
+ai3
+¼Â
+ji4
+°§
+ai1
+ìí
+zhi3
+»ë
+hun2
+ğé
+ya3
+ÒÍ
+yi2
+èÜ
+di3
+äÆ
+gan4
+ë¤
+mu2
+êô
+gu3
+êĞ
+gui3
+ĞØ
+xiong1
+áß
+xun4
+ò·
+pi2
+ÖË
+zhi4
+±¨
+bao4
+Ç«
+qian1
+á·
+dai4
+ëô
+ying4
+·Ã
+fang3
+èï
+luan2
+¶Æ
+du4
+È¼
+ran2
+æ»
+biao3
+òò
+ke1
+Ãè
+miao2
+´Í
+ci4
+Æ¹
+ping1
+çİ
+chuan1
+÷î
+you3
+²ì
+cha2
+ÕÚ
+zhe1
+İã
+ting2
+ÈÇ
+re3
+ÒÕ
+yi4
+ôÀ
+qin1
+Ôí
+zao4
+Ü×
+long2
+ñÙ
+bao3
+Ôö
+zeng1
+ã¶
+leng4
+Ë²
+shun4
+óğ
+zhen1
+õá
+ju3
+è£
+mao4
+öû
+fu4
+Ì¥
+tai1
+èº
+tao1
+â´
+xun1
+Ù×
+zhuang4
+èË
+pa2
+ğö
+yu1
+õ¬
+pei1
+Şø
+zhan3
+¼­
+ji2
+ÁØ
+lin2
+Áõ
+liu2
+æÙ
+ga2
+ºª
+han2
+Ï×
+xian4
+¿î
+kuan3
+ÍÓ
+tuo2
+áğ
+niu3
+å×
+chuan2
+ô×
+hou2
+ÏÎ
+xian2
+âÜ
+chan2
+Ğô
+xu4
+Ú¼
+xu3
+°¿
+ao2
+µû
+die2
+ÏÙ
+xian4
+æÒ
+xi1
+ìù
+xi4
+Şá
+ji3
+Ğİ
+xiu1
+íÄ
+zha3
+Êµ
+shi2
+·ô
+fu1
+Ñõ
+yang3
+Õì
+zhen1
+¶§
+ding4
+ç¢
+pi1
+Èã
+ru2
+Ö÷
+zhu3
+êŞ
+zhi4
+ÕÓ
+zhao3
+Õö
+zheng1
+ìÑ
+duan4
+µÈ
+deng3
+ğÌ
+mei2
+áĞ
+lou3
+¼È
+ji4
+ñ²
+dian1
+¸õ
+ge4
+µÆ
+deng1
+¶£
+ding1
+ÒÑ
+yi3
+óÅ
+ji2
+ãØ
+he2
+ôÏ
+li4
+éİ
+lin3
+÷¶
+ju1
+ßÒ
+ji1
+õµ
+xi1
+Ş¸
+ru2
+êÆ
+chang3
+éĞ
+yue4
+÷Ì
+xiao1
+Ø¹
+yu4
+÷­
+shan4
+ñã
+xu1
+ØÄ
+se4
+ç´
+shang4
+ÕÃ
+zhang1
+Å«
+nu2
+Ôó
+ze2
+àÒ
+qi1
+æ³
+ping1
+Ôà
+zang4
+³ó
+chou3
+çÈ
+ru4
+ä¢
+wei3
+Òà
+yi4
+ÌÖ
+tao3
+ğß
+li4
+ğ·
+chi1
+ôÊ
+tang1
+´¬
+chuan2
+²¬
+bo2
+Æà
+qi1
+Àş
+li4
+èê
+jiu4
+¾º
+jing4
+ÈÙ
+rong2
+ßª
+zhuo2
+ôö
+nan3
+ÂĞ
+luan2
+½Ş
+jie2
+·ó
+fu1
+İÎ
+yan1
+ÄÙ
+nei3
+í¸
+dang4
+öµ
+bao1
+¿÷
+kui1
+ë÷
+bin4
+Îô
+xi1
+³¾
+chen2
+ï¾
+ke4
+Á½
+liang3
+Õ¶
+zhan3
+Ùü
+hu4
+Ç¯
+qian2
+·Å
+fang4
+Õ×
+zhao4
+Æå
+qi2
+äæ
+fu3
+ò¯
+qian2
+Ø¶
+xin4
+èâ
+ya1
+åÄ
+jiong3
+·ª
+fan1
+ÑÍ
+yan1
+é÷
+yao2
+À¿
+lan3
+ÀÙ
+lei3
+ÏÑ
+xian2
+°Ş
+bai4
+Ñı
+yao1
+å­
+ying2
+ÎÁ
+wen1
+ñ¾
+yu2
+Û¶
+po2
+ñå
+cun1
+·Ñ
+fei4
+·Ğ
+fei4
+Ñº
+ya1
+Æî
+qi2
+óÁ
+xia4
+õÉ
+tuo2
+Éå
+she4
+Úì
+zhi4
+Æ¦
+pi3
+Ùİ
+qian1
+Å³
+nuo4
+Áò
+liu2
+Ê·
+shi3
+âü
+ce4
+°³
+an3
+°ä
+ban1
+¼ê
+jian1
+Ùª
+zhu1
+²Ï
+can2
+Ë·
+shuo4
+äß
+pu3
+ÉË
+shang1
+ñî
+ou3
+Ú«
+ne4
+ëş
+shan1
+Ãì
+miao3
+÷ş
+zha1
+¸¯
+fu3
+÷«
+yong1
+Áİ
+lin3
+Óò
+yu4
+éª
+nan2
+½ß
+jie2
+Ø«
+nao1
+À¼
+lan2
+Ë§
+shuai4
+¼ª
+ji2
+Êã
+shu1
+¸ı
+geng1
+Õæ
+zhen1
+Ş°
+hong1
+óè
+ruo4
+Íä
+wan1
+à¦
+li4
+Õó
+zhen4
+ºÔ
+he2
+Şè
+guan4
+÷Ä
+qia4
+ÜÛ
+ran3
+åí
+e1
+Ñ¤
+xuan4
+ğ¬
+die2
+¸Ó
+gan4
+Ó«
+ying2
+µë
+dian4
+õÏ
+bi4
+°å
+ban3
+Ï¡
+xi1
+èÓ
+lu2
+³É
+cheng2
+É¦
+sao1
+Á±
+lian2
+ÙÃ
+ti4
+Ï¼
+xia2
+éë
+bin4
+ÉÉ
+shan4
+ãÄ
+hui1
+ß÷
+miao1
+İï
+hao1
+Á·
+lian4
+Û¼
+huan4
+³Â
+chen2
+µÍ
+di1
+¹î
+gui3
+´ú
+dai4
+³¿
+chen2
+ïö
+zi3
+Ü«
+yuan2
+õ¨
+cheng2
+òî
+rong2
+àö
+yu3
+ÚÉ
+jian4
+íº
+che1
+Ôü
+zha1
+ĞÔ
+xing4
+ò¶
+fu2
+áì
+qiu2
+ïÏ
+qiang1
+µ¿
+dao4
+á»
+yi4
+Ó­
+ying2
+ë·
+chi4
+âå
+zhi4
+ï¦
+tang1
+èö
+jue2
+ëİ
+pian2
+æç
+xiao1
+öÑ
+ba4
+íñ
+dan1
+ÅÛ
+pao2
+Ü»
+qi3
+ºë
+hong2
+ìÁ
+qiang4
+´À
+chun3
+Á¤
+li4
+Àø
+li4
+ÏÔ
+xian3
+Îã
+wu2
+¸æ
+gao4
+ºõ
+hu1
+¼ö
+jian4
+È¾
+ran3
+æ©
+shan1
+î·
+fu2
+ÅÑ
+pan4
+ºÂ
+hao3
+ìÏ
+yu4
+Ù¶
+yu3
+òË
+qiong2
+Ñî
+yang2
+Óü
+yu4
+Ó¡
+yin4
+äï
+hu1
+²ò
+chai2
+Íş
+wei1
+¼Î
+jia1
+òÑ
+ting2
+ã¨
+yi4
+ÃÍ
+meng3
+á°
+lan2
+Éú
+sheng1
+À¢
+kui4
+òı
+man3
+ÏÖ
+xian4
+ÛÚ
+zhen4
+ğâ
+ke1
+õß
+chuai4
+µ¢
+dan1
+ê¦
+wei4
+ÆË
+pu1
+Êú
+shu4
+ïà
+xuan4
+ëò
+shu4
+À¹
+lan2
+±Å
+beng4
+Äí
+nian3
+¾Ê
+jiu4
+¾³
+jing4
+×í
+zui4
+ê¡
+chuo4
+äË
+lu4
+´¤
+chu4
+Û´
+yin2
+í¬
+qi4
+öê
+ji4
+áæ
+yao2
+à¬
+li2
+Úü
+pi1
+ÆÛ
+qi1
+ÉÌ
+shang1
+°ë
+ban4
+ñ°
+dian4
+Ä¼
+mu4
+³Ø
+chi2
+¸Ã
+gai1
+ºŞ
+hen4
+ğò
+fei4
+¸Ï
+gan3
+èß
+cheng1
+ÌÚ
+teng2
+½®
+jiang1
+Ä±
+mou2
+Îé
+wu3
+Ìâ
+ti2
+è¡
+chen1
+¶¨
+ding4
+ÕÏ
+zhang4
+ÃÁ
+mei4
+Î³
+wei3
+ïÅ
+zi1
+áí
+an4
+óÚ
+xian3
+öË
+ao4
+Î«
+wei2
+êì
+yu2
+¾È
+jiu4
+òş
+mang3
+²¶
+bu3
+ğÊ
+e4
+óõ
+fei3
+°Ó
+ba4
+µ©
+dan4
+¾¾
+jiu1
+Âã
+luo3
+³Ğ
+cheng2
+Â³
+lu3
+åú
+fei1
+æè
+hua2
+óÇ
+ji1
+³Ñ
+cheng3
+Ìß
+ti1
+İÓ
+ying2
+º½
+hang2
+Í¥
+ting2
+Íº
+tu1
+Ãİ
+mi4
+Ã¿
+mei3
+Àó
+li4
+Ö¾
+zhi4
+ì­
+biao1
+ÛÅ
+sou3
+ä»
+xi1
+´Ë
+ci3
+ëÌ
+ka3
+¿®
+kai3
+Ğø
+xu4
+±ò
+bin1
+Úï
+chui2
+È´
+que4
+èş
+zhao4
+·â
+feng1
+×ë
+zuan3
+æ«
+ya4
+Õğ
+zhen4
+¶¿
+du2
+Å§
+nong2
+çÅ
+min2
+á«
+qu1
+Ùå
+guo2
+ÃÄ
+mei4
+¿º
+kang4
+ÈÏ
+ren4
+Åò
+peng2
+Ñ¼
+ya1
+ğæ
+zhu4
+ó¼
+du4
+ô¥
+lai4
+¼Ä
+ji4
+Ã­
+mao3
+ÍÄ
+tuan1
+ÌÇ
+tang2
+ïŞ
+yong1
+äŞ
+ying2
+²Á
+ca1
+×³
+zhuang4
+Èò
+run4
+ìÎ
+hu2
+ÏÚ
+xian4
+ÊÂ
+shi4
+Äï
+niang2
+ğŞ
+shan4
+Ôè
+zao3
+²Æ
+cai2
+ÑÚ
+yan3
+¼×
+jia3
+¿ö
+kuang4
+äñ
+huan4
+Ö×
+zhong3
+×Ì
+zi1
+Íã
+wan1
+Å°
+nue:4
+Áª
+lian2
+ËÄ
+si4
+è¤
+yu2
+ö¡
+gong1
+èç
+qi1
+ÆĞ
+pu2
+ïï
+cha3
+éó
+yi4
+ë¨
+shu1
+ÛÍ
+bian4
+ĞÜ
+xiong2
+æï
+zhi4
+ñ¡
+chi4
+îÒ
+ju4
+Ùó
+mao4
+Ü¸
+ji1
+ØÚ
+ku1
+±Î
+bi4
+º³
+han4
+ÊÍ
+shi4
+Ú°
+qu1
+´å
+cun1
+Ä½
+mu4
+Ëï
+sun1
+±İ
+bi4
+çó
+luo4
+å¼
+liao2
+àÇ
+dia3
+³»
+chen1
+ÓÁ
+yong3
+×º
+zhui4
+Ëü
+ta1
+Â­
+lu2
+Àı
+li4
+ä£
+lie4
+ëÔ
+qu2
+Ğ»
+xie4
+ÅÕ
+pang3
+Áë
+ling3
+ìå
+li4
+²ã
+ceng2
+¶Ä
+du3
+Ç»
+qiang1
+óØ
+kou4
+ÂÁ
+lv3
+ñĞ
+jian3
+áÍ
+wei2
+íì
+xu1
+±Ò
+bi4
+××
+zong1
+ï°
+e2
+½Ô
+jie1
+´¶
+chui1
+éÕ
+qin2
+âÒ
+pao2
+Ü®
+liang2
+°ì
+ban4
+ĞÀ
+xin1
+Úå
+jing3
+î«
+kan4
+åÓ
+kui2
+¹è
+gui1
+¼¯
+ji2
+ÓÖ
+you4
+½¼
+jiao1
+Ë¡
+shu4
+µå
+dian4
+Äü
+ning2
+Ïç
+xiang1
+²¨
+bo1
+êØ
+xi1
+ìõ
+zhen1
+ÕÜ
+zhe2
+º£
+hai3
+¼ş
+jian4
+Öî
+zhu1
+Ø½
+ji2
+çÑ
+mou2
+íÏ
+dong4
+Öª
+zhi1
+Ó¦
+ying1
+¶Ú
+tun2
+À¨
+kuo4
+ÉÏ
+shang4
+êù
+qian2
+ÃÉ
+meng2
+ºÅ
+hao4
+½Ú
+jie2
+»ü
+ji
+·÷
+fu2
+»µ
+huai4
+ÅÖ
+pang4
+¼¸
+ji3
+Ûı
+pi2
+Ïù
+xiao1
+³ô
+chou4
+Óè
+yu3
+Ïà
+xiang1
+ºÃ
+hao3
+¸Â
+ga2
+Ô¿
+yue4
+½Æ
+jiao3
+Ñ°
+xun2
+²´
+bo2
+µ±
+dang1
+Òñ
+yin4
+éñ
+lu5
+Áï
+liu1
+ÁÇ
+liao2
+×È
+zi1
+×Û
+zong1
+ÇÑ
+qie2
+¹ı
+guo4
+´ğ
+da2
+Âì
+ma4
+Ûí
+dong4
+ßÁ
+bi3
+Ç×
+qin1
+½µ
+jiang4
+êÚ
+ben1
+È¯
+quan4
+¾İ
+ju4
+ºÍ
+he2
+ÕÛ
+zhe2
+ñ¿
+xun1
+¶Ù
+dun4
+¹©
+gong4
+×Á
+zhuo2
+¹À
+gu1
+Á¿
+liang4
+âÛ
+qin2
+ÄØ
+ne5
+¿´
+kan4
+ÙÅ
+kong1
+Ãä
+mian3
+ÀŞ
+lei2
+Øı
+yi4
+Óï
+yu3
+ÏË
+qian4
+ì±
+gu1
+½¶
+jiao1
+¸ü
+geng4
+½¦
+jian4
+»®
+hua2
+ÆÜ
+qi1
+±ñ
+bie3
+öÄ
+qu2
+½ö
+jin3
+Ö¸
+zhi3
+çÂ
+pian2
+±¤
+bao3
+àË
+hai1
+ÒÙ
+yi4
+íÑ
+ge4
+·¢
+fa1
+ßÇ
+ka3
+Û×
+xu1
+¼Ò
+jia1
+ÆÁ
+bing3
+¿¸
+kang2
+á½
+jiao2
+µ¹
+dao4
+ï¸
+ju2
+õÚ
+dian3
+è¾
+cha4
+äÎ
+yan1
+¶¼
+dou1
+°Ù
+bai3
+à¸
+o1
+µè
+dian4
+²ğ
+chai1
+³¤
+chang2
+Éß
+she2
+à¾
+ke1
+À²
+la1
+¸À
+fu4
+¶±
+dong4
+×¦
+zhua3
+ÆØ
+bao4
+´±
+zhuang4
+¿Õ
+kong1
+ìÙ
+yun4
+»í
+huo4
+ßÖ
+lie1
+èæ
+guang1
+çñ
+heng2
+º¹
+han4
+Üë
+ci2
+ß¸
+zha4
+Ïï
+xiang4
+Ôä
+zao2
+ß¶
+tao1
+Äğ
+niang4
+ŞØ
+jiao3
+Øª
+ge2
+¼Ö
+gu3
+²é
+cha2
+¿ş
+kui2
+Ã¥
+mang2
+Äñ
+niao3
+ßÀ
+e5
+¶Ñ
+dui1
+ÖÀ
+zhi4
+Ò®
+ye1
+Êô
+shu3
+òø
+qiu2
+¶ñ
+e4
+ÕÇ
+zhang3
+É¢
+san4
+³Æ
+cheng1
+ºÉ
+he2
+æÂ
+yuan2
+Éõ
+shen4
+ÑØ
+yan2
+èí
+gui4
+Áù
+liu4
+åî
+can4
+æ¬
+rao2
+áË
+wai3
+²Ø
+cang2
+Üù
+ji4
+àÅ
+n2
+ÂÓ
+lue:3
+Ææ
+qi2
+ºı
+hu1
+Ìå
+ti3
+àÜ
+zuo1
+¿Ç
+ke2
+¾×
+ju3
+Ï·
+xi4
+½«
+jiang1
+½æ
+jie4
+²à
+ce4
+ºá
+heng2
+´ş
+dai3
+ìü
+rang3
+ËÆ
+si4
+ÀÓ
+lao4
+Èû
+sai1
+»ç
+hun1
+¿É
+ke3
+½Û
+ju2
+ÈÎ
+ren4
+É¯
+sha1
+³×
+shi5
+´Â
+chuo4
+êÁ
+jiong3
+÷Ü
+quan2
+»£
+xia4
+ö¤
+zi3
+×Å
+zhe5
+Æ»
+ping2
+Õà
+zhe3
+½û
+jin4
+Õ³
+nian2
+Áî
+ling4
+¹²
+gong4
+Òó
+yin1
+Şº
+xian3
+àÈ
+ai4
+Ã¢
+mang2
+¾¢
+jin4
+Û¨
+xun2
+÷½
+gu3
+ÊÏ
+shi4
+Å½
+ou4
+³å
+chong1
+¼Ù
+jia3
+Üè
+yi2
+·Ö
+fen1
+Óë
+yu3
+²É
+cai3
+¸ø
+gei3
+Äà
+ni2
+Íü
+wang4
+ºÇ
+he1
+Â¶
+lu4
+Á¹
+liang2
+¼Û
+jia4
+é©
+shen4
+Ä²
+mou2
+µÃ
+de2
+Åİ
+pao4
+¾ù
+jun1
+İ×
+feng1
+ÂŞ
+luo2
+ßÉ
+gua1
+Ş®
+hong2
+ìø
+chan2
+İ³
+fu2
+²æ
+cha1
+ïû
+fu2
+Åü
+pi1
+ì¥
+qi1
+¶â
+duo4
+µØ
+di4
+Ôñ
+ze2
+Íù
+wang3
+Â¡
+long2
+ìÈ
+yang2
+Õı
+zheng4
+àå
+xue2
+Ï³
+xian3
+Ë¥
+shuai1
+Æä
+qi2
+ÂÌ
+lv4
+Éò
+shen3
+ØÅ
+gu3
+òÁ
+gu3
+¿¡
+jun4
+µ×
+di3
+ÆŞ
+qi1
+Áı
+long2
+õè
+qi1
+ÈÆ
+rao4
+Öá
+zhou4
+Ğ¤
+xiao1
+¹Ú
+guan4
+ğû
+cuo2
+´é
+cuo1
+°¥
+ai1
+õÀ
+bo1
+Ã´
+me5
+Ëõ
+suo1
+»Î
+huang4
+ç°
+ti2
+ö¿
+cui1
+õÔ
+liang4
+èé
+kuo4
+è·
+wen4
+İÒ
+wan3
+ÆÌ
+pu1
+ö¼
+min3
+ÈÂ
+rang1
+àá
+ceng1
+¾ä
+ju4
+Ïµ
+xi4
+Íò
+wan4
+ß¯
+te4
+ïâ
+tan2
+Ä¥
+mo2
+ãÊ
+kang4
+÷á
+mo2
+ËŞ
+su4
+µ£
+dan1
+·Á
+fang2
+ÃÕ
+mi2
+èŞ
+tuo2
+Ëş
+ta3
+ÇÄ
+qiao1
+Æ¥
+pi3
+ÃÒ
+mi3
+Â§
+lou1
+¶·
+dou3
+Åç
+pen1
+±¼
+ben1
+¶Ç
+du4
+¸Ö
+gang1
+¸¬
+pu2
+É²
+sha1
+¾¡
+jin3
+ÆÍ
+pu2
+á¼
+tong2
+·ğ
+fo2
+»á
+hui4
+ô¤
+bo3
+ÏÅ
+he4
+ÎÎ
+wo1
+çÎ
+piao3
+°¢
+a1
+ÉÈ
+han4
+·Æ
+fei1
+Üç
+qian4
+ºî
+hou2
+òÂ
+he2
+ÆÓ
+pu3
+Á¨
+li1
+³Î
+cheng2
+¾Ú
+ju3
+ÀÕ
+le4
+ÖÖ
+zhong3
+ß¾
+dai1
+¿£
+jun4
+ìò
+mi2
+·¬
+fan1
+Ò·
+ye4
+Âµ
+lu4
+ÚÛ
+qiao2
+µ¯
+tan2
+¸ï
+ge2
+Şß
+ai1
+í°
+gang4
+Ë¼
+si1
+õÄ
+qiang4
+Æ¯
+piao1
+²Ş
+ce4
+ÄÅ
+na4
+°Õ
+ba4
+Æè
+qi2
+µÅ
+deng1
+±Á
+beng1
+Âö
+mai4
+³¯
+chao2
+¼Ğ
+jia1
+ñû
+qin2
+ÇÆ
+qiao2
+·ñ
+fou3
+öÁ
+juan4
+İË
+tu2
+×ª
+zhuan3
+Ë­
+shui2
+ÖĞ
+zhong1
+¹ñ
+gui4
+ò¤
+ke1
+À°
+la4
+Ñà
+yan4
+ÀÑ
+lao3
+È²
+que1
+İ¸
+guan3
+àª
+da1
+ºß
+heng1
+Áó
+liu2
+ŞÌ
+you2
+À­
+la1
+Ç¶
+qian4
+¼à
+jian1
+²¢
+bing4
+Ğ°
+xie2
+ÂÚ
+guan1
+³Ó
+cheng4
+Àß
+lei4
+µÄ
+de5
+²Î
+can1
+¸ö
+ge4
+½É
+jiao3
+±ã
+bian4
+Ø£
+wu4
+Éá
+she4
+¾ú
+jun1
+ÄÏ
+nan2
+ÕÙ
+zhao4
+ï£
+zheng1
+»¯
+hua4
+¿©
+lo5
+¸ñ
+ge2
+Á©
+lia3
+µ²
+dang3
+±³
+bei4
+Ëì
+sui2
+»¢
+hu3
+Ç¬
+qian2
+¾â
+ju4
+ŞÛ
+lv3
+ØÃ
+bei4
+÷å
+jun1
+Ñ½
+ya1
+÷Ô
+biao1
+·ì
+feng2
+²ô
+chan1
+Ù¤
+jia1
+ôí
+yao2
+Âç
+luo4
+Üş
+xing2
+Úé
+pi2
+¸É
+gan4
+ÅÚ
+pao4
+Àö
+li4
+ÎŞ
+wu2
+ñÃ
+cha3
+ÀÖ
+le4
+Ê³
+shi2
+ÜÄ
+ju4
+ÁÊ
+liao3
+È¸
+que4
+ßÂ
+bei5
+ÃÓ
+mi2
+¸à
+gao1
+·ë
+feng2
+½Ã
+jiao2
+¿Ô
+hang2
+àü
+chou2
+´ı
+dai4
+¿È
+ke2
+ÇĞ
+qie1
+ôì
+qi3
+Æ¬
+pian4
+Ôû
+zha1
+ÖÅ
+zhi4
+Ğ£
+xiao4
+Äç
+ni4
+ÄÒ
+nang2
+Äş
+ning2
+±ß
+bian1
+¼À
+ji4
+ÚÀ
+ei2
+Å±
+nue:4
+Ê¯
+shi2
+Ä£
+mo2
+Â«
+lu2
+³³
+chao3
+´Ó
+cong2
+è¼
+shao2
+ÇÌ
+qiao4
+Ó¶
+yong4
+Ì¨
+tai2
+¶ê
+e2
+×µ
+zhui1
+ºË
+he2
+ÙÊ
+ji4
+ÎÚ
+wu1
+îõ
+cheng1
+É·
+sha4
+¶Ø
+dun1
+Ì¦
+tai2
+Çº
+qiang4
+²Ò
+can3
+èİ
+li4
+ôÖ
+shen1
+àî
+jian3
+½â
+jie3
+Ö¨
+zhi1
+ÃØ
+mi4
+ñæ
+jin1
+ÔÜ
+zan3
+ôú
+ding3
+ãñ
+long2
+ãç
+dun4
+¹È
+gu3
+´ò
+da3
+ïá
+di1
+Ìû
+tie3
+Êì
+shu2
+öë
+qing1
+°õ
+bang4
+Â½
+lu4
+Øî
+ge1
+ßÚ
+zi1
+»ì
+hun4
+Ó¿
+yong3
+°ã
+ban1
+³¡
+chang3
+Îæ
+wu3
+ŞÖ
+niu4
+çã
+fen1
+Æõ
+qi4
+½Ì
+jiao4
+âì
+song1
+¹ã
+guang3
+±Ù
+bi4
+Î²
+wei3
+¿ò
+kuang1
+¼÷
+kan3
+°ò
+bang3
+¼Í
+ji4
+Êõ
+shu4
+Ş¬
+fan1
+¾í
+juan3
+ÖØ
+zhong4
+õ¡
+cu4
+É»
+shan1
+Ò´
+ye1
+Óá
+yu2
+îú
+ting3
+Íõ
+wang2
+ÌË
+tang4
+İØ
+shen4
+Õ¼
+zhan4
+½Á
+jiao3
+±¡
+bo2
+´ó
+da4
+ïÖ
+liu2
+õş
+zui3
+ÄÇ
+na4
+Çø
+qu1
+³ğ
+chou2
+½¬
+jiang1
+¾õ
+jue2
+·º
+fan4
+Ø¿
+mie1
+ÉÑ
+shang5
+°¼
+ao1
+ñâ
+pi3
+´Ì
+ci4
+×÷
+zuo4
+¸é
+ge1
+°Ò
+pa2
+áè
+jiao3
+¿À
+ke3
+Í¬
+tong2
+¾ã
+ju4
+îÉ
+liao3
+Ñ¬
+xun1
+äÚ
+qin2
+Âñ
+mai2
+îë
+pi1
+éÄ
+bing1
+ÃÆ
+men1
+ÁË
+le5
+Ô¼
+yue1
+Ç¿
+qiang2
+¼û
+jian4
+½å
+ji2
+ÙÍ
+lou2
+ÉÔ
+shao1
+ÆÙ
+pu4
+ğı
+jia3
+äğ
+luo4
+À£
+kui4
+é«
+zha1
+³Ë
+cheng2
+×¬
+zhuan4
+ïê
+qiang1
+ÓĞ
+you3
+ò¢
+ge2
+Ã°
+mao4
+Ö³
+zhi2
+èÈ
+cong1
+í«
+ni4
+Ê¤
+sheng4
+Óê
+yu3
+ßí
+wu2
+ÎÆ
+wen2
+³ß
+chi3
+ôò
+ju1
+Óı
+yu4
+ÄÑ
+nan2
+ö¦
+liang4
+Å»
+ou3
+»¹
+hai2
+ÄÄ
+na3
+èè
+ting3
+ÍÂ
+tu3
+ïæ
+dun1
+¸ì
+ge1
+îÌ
+shan1
+½À
+jiao2
+µ¥
+dan1
+Ö»
+zhi3
+½Ë
+jiao3
+İÉ
+bei1
+Êı
+shu4
+ºì
+hong2
+Å¶
+o2
+Çú
+qu3
+áİ
+pang2
+Æ²
+pie3
+¼¹
+ji3
+¾ó
+jue4
+¸Ë
+gan1
+ã»
+qian4
+ÒÎ
+yi3
+°É
+ba5
+ì¨
+xi1
+ÆÈ
+po4
+Õ¤
+zha4
+³È
+cheng2
+Úµ
+jie2
+Ûæ
+di3
+Á§
+li5
+í³
+ta4
+ÇÒ
+qie3
+êï
+qu4
+Ô±
+yuan2
+Ãş
+mo1
+³§
+chang3
+»²
+huai2
+ºÎ
+he2
+¸ò
+ha2
+Î®
+wei3
+¹ê
+gui1
+ÑÅ
+ya3
+µÔ
+zhai2
+ğ÷
+dan1
+ÇÀ
+qiang3
+Ã¡
+man4
+ÃĞ
+mi1
+°Ë
+ba1
+¸÷
+ge4
+¼©
+ji1
+ÊÊ
+shi4
+Ç¦
+qian1
+¶Á
+du2
+ö¸
+yin2
+ãÚ
+que4
+Ã¨
+mao1
+ŞÙ
+za1
+ºç
+hong2
+Úó
+kui2
+Ğ´
+xie3
+ÅÜ
+pao3
+ï¢
+yao2
+¾±
+jing3
+·ş
+fu2
+°ö
+bang4
+É¥
+sang4
+ßú
+zhou1
+ñÔ
+pi2
+ÔØ
+zai3
+ìâ
+tao1
+í¹
+xu1
+Ø÷
+cang1
+àÖ
+di1
+ÉÓ
+shao1
+ä°
+hu3
+³µ
+che1
+Ê¡
+sheng3
+Âğ
+ma5
+À¯
+la4
+àæ
+yi4
+Ä¨
+mo3
+Ôú
+zha1
+´§
+chuai1
+äÅ
+mian3
+ìÌ
+chao1
+ºÏ
+he2
+½Ä
+jiao3
+ËÅ
+si4
+¼Ã
+ji3
+ÃË
+meng2
+Å¡
+ning3
+çõ
+hui1
+Åª
+nong4
+ÂÊ
+lv4
+Îª
+wei4
+°Ç
+ba1
+²·
+bo5
+ó»
+li2
+çÕ
+zeng1
+åÆ
+yi2
+Ä¦
+mo2
+å£
+dan4
+ææ
+dai4
+Ìô
+tiao1
+´´
+chuang4
+ÍÍ
+tun2
+È¦
+quan1
+ÉÒ
+shao1
+ÀÛ
+lei4
+Ìá
+ti2
+ãø
+luo4
+Ôø
+ceng2
+ÂÛ
+lun4
+³°
+chao2
+Üæ
+tiao2
+ŞÊ
+zang4
+ºÈ
+he1
+ÍÛ
+wa1
+Ê¢
+cheng2
+ÑÌ
+yan1
+ÃÚ
+mi4
+´¦
+chu4
+ãÏ
+lang4
+Íö
+wang2
+°¤
+ai1
+ö±
+san3
+à¨
+chuo4
+ÜÀ
+fei4
+òã
+fei1
+ãÕ
+e4
+ê¨
+qiang1
+Ë¢
+shua1
+èÖ
+you4
+¶²
+dong4
+ºÑ
+he2
+Ù¹
+si4
+Àâ
+leng2
+Ù¦
+er4
+ğã
+dan3
+í¥
+nen4
+Îµ
+wei4
+Ü¾
+yuan2
+î®
+ding1
+½á
+jie2
+Äò
+niao4
+±Û
+bi4
+Ê¶
+shi2
+Öş
+zhu4
+¿¨
+ka3
+É¨
+sao3
+Ò¶
+ye4
+Ñ¹
+ya1
+ßö
+nuo4
+¸¸
+fu4
+ïµ
+jian3
+ğ¨
+jiao3
+±â
+bian3
+Øß
+yan3
+â¼
+tang2
+Õ¦
+za3
+Ğ¾
+xin1
+éğ
+ke1
+Õ¨
+zha4
+÷ü
+yan3
+à©
+die2
+ßë
+lao4
+¶×
+dun1
+ÉÙ
+shao3
+ÀÉ
+lang2
+ŞÕ
+pin1
+°ş
+bo1
+ë¸
+jiao3
+Ëµ
+shuo1
+É×
+shao2
+âÎ
+nang2
+ÑĞ
+yan2
+½Å
+jiao3
+Âé
+ma2
+»ª
+hua2
+ÜÅ
+bi4
+¹Ç
+gu3
+Öø
+zhu4
+Æë
+qi2
+ôŞ
+gen4
+ÌÕ
+tao2
+ÁÌ
+liao4
+¶é
+duo4
+¶È
+du4
+àÉ
+yi4
+Î¯
+wei3
+Òª
+yao4
+êı
+suo1
+Ñª
+xie3
+¾­
+jing1
+×ä
+zu2
+µ÷
+tiao2
+±©
+bao4
+ºÙ
+hei1
+É³
+sha1
+æü
+ge1
+É«
+se4
+ÆÚ
+qi1
+²®
+bo2
+ÆÒ
+pu3
+ËÓ
+sou3
+Æö
+qi4
+àê
+ca1
+îä
+tian2
+Õâ
+zhe4
+æô
+piao4
+ÏÃ
+sha4
+¹Û
+guan1
+Ç³
+qian3
+É¼
+shan1
+×õ
+zuo4
+ã¦
+li3
+Öà
+zhou1
+óŞ
+jun1
+êş
+bai1
+ÁÑ
+lie4
+×ê
+zuan1
+õ§
+shai1
+Şå
+pou2
+¸ğ
+ge3
+¸ä
+gao3
+òØ
+zhe2
+°Ñ
+ba3
+Ğ®
+xie2
+Å¬
+nu3
+¶æ
+duo4
+Şâ
+guo2
+Úç
+dian4
+Íß
+wa3
+ñÒ
+chu3
+ÅÙ
+pao2
+à¶
+lou5
+½È
+jiao3
+²ü
+chan4
+Ê²
+shen2
+ëı
+sao4
+äĞ
+qiu1
+°â
+ban1
+İª
+shi2
+ÑÊ
+yan1
+À¶
+lan2
+¶¡
+ding1
+Ï´
+xi3
+Ûß
+qi2
+¹´
+gou1
+÷±
+yang1
+Ğç
+xu1
+ÄÈ
+na4
+áç
+zhi3
+ÅÉ
+pai4
+×Ğ
+zai3
+ãÛ
+kan4
+°Ø
+bai3
+ò³
+hui1
+Î¾
+wei4
+Ğê
+xu1
+îÙ
+pa2
+±ğ
+bie2
+ºå
+hong3
+½Ç
+jiao3
+ÒÅ
+yi2
+òÙ
+shao1
+ÂÕ
+lun1
+ëç
+yan1
+ÇÊ
+qiao4
+°¾
+ao2
+Î¨
+wei2
+èÛ
+gou3
+àÄ
+sha4
+½Ê
+jiao3
+Øµ
+di3
+ÌÈ
+tang3
+çØ
+sao1
+ò¡
+jie2
+Ğı
+xuan2
+Èô
+ruo4
+Ù®
+jiao3
+Óõ
+xu1
+¿§
+ka1
+Ôş
+ya4
+½¥
+jian4
+ÍÊ
+tui4
+»©
+hua2
+ÏÊ
+xian1
+²ê
+cha1
+Í¨
+tong1
+¸Ü
+gang4
+Õõ
+zheng4
+µ§
+dan3
+ÜÑ
+zhu4
+ïÛ
+tang2
+¸Ç
+gai4
+ğÀ
+hu2
+·»
+fang2
+°¦
+ai4
+Ì¤
+ta4
+ÅÅ
+pai2
+¹ş
+ha1
+åŞ
+liu4
+²î
+cha4
+¶¤
+ding1
+ÁÃ
+liao1
+×§
+zhuai4
+Âû
+man4
+·ò
+fu1
+ÔÎ
+yun1
+ñÊ
+qia1
+°¡
+a1
+ĞĞ
+xing2
+Ó´
+you5
+ÌÀ
+tang1
+Åì
+peng2
+àµ
+jie1
+Ïº
+xia1
+îè
+tuo2
+¼ä
+jian1
+¿¬
+kai3
+ÎĞ
+wo1
+Òû
+yin3
+ÒÂ
+yi1
+½Â
+jiao3
+à÷
+yuan2
+Ã»
+mei2
+ÔÛ
+zan2
+ÆÇ
+po4
+´ô
+dai1
+ÁÜ
+lin2
+Ï÷
+xiao1
+²»
+bu4
+ñÎ
+cheng2
+Õú
+zheng1
+óĞ
+ze2
+ÍØ
+tuo4
+ä«
+kuai4
+Ş¤
+liao3
+À®
+la3
+´«
+chuan2
+Ö¢
+zheng4
+Ğó
+chu4
+ÍÔ
+tuo2
+ĞË
+xing1
+õê
+jue2
+°¬
+ai4
+Èö
+sa3
+İ¹
+liang2
+º»
+hang1
+Âä
+luo4
+ì¶
+yu1
+·±
+fan2
+éF
+rong2

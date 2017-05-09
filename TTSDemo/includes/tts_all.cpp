@@ -16,20 +16,20 @@ int TTS_ALL::init(const char *model_dir)
 	fp_log = fopen("word_seg.log", "w+");
 
 	// 字符串 预处理
-	_snprintf(tn_dir, 999, "%s/str_pro", model_dir);
+	_snprintf(tn_dir, 999, "data/str_pro");
 	ret = this->m_pp.init(tn_dir);
 	if (ret < 0){ return -1; }
 
 	// tn 初始化
 
-	_snprintf(tn_dir, 999, "%s/tn", model_dir);
+	_snprintf(tn_dir, 999, "data/tn");
 	ret = m_tn_engine.Init(std::string(tn_dir));
 	if (ret < 0){ return -1; }
 
 	// 分词和词性标注 初始化
 	char *uwd = new char[1000];
-	_snprintf(uwd, 999, "%s/Data/user_word_dict.txt", model_dir);
-	ret = init_nlpir(model_dir, uwd);
+	_snprintf(uwd, 999, "data/Data/user_word_dict.txt");
+	ret = init_nlpir("data", uwd);
 	if (ret < 0)
 	{
 		printf("init_nlpir failed!\n");

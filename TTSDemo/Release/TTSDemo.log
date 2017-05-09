@@ -1,9 +1,151 @@
-﻿生成启动时间为 2017/2/16 星期四 下午 3:04:38。
-     1>项目“D:\1-项目\so_tts\tts-最终备份\g-TTS-v1\TTSDemo\TTSDemo.vcxproj”在节点 2 上(Build 个目标)。
-     1>Link:
-         TTSDemo.vcxproj -> D:\1-项目\so_tts\tts-最终备份\g-TTS-v1\Release\TTSDemo.exe
-     1>已完成生成项目“D:\1-项目\so_tts\tts-最终备份\g-TTS-v1\TTSDemo\TTSDemo.vcxproj”(Build 个目标)的操作。
+﻿生成启动时间为 2017/5/9 星期二 下午 5:18:18。
+     1>项目“D:\bdy\项目-源码\TTS\g-TTS-v1\TTSDemo\TTSDemo.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Iincludes /Zi /nologo /W3 /WX- /sdl- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\TTSDemo.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Iincludes /Zi /nologo /W3 /WX- /sdl- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt includes\pre_pro.cpp includes\tts_all.cpp includes\word_seg_lib.cpp
+         pre_pro.cpp
+     1>includes\pre_pro.cpp(43): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+     1>includes\pre_pro.cpp(44): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 参见“fopen”的声明
+     1>includes\pre_pro.cpp(66): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : 参见“strtok”的声明
+     1>includes\pre_pro.cpp(96): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : 参见“strtok”的声明
+     1>includes\pre_pro.cpp(143): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+     1>includes\pre_pro.cpp(144): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : 参见“strtok”的声明
+     1>includes\pre_pro.cpp(148): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(204) : 参见“strtok”的声明
+         tts_all.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(13): warning C4251: “TN_Engine::text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(14): warning C4251: “TN_Engine::rule_standard_str”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(15): warning C4251: “TN_Engine::rule_norm_str”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(34): warning C4251: “TN_Engine::lang”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(35): warning C4251: “TN_Engine::model_dir”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(39): warning C4251: “TN_Engine::conf_map”: class“std::map<std::string,std::vector<std::string,std::allocator<_Ty>>,std::less<_Ty>,std::allocator<std::pair<const _Kty,std::vector<_Ty,std::allocator<_Ty>>>>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+                 with
+                 [
+                     _Ty=std::string
+         ,            _Kty=std::string
+                 ]
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(188): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(214): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(288): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(315): warning C4018: “<”: 有符号/无符号不匹配
+     1>includes\tts_all.cpp(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 参见“fopen”的声明
+     1>includes\tts_all.cpp(19): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+     1>includes\tts_all.cpp(25): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+     1>includes\tts_all.cpp(31): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+     1>includes\tts_all.cpp(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 参见“fopen”的声明
+     1>includes\tts_all.cpp(76): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 参见“fopen”的声明
+     1>includes\tts_all.cpp(104): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+         word_seg_lib.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>includes\word_seg_lib.cpp(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 参见“fopen”的声明
+     1>includes\word_seg_lib.cpp(75): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+     1>includes\word_seg_lib.cpp(98): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+     1>includes\word_seg_lib.cpp(115): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+     1>includes\word_seg_lib.cpp(123): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+     1>includes\word_seg_lib.cpp(127): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(346) : 参见“_snprintf”的声明
+     1>includes\word_seg_lib.cpp(135): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Iincludes /Zi /nologo /W3 /WX- /sdl- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\TTSDemo.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TTSDemo.cpp TTSDemoDlg.cpp TTSDemoUtils.cpp TTSInitDlg.cpp
+         TTSDemo.cpp
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(13): warning C4251: “TN_Engine::text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(14): warning C4251: “TN_Engine::rule_standard_str”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(15): warning C4251: “TN_Engine::rule_norm_str”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(34): warning C4251: “TN_Engine::lang”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(35): warning C4251: “TN_Engine::model_dir”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(39): warning C4251: “TN_Engine::conf_map”: class“std::map<std::string,std::vector<std::string,std::allocator<_Ty>>,std::less<_Ty>,std::allocator<std::pair<const _Kty,std::vector<_Ty,std::allocator<_Ty>>>>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+                 with
+                 [
+                     _Ty=std::string
+         ,            _Kty=std::string
+                 ]
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(188): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(214): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(288): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(315): warning C4018: “<”: 有符号/无符号不匹配
+         TTSDemoDlg.cpp
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(13): warning C4251: “TN_Engine::text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(14): warning C4251: “TN_Engine::rule_standard_str”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(15): warning C4251: “TN_Engine::rule_norm_str”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(34): warning C4251: “TN_Engine::lang”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(35): warning C4251: “TN_Engine::model_dir”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(39): warning C4251: “TN_Engine::conf_map”: class“std::map<std::string,std::vector<std::string,std::allocator<_Ty>>,std::less<_Ty>,std::allocator<std::pair<const _Kty,std::vector<_Ty,std::allocator<_Ty>>>>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+                 with
+                 [
+                     _Ty=std::string
+         ,            _Kty=std::string
+                 ]
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(188): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(214): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(288): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(315): warning C4018: “<”: 有符号/无符号不匹配
+     1>TTSDemoDlg.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+     1>TTSDemoDlg.cpp(387): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 参见“fopen”的声明
+         TTSDemoUtils.cpp
+         TTSInitDlg.cpp
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(13): warning C4251: “TN_Engine::text”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(14): warning C4251: “TN_Engine::rule_standard_str”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(15): warning C4251: “TN_Engine::rule_norm_str”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(34): warning C4251: “TN_Engine::lang”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(35): warning C4251: “TN_Engine::model_dir”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\TN_Engine.h(39): warning C4251: “TN_Engine::conf_map”: class“std::map<std::string,std::vector<std::string,std::allocator<_Ty>>,std::less<_Ty>,std::allocator<std::pair<const _Kty,std::vector<_Ty,std::allocator<_Ty>>>>>”需要有 dll 接口由 class“TN_Engine”的客户端使用
+                 with
+                 [
+                     _Ty=std::string
+         ,            _Kty=std::string
+                 ]
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(188): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(214): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(195) : 参见“strncpy”的声明
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(288): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\UTF8Util.h(315): warning C4018: “<”: 有符号/无符号不匹配
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D NDEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /l"0x0804" /IRelease\ /nologo /fo"Release\TTSDemo.res" TTSDemo.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\bdy\项目-源码\TTS\g-TTS-v1\Release\TTSDemo.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\bdy\项目-源码\TTS\g-TTS-v1\Release\TTSDemo.pdb" /SUBSYSTEM:WINDOWS,"5.01" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\bdy\项目-源码\TTS\g-TTS-v1\Release\TTSDemo.lib" /MACHINE:X86 /SAFESEH Release\TTSDemo.res
+         Release\pre_pro.obj
+         Release\tts_all.obj
+         Release\word_seg_lib.obj
+         Release\stdafx.obj
+         Release\TTSDemo.obj
+         Release\TTSDemoDlg.obj
+         Release\TTSDemoUtils.obj
+         Release\TTSInitDlg.obj
+            正在创建库 D:\bdy\项目-源码\TTS\g-TTS-v1\Release\TTSDemo.lib 和对象 D:\bdy\项目-源码\TTS\g-TTS-v1\Release\TTSDemo.exp
+         正在生成代码
+     1>d:\bdy\项目-源码\tts\g-tts-v1\ttsdemo\includes\utf8util.h(146): warning C4715: “UTF8Util::PrevCharLength”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         TTSDemo.vcxproj -> D:\bdy\项目-源码\TTS\g-TTS-v1\Release\TTSDemo.exe
+     1>已完成生成项目“D:\bdy\项目-源码\TTS\g-TTS-v1\TTSDemo\TTSDemo.vcxproj”(Rebuild 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.08
+已用时间 00:00:11.44

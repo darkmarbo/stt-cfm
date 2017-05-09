@@ -1,0 +1,1066 @@
+tline=北京/ns 海天瑞声/nz 科技/n 有限公司/n 是/v 一/m 家/q 全球/n 领先/v 的/u 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=10
+北京/ns 海天瑞声/nz 科技/n 有限公司/n 是/v 一/m 家/q 全球/n 领先/v 的/u GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=20
+pinyinseq[0]:bei3	ptag[0]     :0
+pinyinseq[1]:jing1	ptag[1]     :2
+pinyinseq[2]:hai3	ptag[2]     :0
+pinyinseq[3]:tian1	ptag[3]     :0
+pinyinseq[4]:rui4	ptag[4]     :0
+pinyinseq[5]:sheng1	ptag[5]     :1
+pinyinseq[6]:ke1	ptag[6]     :0
+pinyinseq[7]:ji4	ptag[7]     :1
+pinyinseq[8]:you3	ptag[8]     :0
+pinyinseq[9]:xian4	ptag[9]     :0
+pinyinseq[10]:gong1	ptag[10]     :0
+pinyinseq[11]:si1	ptag[11]     :3
+pinyinseq[12]:shi4	ptag[12]     :1
+pinyinseq[13]:yi1	ptag[13]     :0
+pinyinseq[14]:jia1	ptag[14]     :2
+pinyinseq[15]:quan2	ptag[15]     :0
+pinyinseq[16]:qiu2	ptag[16]     :1
+pinyinseq[17]:ling3	ptag[17]     :0
+pinyinseq[18]:xian1	ptag[18]     :0
+pinyinseq[19]:de5	ptag[19]     :4
+py_bd is over !
+
+nChar=20
+pinyinseq[0]:bei3	ptag[0]     :0
+pinyinseq[1]:jing1	ptag[1]     :2
+pinyinseq[2]:hai3	ptag[2]     :0
+pinyinseq[3]:tian1	ptag[3]     :0
+pinyinseq[4]:rui4	ptag[4]     :0
+pinyinseq[5]:sheng1	ptag[5]     :1
+pinyinseq[6]:ke1	ptag[6]     :0
+pinyinseq[7]:ji4	ptag[7]     :1
+pinyinseq[8]:you3	ptag[8]     :0
+pinyinseq[9]:xian4	ptag[9]     :0
+pinyinseq[10]:gong1	ptag[10]     :0
+pinyinseq[11]:si1	ptag[11]     :3
+pinyinseq[12]:shi4	ptag[12]     :1
+pinyinseq[13]:yi4	ptag[13]     :0
+pinyinseq[14]:jia1	ptag[14]     :2
+pinyinseq[15]:quan2	ptag[15]     :0
+pinyinseq[16]:qiu2	ptag[16]     :1
+pinyinseq[17]:ling3	ptag[17]     :0
+pinyinseq[18]:xian1	ptag[18]     :0
+pinyinseq[19]:de5	ptag[19]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+北京| 海天瑞声 科技 有限公司$是 一家| 全球 领先的$
+
+LPCSynth ok!
+tline=多/m 语言/n 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=2
+多/m 语言/n GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=3
+pinyinseq[0]:duo1	ptag[0]     :0
+pinyinseq[1]:yu3	ptag[1]     :0
+pinyinseq[2]:yan2	ptag[2]     :4
+py_bd is over !
+
+nChar=3
+pinyinseq[0]:duo1	ptag[0]     :0
+pinyinseq[1]:yu3	ptag[1]     :0
+pinyinseq[2]:yan2	ptag[2]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+多语言$
+
+LPCSynth ok!
+tline=跨/v 领域/n 的/u 人工智能/n 数据/n 资源/n 及/c 相关/vn 数据/n 服务/vn 的/u 提供/v 商/Vg 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=13
+跨/v 领域/n 的/u 人工智能/n 数据/n 资源/n 及/c 相关/vn 数据/n 服务/vn 的/u 提供/v 商/Vg GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=23
+pinyinseq[0]:kua4	ptag[0]     :1
+pinyinseq[1]:ling3	ptag[1]     :0
+pinyinseq[2]:yu4	ptag[2]     :0
+pinyinseq[3]:de5	ptag[3]     :2
+pinyinseq[4]:ren2	ptag[4]     :0
+pinyinseq[5]:gong1	ptag[5]     :0
+pinyinseq[6]:zhi4	ptag[6]     :0
+pinyinseq[7]:neng2	ptag[7]     :2
+pinyinseq[8]:shu4	ptag[8]     :0
+pinyinseq[9]:ju4	ptag[9]     :1
+pinyinseq[10]:zi1	ptag[10]     :0
+pinyinseq[11]:yuan2	ptag[11]     :3
+pinyinseq[12]:ji2	ptag[12]     :2
+pinyinseq[13]:xiang1	ptag[13]     :0
+pinyinseq[14]:guan1	ptag[14]     :1
+pinyinseq[15]:shu4	ptag[15]     :0
+pinyinseq[16]:ju4	ptag[16]     :1
+pinyinseq[17]:fu2	ptag[17]     :0
+pinyinseq[18]:wu4	ptag[18]     :0
+pinyinseq[19]:de5	ptag[19]     :2
+pinyinseq[20]:ti2	ptag[20]     :0
+pinyinseq[21]:gong4	ptag[21]     :1
+pinyinseq[22]:shang1	ptag[22]     :4
+py_bd is over !
+
+nChar=23
+pinyinseq[0]:kua4	ptag[0]     :1
+pinyinseq[1]:ling3	ptag[1]     :0
+pinyinseq[2]:yu4	ptag[2]     :0
+pinyinseq[3]:de5	ptag[3]     :2
+pinyinseq[4]:ren2	ptag[4]     :0
+pinyinseq[5]:gong1	ptag[5]     :0
+pinyinseq[6]:zhi4	ptag[6]     :0
+pinyinseq[7]:neng2	ptag[7]     :2
+pinyinseq[8]:shu4	ptag[8]     :0
+pinyinseq[9]:ju4	ptag[9]     :1
+pinyinseq[10]:zi1	ptag[10]     :0
+pinyinseq[11]:yuan2	ptag[11]     :3
+pinyinseq[12]:ji2	ptag[12]     :2
+pinyinseq[13]:xiang1	ptag[13]     :0
+pinyinseq[14]:guan1	ptag[14]     :1
+pinyinseq[15]:shu4	ptag[15]     :0
+pinyinseq[16]:ju4	ptag[16]     :1
+pinyinseq[17]:fu2	ptag[17]     :0
+pinyinseq[18]:wu4	ptag[18]     :0
+pinyinseq[19]:de5	ptag[19]     :2
+pinyinseq[20]:ti2	ptag[20]     :0
+pinyinseq[21]:gong4	ptag[21]     :1
+pinyinseq[22]:shang1	ptag[22]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+跨 领域的| 人工智能| 数据 资源$及| 相关 数据 服务的| 提供 商$
+
+LPCSynth ok!
+tline=中国共产党/nt 第十八/m 届/q 中央/n 委员会/n 第六/m 次/q 全体/n 会议/n 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=9
+中国共产党/nt 第十八/m 届/q 中央/n 委员会/n 第六/m 次/q 全体/n 会议/n GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=21
+pinyinseq[0]:zhong1	ptag[0]     :0
+pinyinseq[1]:guo2	ptag[1]     :0
+pinyinseq[2]:gong4	ptag[2]     :0
+pinyinseq[3]:chan2	ptag[3]     :0
+pinyinseq[4]:dang3	ptag[4]     :2
+pinyinseq[5]:di4	ptag[5]     :0
+pinyinseq[6]:shi2	ptag[6]     :0
+pinyinseq[7]:ba1	ptag[7]     :0
+pinyinseq[8]:jie4	ptag[8]     :2
+pinyinseq[9]:zhong1	ptag[9]     :0
+pinyinseq[10]:yang1	ptag[10]     :1
+pinyinseq[11]:wei3	ptag[11]     :0
+pinyinseq[12]:yuan2	ptag[12]     :0
+pinyinseq[13]:hui4	ptag[13]     :3
+pinyinseq[14]:di4	ptag[14]     :0
+pinyinseq[15]:liu4	ptag[15]     :0
+pinyinseq[16]:ci4	ptag[16]     :2
+pinyinseq[17]:quan2	ptag[17]     :0
+pinyinseq[18]:ti3	ptag[18]     :1
+pinyinseq[19]:hui4	ptag[19]     :0
+pinyinseq[20]:yi4	ptag[20]     :4
+py_bd is over !
+
+nChar=21
+pinyinseq[0]:zhong1	ptag[0]     :0
+pinyinseq[1]:guo2	ptag[1]     :0
+pinyinseq[2]:gong4	ptag[2]     :0
+pinyinseq[3]:chan2	ptag[3]     :0
+pinyinseq[4]:dang3	ptag[4]     :2
+pinyinseq[5]:di4	ptag[5]     :0
+pinyinseq[6]:shi2	ptag[6]     :0
+pinyinseq[7]:ba1	ptag[7]     :0
+pinyinseq[8]:jie4	ptag[8]     :2
+pinyinseq[9]:zhong1	ptag[9]     :0
+pinyinseq[10]:yang1	ptag[10]     :1
+pinyinseq[11]:wei3	ptag[11]     :0
+pinyinseq[12]:yuan2	ptag[12]     :0
+pinyinseq[13]:hui4	ptag[13]     :3
+pinyinseq[14]:di4	ptag[14]     :0
+pinyinseq[15]:liu4	ptag[15]     :0
+pinyinseq[16]:ci4	ptag[16]     :2
+pinyinseq[17]:quan2	ptag[17]     :0
+pinyinseq[18]:ti3	ptag[18]     :1
+pinyinseq[19]:hui4	ptag[19]     :0
+pinyinseq[20]:yi4	ptag[20]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+中国共产党| 第十八届| 中央 委员会$第六次| 全体 会议$
+
+LPCSynth ok!
+tline=于/p 二零一六年/t 十月/t 二十四日/t 至/p 二十七日/t 在/p 北京/ns 举行/v 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=9
+于/p 二零一六年/t 十月/t 二十四日/t 至/p 二十七日/t 在/p 北京/ns 举行/v GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=22
+pinyinseq[0]:yu2	ptag[0]     :2
+pinyinseq[1]:er4	ptag[1]     :0
+pinyinseq[2]:ling2	ptag[2]     :0
+pinyinseq[3]:yi2	ptag[3]     :0
+pinyinseq[4]:liu4	ptag[4]     :0
+pinyinseq[5]:nian2	ptag[5]     :2
+pinyinseq[6]:shi2	ptag[6]     :0
+pinyinseq[7]:yue4	ptag[7]     :1
+pinyinseq[8]:er4	ptag[8]     :0
+pinyinseq[9]:shi2	ptag[9]     :0
+pinyinseq[10]:si4	ptag[10]     :0
+pinyinseq[11]:ri4	ptag[11]     :3
+pinyinseq[12]:zhi4	ptag[12]     :2
+pinyinseq[13]:er4	ptag[13]     :0
+pinyinseq[14]:shi2	ptag[14]     :0
+pinyinseq[15]:qi1	ptag[15]     :0
+pinyinseq[16]:ri4	ptag[16]     :3
+pinyinseq[17]:zai4	ptag[17]     :2
+pinyinseq[18]:bei3	ptag[18]     :0
+pinyinseq[19]:jing1	ptag[19]     :1
+pinyinseq[20]:ju3	ptag[20]     :0
+pinyinseq[21]:xing2	ptag[21]     :4
+py_bd is over !
+
+nChar=22
+pinyinseq[0]:yu2	ptag[0]     :2
+pinyinseq[1]:er4	ptag[1]     :0
+pinyinseq[2]:ling2	ptag[2]     :0
+pinyinseq[3]:yi2	ptag[3]     :0
+pinyinseq[4]:liu4	ptag[4]     :0
+pinyinseq[5]:nian2	ptag[5]     :2
+pinyinseq[6]:shi2	ptag[6]     :0
+pinyinseq[7]:yue4	ptag[7]     :1
+pinyinseq[8]:er4	ptag[8]     :0
+pinyinseq[9]:shi2	ptag[9]     :0
+pinyinseq[10]:si4	ptag[10]     :0
+pinyinseq[11]:ri4	ptag[11]     :3
+pinyinseq[12]:zhi4	ptag[12]     :2
+pinyinseq[13]:er4	ptag[13]     :0
+pinyinseq[14]:shi2	ptag[14]     :0
+pinyinseq[15]:qi1	ptag[15]     :0
+pinyinseq[16]:ri4	ptag[16]     :3
+pinyinseq[17]:zai4	ptag[17]     :2
+pinyinseq[18]:bei3	ptag[18]     :0
+pinyinseq[19]:jing1	ptag[19]     :1
+pinyinseq[20]:ju3	ptag[20]     :0
+pinyinseq[21]:xing2	ptag[21]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+于| 二零一六年| 十月 二十四日$至| 二十七日$在| 北京 举行$
+
+LPCSynth ok!
+tline=出席/v 这/r 次/q 全会/n 的/u 有/v 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=6
+出席/v 这/r 次/q 全会/n 的/u 有/v GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=8
+pinyinseq[0]:chu1	ptag[0]     :0
+pinyinseq[1]:xi2	ptag[1]     :2
+pinyinseq[2]:zhe4	ptag[2]     :0
+pinyinseq[3]:ci4	ptag[3]     :1
+pinyinseq[4]:quan2	ptag[4]     :0
+pinyinseq[5]:hui4	ptag[5]     :0
+pinyinseq[6]:de5	ptag[6]     :1
+pinyinseq[7]:you3	ptag[7]     :4
+py_bd is over !
+
+nChar=8
+pinyinseq[0]:chu1	ptag[0]     :0
+pinyinseq[1]:xi2	ptag[1]     :2
+pinyinseq[2]:zhe4	ptag[2]     :0
+pinyinseq[3]:ci4	ptag[3]     :1
+pinyinseq[4]:quan2	ptag[4]     :0
+pinyinseq[5]:hui4	ptag[5]     :0
+pinyinseq[6]:de5	ptag[6]     :1
+pinyinseq[7]:you3	ptag[7]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+出席| 这次 全会的 有$
+
+LPCSynth ok!
+tline=中央委员/n 一百九十七/m 人/n 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=3
+中央委员/n 一百九十七/m 人/n GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=10
+pinyinseq[0]:zhong1	ptag[0]     :0
+pinyinseq[1]:yang1	ptag[1]     :0
+pinyinseq[2]:wei3	ptag[2]     :0
+pinyinseq[3]:yuan2	ptag[3]     :2
+pinyinseq[4]:yi4	ptag[4]     :0
+pinyinseq[5]:bai2	ptag[5]     :0
+pinyinseq[6]:jiu3	ptag[6]     :0
+pinyinseq[7]:shi2	ptag[7]     :0
+pinyinseq[8]:qi1	ptag[8]     :0
+pinyinseq[9]:ren2	ptag[9]     :4
+py_bd is over !
+
+nChar=10
+pinyinseq[0]:zhong1	ptag[0]     :0
+pinyinseq[1]:yang1	ptag[1]     :0
+pinyinseq[2]:wei3	ptag[2]     :0
+pinyinseq[3]:yuan2	ptag[3]     :2
+pinyinseq[4]:yi4	ptag[4]     :0
+pinyinseq[5]:bai2	ptag[5]     :0
+pinyinseq[6]:jiu3	ptag[6]     :0
+pinyinseq[7]:shi2	ptag[7]     :0
+pinyinseq[8]:qi1	ptag[8]     :0
+pinyinseq[9]:ren2	ptag[9]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+中央委员| 一百九十七人$
+
+LPCSynth ok!
+tline=候补/b 中央委员/n 一百五十一/m 人/n 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=4
+候补/b 中央委员/n 一百五十一/m 人/n GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=12
+pinyinseq[0]:hou4	ptag[0]     :0
+pinyinseq[1]:bu3	ptag[1]     :1
+pinyinseq[2]:zhong1	ptag[2]     :0
+pinyinseq[3]:yang1	ptag[3]     :0
+pinyinseq[4]:wei3	ptag[4]     :0
+pinyinseq[5]:yuan2	ptag[5]     :2
+pinyinseq[6]:yi4	ptag[6]     :0
+pinyinseq[7]:bai2	ptag[7]     :0
+pinyinseq[8]:wu3	ptag[8]     :0
+pinyinseq[9]:shi2	ptag[9]     :0
+pinyinseq[10]:yi1	ptag[10]     :0
+pinyinseq[11]:ren2	ptag[11]     :4
+py_bd is over !
+
+nChar=12
+pinyinseq[0]:hou4	ptag[0]     :0
+pinyinseq[1]:bu3	ptag[1]     :1
+pinyinseq[2]:zhong1	ptag[2]     :0
+pinyinseq[3]:yang1	ptag[3]     :0
+pinyinseq[4]:wei3	ptag[4]     :0
+pinyinseq[5]:yuan2	ptag[5]     :2
+pinyinseq[6]:yi4	ptag[6]     :0
+pinyinseq[7]:bai2	ptag[7]     :0
+pinyinseq[8]:wu3	ptag[8]     :0
+pinyinseq[9]:shi2	ptag[9]     :0
+pinyinseq[10]:yi4	ptag[10]     :0
+pinyinseq[11]:ren2	ptag[11]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+候补 中央委员| 一百五十一人$
+
+LPCSynth ok!
+tline=中央纪律检查委员会/nt 委员/n 和/c 有关/vn 方面/n 负责/v 同志/n 列席/v 会议/n 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=9
+中央纪律检查委员会/nt 委员/n 和/c 有关/vn 方面/n 负责/v 同志/n 列席/v 会议/n GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=24
+pinyinseq[0]:zhong1	ptag[0]     :0
+pinyinseq[1]:yang1	ptag[1]     :0
+pinyinseq[2]:ji4	ptag[2]     :0
+pinyinseq[3]:lv4	ptag[3]     :0
+pinyinseq[4]:jian3	ptag[4]     :0
+pinyinseq[5]:cha2	ptag[5]     :0
+pinyinseq[6]:wei3	ptag[6]     :0
+pinyinseq[7]:yuan2	ptag[7]     :0
+pinyinseq[8]:hui4	ptag[8]     :1
+pinyinseq[9]:wei3	ptag[9]     :0
+pinyinseq[10]:yuan2	ptag[10]     :2
+pinyinseq[11]:he2	ptag[11]     :2
+pinyinseq[12]:you3	ptag[12]     :0
+pinyinseq[13]:guan1	ptag[13]     :1
+pinyinseq[14]:fang1	ptag[14]     :0
+pinyinseq[15]:mian4	ptag[15]     :2
+pinyinseq[16]:fu4	ptag[16]     :0
+pinyinseq[17]:ze2	ptag[17]     :1
+pinyinseq[18]:tong2	ptag[18]     :0
+pinyinseq[19]:zhi4	ptag[19]     :3
+pinyinseq[20]:lie4	ptag[20]     :0
+pinyinseq[21]:xi2	ptag[21]     :1
+pinyinseq[22]:hui4	ptag[22]     :0
+pinyinseq[23]:yi4	ptag[23]     :4
+py_bd is over !
+
+nChar=24
+pinyinseq[0]:zhong1	ptag[0]     :0
+pinyinseq[1]:yang1	ptag[1]     :0
+pinyinseq[2]:ji4	ptag[2]     :0
+pinyinseq[3]:lv4	ptag[3]     :0
+pinyinseq[4]:jian3	ptag[4]     :0
+pinyinseq[5]:cha2	ptag[5]     :0
+pinyinseq[6]:wei3	ptag[6]     :0
+pinyinseq[7]:yuan2	ptag[7]     :0
+pinyinseq[8]:hui4	ptag[8]     :1
+pinyinseq[9]:wei3	ptag[9]     :0
+pinyinseq[10]:yuan2	ptag[10]     :2
+pinyinseq[11]:he2	ptag[11]     :2
+pinyinseq[12]:you3	ptag[12]     :0
+pinyinseq[13]:guan1	ptag[13]     :1
+pinyinseq[14]:fang1	ptag[14]     :0
+pinyinseq[15]:mian4	ptag[15]     :2
+pinyinseq[16]:fu4	ptag[16]     :0
+pinyinseq[17]:ze2	ptag[17]     :1
+pinyinseq[18]:tong2	ptag[18]     :0
+pinyinseq[19]:zhi4	ptag[19]     :3
+pinyinseq[20]:lie4	ptag[20]     :0
+pinyinseq[21]:xi2	ptag[21]     :1
+pinyinseq[22]:hui4	ptag[22]     :0
+pinyinseq[23]:yi4	ptag[23]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+中央纪律检查委员会 委员| 和| 有关 方面| 负责 同志$列席 会议$
+
+LPCSynth ok!
+tline=党/n 的/u 十八/m 大/a 代表/n 中/f 部分/m 基层/n 同志/n 和/c 专家/n 学者/n 也/d 列席/v 会议/n 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=15
+党/n 的/u 十八/m 大/a 代表/n 中/f 部分/m 基层/n 同志/n 和/c 专家/n 学者/n 也/d 列席/v 会议/n GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=24
+pinyinseq[0]:dang3	ptag[0]     :0
+pinyinseq[1]:de5	ptag[1]     :1
+pinyinseq[2]:shi2	ptag[2]     :0
+pinyinseq[3]:ba1	ptag[3]     :0
+pinyinseq[4]:da4	ptag[4]     :1
+pinyinseq[5]:dai4	ptag[5]     :0
+pinyinseq[6]:biao3	ptag[6]     :0
+pinyinseq[7]:zhong1	ptag[7]     :2
+pinyinseq[8]:bu4	ptag[8]     :0
+pinyinseq[9]:fen1	ptag[9]     :1
+pinyinseq[10]:ji1	ptag[10]     :0
+pinyinseq[11]:ceng2	ptag[11]     :1
+pinyinseq[12]:tong2	ptag[12]     :0
+pinyinseq[13]:zhi4	ptag[13]     :3
+pinyinseq[14]:he2	ptag[14]     :2
+pinyinseq[15]:zhuan1	ptag[15]     :0
+pinyinseq[16]:jia1	ptag[16]     :1
+pinyinseq[17]:xue2	ptag[17]     :0
+pinyinseq[18]:zhe3	ptag[18]     :3
+pinyinseq[19]:ye3	ptag[19]     :2
+pinyinseq[20]:lie4	ptag[20]     :0
+pinyinseq[21]:xi2	ptag[21]     :1
+pinyinseq[22]:hui4	ptag[22]     :0
+pinyinseq[23]:yi4	ptag[23]     :4
+py_bd is over !
+
+nChar=24
+pinyinseq[0]:dang3	ptag[0]     :0
+pinyinseq[1]:de5	ptag[1]     :1
+pinyinseq[2]:shi2	ptag[2]     :0
+pinyinseq[3]:ba1	ptag[3]     :0
+pinyinseq[4]:da4	ptag[4]     :1
+pinyinseq[5]:dai4	ptag[5]     :0
+pinyinseq[6]:biao3	ptag[6]     :0
+pinyinseq[7]:zhong1	ptag[7]     :2
+pinyinseq[8]:bu4	ptag[8]     :0
+pinyinseq[9]:fen1	ptag[9]     :1
+pinyinseq[10]:ji1	ptag[10]     :0
+pinyinseq[11]:ceng2	ptag[11]     :1
+pinyinseq[12]:tong2	ptag[12]     :0
+pinyinseq[13]:zhi4	ptag[13]     :3
+pinyinseq[14]:he2	ptag[14]     :2
+pinyinseq[15]:zhuan1	ptag[15]     :0
+pinyinseq[16]:jia1	ptag[16]     :1
+pinyinseq[17]:xue2	ptag[17]     :0
+pinyinseq[18]:zhe3	ptag[18]     :3
+pinyinseq[19]:ye3	ptag[19]     :2
+pinyinseq[20]:lie4	ptag[20]     :0
+pinyinseq[21]:xi2	ptag[21]     :1
+pinyinseq[22]:hui4	ptag[22]     :0
+pinyinseq[23]:yi4	ptag[23]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+党的 十八大 代表中| 部分 基层 同志$和| 专家 学者$也| 列席 会议$
+
+LPCSynth ok!
+tline=北京/ns 时间/n 十月/t 二十八日/t 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=4
+北京/ns 时间/n 十月/t 二十八日/t GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=10
+pinyinseq[0]:bei3	ptag[0]     :0
+pinyinseq[1]:jing1	ptag[1]     :1
+pinyinseq[2]:shi2	ptag[2]     :0
+pinyinseq[3]:jian1	ptag[3]     :2
+pinyinseq[4]:shi2	ptag[4]     :0
+pinyinseq[5]:yue4	ptag[5]     :1
+pinyinseq[6]:er4	ptag[6]     :0
+pinyinseq[7]:shi2	ptag[7]     :0
+pinyinseq[8]:ba1	ptag[8]     :0
+pinyinseq[9]:ri4	ptag[9]     :4
+py_bd is over !
+
+nChar=10
+pinyinseq[0]:bei3	ptag[0]     :0
+pinyinseq[1]:jing1	ptag[1]     :1
+pinyinseq[2]:shi2	ptag[2]     :0
+pinyinseq[3]:jian1	ptag[3]     :2
+pinyinseq[4]:shi2	ptag[4]     :0
+pinyinseq[5]:yue4	ptag[5]     :1
+pinyinseq[6]:er4	ptag[6]     :0
+pinyinseq[7]:shi2	ptag[7]     :0
+pinyinseq[8]:ba1	ptag[8]     :0
+pinyinseq[9]:ri4	ptag[9]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+北京 时间| 十月 二十八日$
+
+LPCSynth ok!
+tline=美国/ns 东部/f 时间/n 十月/t 二十七日/t 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=5
+美国/ns 东部/f 时间/n 十月/t 二十七日/t GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=12
+pinyinseq[0]:mei3	ptag[0]     :0
+pinyinseq[1]:guo2	ptag[1]     :1
+pinyinseq[2]:dong1	ptag[2]     :0
+pinyinseq[3]:bu4	ptag[3]     :1
+pinyinseq[4]:shi2	ptag[4]     :0
+pinyinseq[5]:jian1	ptag[5]     :2
+pinyinseq[6]:shi2	ptag[6]     :0
+pinyinseq[7]:yue4	ptag[7]     :1
+pinyinseq[8]:er4	ptag[8]     :0
+pinyinseq[9]:shi2	ptag[9]     :0
+pinyinseq[10]:qi1	ptag[10]     :0
+pinyinseq[11]:ri4	ptag[11]     :4
+py_bd is over !
+
+nChar=12
+pinyinseq[0]:mei3	ptag[0]     :0
+pinyinseq[1]:guo2	ptag[1]     :1
+pinyinseq[2]:dong1	ptag[2]     :0
+pinyinseq[3]:bu4	ptag[3]     :1
+pinyinseq[4]:shi2	ptag[4]     :0
+pinyinseq[5]:jian1	ptag[5]     :2
+pinyinseq[6]:shi2	ptag[6]     :0
+pinyinseq[7]:yue4	ptag[7]     :1
+pinyinseq[8]:er4	ptag[8]     :0
+pinyinseq[9]:shi2	ptag[9]     :0
+pinyinseq[10]:qi1	ptag[10]     :0
+pinyinseq[11]:ri4	ptag[11]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+美国 东部 时间| 十月 二十七日$
+
+LPCSynth ok!
+tline=全球/n 最/d 大/a 中文/nz 搜索引擎/n 百度/nz 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=6
+全球/n 最/d 大/a 中文/nz 搜索引擎/n 百度/nz GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=12
+pinyinseq[0]:quan2	ptag[0]     :0
+pinyinseq[1]:qiu2	ptag[1]     :2
+pinyinseq[2]:zui4	ptag[2]     :0
+pinyinseq[3]:da4	ptag[3]     :1
+pinyinseq[4]:zhong1	ptag[4]     :0
+pinyinseq[5]:wen2	ptag[5]     :2
+pinyinseq[6]:sou1	ptag[6]     :0
+pinyinseq[7]:suo2	ptag[7]     :0
+pinyinseq[8]:yin3	ptag[8]     :0
+pinyinseq[9]:qing2	ptag[9]     :1
+pinyinseq[10]:bai3	ptag[10]     :0
+pinyinseq[11]:du4	ptag[11]     :4
+py_bd is over !
+
+nChar=12
+pinyinseq[0]:quan2	ptag[0]     :0
+pinyinseq[1]:qiu2	ptag[1]     :2
+pinyinseq[2]:zui4	ptag[2]     :0
+pinyinseq[3]:da4	ptag[3]     :1
+pinyinseq[4]:zhong1	ptag[4]     :0
+pinyinseq[5]:wen2	ptag[5]     :2
+pinyinseq[6]:sou1	ptag[6]     :0
+pinyinseq[7]:suo2	ptag[7]     :0
+pinyinseq[8]:yin3	ptag[8]     :0
+pinyinseq[9]:qing2	ptag[9]     :1
+pinyinseq[10]:bai3	ptag[10]     :0
+pinyinseq[11]:du4	ptag[11]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+全球| 最大 中文| 搜索引擎 百度$
+
+LPCSynth ok!
+tline=公布/v 了/u 截至/v 二零一六年/t 九月/t 三十日/t 第三/m 季度/n 未/d 经/p 审计/vn 的/u 财务/n 报告/n 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=14
+公布/v 了/u 截至/v 二零一六年/t 九月/t 三十日/t 第三/m 季度/n 未/d 经/p 审计/vn 的/u 财务/n 报告/n GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=28
+pinyinseq[0]:gong1	ptag[0]     :0
+pinyinseq[1]:bu4	ptag[1]     :0
+pinyinseq[2]:le5	ptag[2]     :1
+pinyinseq[3]:jie2	ptag[3]     :0
+pinyinseq[4]:zhi4	ptag[4]     :2
+pinyinseq[5]:er4	ptag[5]     :0
+pinyinseq[6]:ling2	ptag[6]     :0
+pinyinseq[7]:yi2	ptag[7]     :0
+pinyinseq[8]:liu4	ptag[8]     :0
+pinyinseq[9]:nian2	ptag[9]     :2
+pinyinseq[10]:jiu3	ptag[10]     :0
+pinyinseq[11]:yue4	ptag[11]     :1
+pinyinseq[12]:san1	ptag[12]     :0
+pinyinseq[13]:shi2	ptag[13]     :0
+pinyinseq[14]:ri4	ptag[14]     :3
+pinyinseq[15]:di4	ptag[15]     :0
+pinyinseq[16]:san1	ptag[16]     :2
+pinyinseq[17]:ji4	ptag[17]     :0
+pinyinseq[18]:du4	ptag[18]     :3
+pinyinseq[19]:wei4	ptag[19]     :0
+pinyinseq[20]:jing1	ptag[20]     :2
+pinyinseq[21]:shen3	ptag[21]     :0
+pinyinseq[22]:ji4	ptag[22]     :0
+pinyinseq[23]:de5	ptag[23]     :2
+pinyinseq[24]:cai2	ptag[24]     :0
+pinyinseq[25]:wu4	ptag[25]     :1
+pinyinseq[26]:bao4	ptag[26]     :0
+pinyinseq[27]:gao4	ptag[27]     :4
+py_bd is over !
+
+nChar=28
+pinyinseq[0]:gong1	ptag[0]     :0
+pinyinseq[1]:bu4	ptag[1]     :0
+pinyinseq[2]:le5	ptag[2]     :1
+pinyinseq[3]:jie2	ptag[3]     :0
+pinyinseq[4]:zhi4	ptag[4]     :2
+pinyinseq[5]:er4	ptag[5]     :0
+pinyinseq[6]:ling2	ptag[6]     :0
+pinyinseq[7]:yi2	ptag[7]     :0
+pinyinseq[8]:liu4	ptag[8]     :0
+pinyinseq[9]:nian2	ptag[9]     :2
+pinyinseq[10]:jiu3	ptag[10]     :0
+pinyinseq[11]:yue4	ptag[11]     :1
+pinyinseq[12]:san1	ptag[12]     :0
+pinyinseq[13]:shi2	ptag[13]     :0
+pinyinseq[14]:ri4	ptag[14]     :3
+pinyinseq[15]:di4	ptag[15]     :0
+pinyinseq[16]:san1	ptag[16]     :2
+pinyinseq[17]:ji4	ptag[17]     :0
+pinyinseq[18]:du4	ptag[18]     :3
+pinyinseq[19]:wei4	ptag[19]     :0
+pinyinseq[20]:jing1	ptag[20]     :2
+pinyinseq[21]:shen3	ptag[21]     :0
+pinyinseq[22]:ji4	ptag[22]     :0
+pinyinseq[23]:de5	ptag[23]     :2
+pinyinseq[24]:cai2	ptag[24]     :0
+pinyinseq[25]:wu4	ptag[25]     :1
+pinyinseq[26]:bao4	ptag[26]     :0
+pinyinseq[27]:gao4	ptag[27]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+公布了 截至| 二零一六年| 九月 三十日$第三| 季度$未经| 审计的| 财务 报告$
+
+LPCSynth ok!
+tline=该/r 季度/n 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=2
+该/r 季度/n GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=3
+pinyinseq[0]:gai1	ptag[0]     :0
+pinyinseq[1]:ji4	ptag[1]     :0
+pinyinseq[2]:du4	ptag[2]     :4
+py_bd is over !
+
+nChar=3
+pinyinseq[0]:gai1	ptag[0]     :0
+pinyinseq[1]:ji4	ptag[1]     :0
+pinyinseq[2]:du4	ptag[2]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+该季度$
+
+LPCSynth ok!
+tline=百度/nz 总/b 营/n 收/v 为/p 一百八十二点五三亿/m 元/q 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=7
+百度/nz 总/b 营/n 收/v 为/p 一百八十二点五三亿/m 元/q GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=16
+pinyinseq[0]:bai3	ptag[0]     :0
+pinyinseq[1]:du4	ptag[1]     :1
+pinyinseq[2]:zong3	ptag[2]     :0
+pinyinseq[3]:ying2	ptag[3]     :1
+pinyinseq[4]:shou1	ptag[4]     :0
+pinyinseq[5]:wei4	ptag[5]     :2
+pinyinseq[6]:yi4	ptag[6]     :0
+pinyinseq[7]:bai3	ptag[7]     :0
+pinyinseq[8]:ba1	ptag[8]     :0
+pinyinseq[9]:shi2	ptag[9]     :0
+pinyinseq[10]:er4	ptag[10]     :0
+pinyinseq[11]:dian2	ptag[11]     :0
+pinyinseq[12]:wu3	ptag[12]     :0
+pinyinseq[13]:san1	ptag[13]     :0
+pinyinseq[14]:yi4	ptag[14]     :0
+pinyinseq[15]:yuan2	ptag[15]     :4
+py_bd is over !
+
+nChar=16
+pinyinseq[0]:bai3	ptag[0]     :0
+pinyinseq[1]:du4	ptag[1]     :1
+pinyinseq[2]:zong3	ptag[2]     :0
+pinyinseq[3]:ying2	ptag[3]     :1
+pinyinseq[4]:shou1	ptag[4]     :0
+pinyinseq[5]:wei4	ptag[5]     :2
+pinyinseq[6]:yi4	ptag[6]     :0
+pinyinseq[7]:bai3	ptag[7]     :0
+pinyinseq[8]:ba1	ptag[8]     :0
+pinyinseq[9]:shi2	ptag[9]     :0
+pinyinseq[10]:er4	ptag[10]     :0
+pinyinseq[11]:dian2	ptag[11]     :0
+pinyinseq[12]:wu3	ptag[12]     :0
+pinyinseq[13]:san1	ptag[13]     :0
+pinyinseq[14]:yi4	ptag[14]     :0
+pinyinseq[15]:yuan2	ptag[15]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+百度 总营 收为| 一百八十二点五三亿元$
+
+LPCSynth ok!
+tline=约/d 合/v 二十七点三七亿/m 美元/q 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=4
+约/d 合/v 二十七点三七亿/m 美元/q GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=11
+pinyinseq[0]:yue1	ptag[0]     :0
+pinyinseq[1]:he2	ptag[1]     :2
+pinyinseq[2]:er4	ptag[2]     :0
+pinyinseq[3]:shi2	ptag[3]     :0
+pinyinseq[4]:qi1	ptag[4]     :0
+pinyinseq[5]:dian3	ptag[5]     :0
+pinyinseq[6]:san1	ptag[6]     :0
+pinyinseq[7]:qi1	ptag[7]     :0
+pinyinseq[8]:yi4	ptag[8]     :1
+pinyinseq[9]:mei3	ptag[9]     :0
+pinyinseq[10]:yuan2	ptag[10]     :4
+py_bd is over !
+
+nChar=11
+pinyinseq[0]:yue1	ptag[0]     :0
+pinyinseq[1]:he2	ptag[1]     :2
+pinyinseq[2]:er4	ptag[2]     :0
+pinyinseq[3]:shi2	ptag[3]     :0
+pinyinseq[4]:qi1	ptag[4]     :0
+pinyinseq[5]:dian3	ptag[5]     :0
+pinyinseq[6]:san1	ptag[6]     :0
+pinyinseq[7]:qi1	ptag[7]     :0
+pinyinseq[8]:yi4	ptag[8]     :1
+pinyinseq[9]:mei3	ptag[9]     :0
+pinyinseq[10]:yuan2	ptag[10]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+约合| 二十七点三七亿 美元$
+
+LPCSynth ok!
+tline=移/v 除去/v 哪/r 网/n 影响/vn 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=5
+移/v 除去/v 哪/r 网/n 影响/vn GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=7
+pinyinseq[0]:yi2	ptag[0]     :0
+pinyinseq[1]:chu2	ptag[1]     :0
+pinyinseq[2]:qu4	ptag[2]     :1
+pinyinseq[3]:na3	ptag[3]     :0
+pinyinseq[4]:wang3	ptag[4]     :1
+pinyinseq[5]:ying2	ptag[5]     :0
+pinyinseq[6]:xiang3	ptag[6]     :4
+py_bd is over !
+
+nChar=7
+pinyinseq[0]:yi2	ptag[0]     :0
+pinyinseq[1]:chu2	ptag[1]     :0
+pinyinseq[2]:qu4	ptag[2]     :1
+pinyinseq[3]:na2	ptag[3]     :0
+pinyinseq[4]:wang3	ptag[4]     :1
+pinyinseq[5]:ying2	ptag[5]     :0
+pinyinseq[6]:xiang3	ptag[6]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+移除去 哪网 影响$
+
+LPCSynth ok!
+tline=实际/n 同比/n 增长/v 百分之六点七/m 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=4
+实际/n 同比/n 增长/v 百分之六点七/m GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=12
+pinyinseq[0]:shi2	ptag[0]     :0
+pinyinseq[1]:ji4	ptag[1]     :1
+pinyinseq[2]:tong2	ptag[2]     :0
+pinyinseq[3]:bi3	ptag[3]     :2
+pinyinseq[4]:zeng1	ptag[4]     :0
+pinyinseq[5]:zhang3	ptag[5]     :1
+pinyinseq[6]:bai3	ptag[6]     :0
+pinyinseq[7]:fen1	ptag[7]     :0
+pinyinseq[8]:zhi1	ptag[8]     :0
+pinyinseq[9]:liu4	ptag[9]     :0
+pinyinseq[10]:dian3	ptag[10]     :0
+pinyinseq[11]:qi1	ptag[11]     :4
+py_bd is over !
+
+nChar=12
+pinyinseq[0]:shi2	ptag[0]     :0
+pinyinseq[1]:ji4	ptag[1]     :1
+pinyinseq[2]:tong2	ptag[2]     :0
+pinyinseq[3]:bi3	ptag[3]     :2
+pinyinseq[4]:zeng1	ptag[4]     :0
+pinyinseq[5]:zhang3	ptag[5]     :1
+pinyinseq[6]:bai3	ptag[6]     :0
+pinyinseq[7]:fen1	ptag[7]     :0
+pinyinseq[8]:zhi1	ptag[8]     :0
+pinyinseq[9]:liu4	ptag[9]     :0
+pinyinseq[10]:dian3	ptag[10]     :0
+pinyinseq[11]:qi1	ptag[11]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+实际 同比| 增长 百分之六点七$
+
+LPCSynth ok!
+tline=净利润/n 为/p 三十一点零二亿/m 元/q 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=4
+净利润/n 为/p 三十一点零二亿/m 元/q GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=12
+pinyinseq[0]:jing4	ptag[0]     :0
+pinyinseq[1]:li4	ptag[1]     :0
+pinyinseq[2]:run4	ptag[2]     :2
+pinyinseq[3]:wei4	ptag[3]     :2
+pinyinseq[4]:san1	ptag[4]     :0
+pinyinseq[5]:shi2	ptag[5]     :0
+pinyinseq[6]:yi4	ptag[6]     :0
+pinyinseq[7]:dian3	ptag[7]     :0
+pinyinseq[8]:ling2	ptag[8]     :0
+pinyinseq[9]:er4	ptag[9]     :0
+pinyinseq[10]:yi4	ptag[10]     :0
+pinyinseq[11]:yuan2	ptag[11]     :4
+py_bd is over !
+
+nChar=12
+pinyinseq[0]:jing4	ptag[0]     :0
+pinyinseq[1]:li4	ptag[1]     :0
+pinyinseq[2]:run4	ptag[2]     :2
+pinyinseq[3]:wei4	ptag[3]     :2
+pinyinseq[4]:san1	ptag[4]     :0
+pinyinseq[5]:shi2	ptag[5]     :0
+pinyinseq[6]:yi4	ptag[6]     :0
+pinyinseq[7]:dian3	ptag[7]     :0
+pinyinseq[8]:ling2	ptag[8]     :0
+pinyinseq[9]:er4	ptag[9]     :0
+pinyinseq[10]:yi4	ptag[10]     :0
+pinyinseq[11]:yuan2	ptag[11]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+净利润| 为| 三十一点零二亿元$
+
+LPCSynth ok!
+tline=约/d 合/v 四点六五二亿/m 美元/q 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=4
+约/d 合/v 四点六五二亿/m 美元/q GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=10
+pinyinseq[0]:yue1	ptag[0]     :0
+pinyinseq[1]:he2	ptag[1]     :2
+pinyinseq[2]:si4	ptag[2]     :0
+pinyinseq[3]:dian3	ptag[3]     :0
+pinyinseq[4]:liu4	ptag[4]     :0
+pinyinseq[5]:wu3	ptag[5]     :0
+pinyinseq[6]:er4	ptag[6]     :0
+pinyinseq[7]:yi4	ptag[7]     :1
+pinyinseq[8]:mei3	ptag[8]     :0
+pinyinseq[9]:yuan2	ptag[9]     :4
+py_bd is over !
+
+nChar=10
+pinyinseq[0]:yue1	ptag[0]     :0
+pinyinseq[1]:he2	ptag[1]     :2
+pinyinseq[2]:si4	ptag[2]     :0
+pinyinseq[3]:dian3	ptag[3]     :0
+pinyinseq[4]:liu4	ptag[4]     :0
+pinyinseq[5]:wu3	ptag[5]     :0
+pinyinseq[6]:er4	ptag[6]     :0
+pinyinseq[7]:yi4	ptag[7]     :1
+pinyinseq[8]:mei3	ptag[8]     :0
+pinyinseq[9]:yuan2	ptag[9]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+约合| 四点六五二亿 美元$
+
+LPCSynth ok!
+tline=同比/n 增长/v 百分之九点二/m 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=3
+同比/n 增长/v 百分之九点二/m GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=10
+pinyinseq[0]:tong2	ptag[0]     :0
+pinyinseq[1]:bi3	ptag[1]     :2
+pinyinseq[2]:zeng1	ptag[2]     :0
+pinyinseq[3]:zhang3	ptag[3]     :1
+pinyinseq[4]:bai3	ptag[4]     :0
+pinyinseq[5]:fen1	ptag[5]     :0
+pinyinseq[6]:zhi1	ptag[6]     :0
+pinyinseq[7]:jiu2	ptag[7]     :0
+pinyinseq[8]:dian3	ptag[8]     :0
+pinyinseq[9]:er4	ptag[9]     :4
+py_bd is over !
+
+nChar=10
+pinyinseq[0]:tong2	ptag[0]     :0
+pinyinseq[1]:bi3	ptag[1]     :2
+pinyinseq[2]:zeng1	ptag[2]     :0
+pinyinseq[3]:zhang3	ptag[3]     :1
+pinyinseq[4]:bai3	ptag[4]     :0
+pinyinseq[5]:fen1	ptag[5]     :0
+pinyinseq[6]:zhi1	ptag[6]     :0
+pinyinseq[7]:jiu2	ptag[7]     :0
+pinyinseq[8]:dian3	ptag[8]     :0
+pinyinseq[9]:er4	ptag[9]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+同比| 增长 百分之九点二$
+
+LPCSynth ok!
+tline=其中/r 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=1
+其中/r GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=2
+pinyinseq[0]:qi2	ptag[0]     :0
+pinyinseq[1]:zhong1	ptag[1]     :4
+py_bd is over !
+
+nChar=2
+pinyinseq[0]:qi2	ptag[0]     :0
+pinyinseq[1]:zhong1	ptag[1]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+其中$
+
+LPCSynth ok!
+tline=移动/vn 营/n 收/v 占/v 比/p 持续/vd 上升/v 达/v 百分之六十四/m 
+TTS_Label_Init ok!
+GetWordSegmentAndPosTagger ok!
+
+nWord=9
+移动/vn 营/n 收/v 占/v 比/p 持续/vd 上升/v 达/v 百分之六十四/m GetProsodicTag ok!
+Char2Pinyin ok!
+
+nChar=17
+pinyinseq[0]:yi2	ptag[0]     :0
+pinyinseq[1]:dong4	ptag[1]     :1
+pinyinseq[2]:ying2	ptag[2]     :0
+pinyinseq[3]:shou1	ptag[3]     :2
+pinyinseq[4]:zhan4	ptag[4]     :0
+pinyinseq[5]:bi3	ptag[5]     :2
+pinyinseq[6]:chi2	ptag[6]     :0
+pinyinseq[7]:xu4	ptag[7]     :1
+pinyinseq[8]:shang4	ptag[8]     :0
+pinyinseq[9]:sheng1	ptag[9]     :0
+pinyinseq[10]:da2	ptag[10]     :2
+pinyinseq[11]:bai3	ptag[11]     :0
+pinyinseq[12]:fen1	ptag[12]     :0
+pinyinseq[13]:zhi1	ptag[13]     :0
+pinyinseq[14]:liu4	ptag[14]     :0
+pinyinseq[15]:shi2	ptag[15]     :0
+pinyinseq[16]:si4	ptag[16]     :4
+py_bd is over !
+
+nChar=17
+pinyinseq[0]:yi2	ptag[0]     :0
+pinyinseq[1]:dong4	ptag[1]     :1
+pinyinseq[2]:ying2	ptag[2]     :0
+pinyinseq[3]:shou1	ptag[3]     :2
+pinyinseq[4]:zhan4	ptag[4]     :0
+pinyinseq[5]:bi3	ptag[5]     :2
+pinyinseq[6]:chi2	ptag[6]     :0
+pinyinseq[7]:xu4	ptag[7]     :1
+pinyinseq[8]:shang4	ptag[8]     :0
+pinyinseq[9]:sheng1	ptag[9]     :0
+pinyinseq[10]:da2	ptag[10]     :2
+pinyinseq[11]:bai3	ptag[11]     :0
+pinyinseq[12]:fen1	ptag[12]     :0
+pinyinseq[13]:zhi1	ptag[13]     :0
+pinyinseq[14]:liu4	ptag[14]     :0
+pinyinseq[15]:shi2	ptag[15]     :0
+pinyinseq[16]:si4	ptag[16]     :4
+TtsLabel_ObtainLabelCharSeq ok!
+PrintLabel ok!
+移动 营收| 占比| 持续 上升达| 百分之六十四$
+
+LPCSynth ok!
