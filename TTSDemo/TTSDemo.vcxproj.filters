@@ -42,16 +42,10 @@
     <ClInclude Include="includes\inter_lib.h">
       <Filter>TTSBase</Filter>
     </ClInclude>
-    <ClInclude Include="includes\NLPIR.h">
-      <Filter>TTSBase</Filter>
-    </ClInclude>
     <ClInclude Include="includes\TN_Engine.h">
       <Filter>TTSBase</Filter>
     </ClInclude>
     <ClInclude Include="includes\TTS_ALL.h">
-      <Filter>TTSBase</Filter>
-    </ClInclude>
-    <ClInclude Include="includes\UTF8Util.h">
       <Filter>TTSBase</Filter>
     </ClInclude>
     <ClInclude Include="includes\word_seg_lib.h">
@@ -61,6 +55,30 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="includes\pre_pro.h">
+      <Filter>TTSBase</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\Dictionary.h">
+      <Filter>TTSBase</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\MaxMatch.h">
+      <Filter>TTSBase</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\MaxMatch_Engine.h">
+      <Filter>TTSBase</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\StringUtil.h">
+      <Filter>TTSBase</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\Term.h">
+      <Filter>TTSBase</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\stdafx.h">
+      <Filter>TTSBase</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\UTF8Util.h">
+      <Filter>TTSBase</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\jieba\include\cppjieba\Jieba.hpp">
       <Filter>TTSBase</Filter>
     </ClInclude>
   </ItemGroup>
@@ -87,6 +105,24 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="includes\pre_pro.cpp">
+      <Filter>TTSBase</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Dictionary.cc">
+      <Filter>TTSBase</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MaxMatch.cc">
+      <Filter>TTSBase</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MaxMatch_Engine.cc">
+      <Filter>TTSBase</Filter>
+    </ClCompile>
+    <ClCompile Include="src\StringUtil.cc">
+      <Filter>TTSBase</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Term.cc">
+      <Filter>TTSBase</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UTF8Util.cc">
       <Filter>TTSBase</Filter>
     </ClCompile>
   </ItemGroup>

@@ -99,7 +99,8 @@ struct result_t{
  *  History    : 
  *              1.create 2013-6-8
  *********************************************************************/
-NLPIR_API int NLPIR_Init(const char * sDataPath=0,int encode=GBK_CODE,const char*sLicenceCode=0);
+//NLPIR_API int NLPIR_Init(const char * sDataPath=0,int encode=GBK_CODE,const char*sLicenceCode=0);
+NLPIR_API int NLPIR_Init(const char * sDataPath = 0, int encode = UTF8_CODE, const char*sLicenceCode = 0);
 /*********************************************************************
  *
  *  Func Name  : NLPIR_Exit

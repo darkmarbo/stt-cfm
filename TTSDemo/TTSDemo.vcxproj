@@ -86,7 +86,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>false</SDLCheck>
-      <AdditionalIncludeDirectories>includes</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\bdy\项目-源码\TTS-Adapt\1g_tts_adapt\g_tts_adapt_demo\TTSDemo\includes\jieba\include;D:\bdy\项目-源码\TTS-Adapt\1g_tts_adapt\g_tts_adapt_demo\TTSDemo\includes\jieba\deps;includes</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
     </ClCompile>
     <Link>
@@ -114,9 +114,15 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="includes\Dictionary.h" />
     <ClInclude Include="includes\inter_lib.h" />
-    <ClInclude Include="includes\NLPIR.h" />
+    <ClInclude Include="includes\jieba\include\cppjieba\Jieba.hpp" />
+    <ClInclude Include="includes\MaxMatch.h" />
+    <ClInclude Include="includes\MaxMatch_Engine.h" />
     <ClInclude Include="includes\pre_pro.h" />
+    <ClInclude Include="includes\stdafx.h" />
+    <ClInclude Include="includes\StringUtil.h" />
+    <ClInclude Include="includes\Term.h" />
     <ClInclude Include="includes\TN_Engine.h" />
     <ClInclude Include="includes\TTS_ALL.h" />
     <ClInclude Include="includes\UTF8Util.h" />
@@ -141,6 +147,12 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="src\Dictionary.cc" />
+    <ClCompile Include="src\MaxMatch.cc" />
+    <ClCompile Include="src\MaxMatch_Engine.cc" />
+    <ClCompile Include="src\StringUtil.cc" />
+    <ClCompile Include="src\Term.cc" />
+    <ClCompile Include="src\UTF8Util.cc" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>

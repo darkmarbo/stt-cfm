@@ -1,0 +1,87 @@
+vl	Id	i	i*4#l
+nr1	Nb	nr
+nr2	Nb	nr
+nrj	Nb	nr
+nrf	Nb	nr
+nsf	Nc	ns
+nl	Id	i	i*4#l
+ng	Na	Ng	
+tg	Nd	Tg
+vshi	Vt	v	*
+vyou	Vt	v	*
+vf	Vt	v
+vx	Vt	v
+vi	Vi	v	*
+vl	Id	i	i*4#l
+vg	Vt	Vg
+ag	A	Ag
+al	A	i	i*4#l
+bl	D_?	i	i*4#l
+rr	Pro	r
+rz	Pro	r
+rzt	Pro	r
+rzs	Pro	r
+rzv	Pro	r
+ry	Pro	r
+ryt	Pro	r
+rys	Pro	r
+ryv	Pro	r
+rg	Pro	r	##?
+mq	Num	m
+qv	Nf	q
+qt	Nf	q
+pba	P	p
+pbei	P	p
+cc	C	c
+uzhe	Di	u	着
+ule	Di	u	了 喽
+uguo	Di	u	过
+ude1	DE	u	的 底
+ude2	DE	u	地
+ude3	DE	u	得
+usuo	T	u	所
+udeng	T	u	等 等等 云云
+uyy	T	u	一样 一般 似的 般
+udh	T	u	的话
+uls	T	u	来讲 来说 而言 说来
+uzhi	DE	u	之
+ulian	T	u	连
+x	FW	nx
+xx	X	nx	-
+xu	FW	nx	-	*
+wkz	W	w
+wky	W	w
+wyz	W	w
+wyy	W	w
+wj	W	w
+ww	W	w
+wt	W	w
+wd	W	w
+wf	W	w
+wn	W	w
+wm	W	w
+ws	W	w
+wp	W	w
+wb	W	w
+wh	W	w	-
+dg	Dg	Dg
+dl	Id	i	i*4#l
+Mg	Num	m
+n_newword	Na	n
+happ	A	a
+gms	Nb	nz
+gjtgj	Na	n
+gnbj	Nb	nz
+Rg	Pro	r
+gnzy	Vt	v
+gnqg	nz	nz
+nrt	Nb	nr	**暂定人名
+df	D	d	否定副词
+nrfg	Nb	nr	**大部分人名 nr
+j	Nb	nz	简称略语
+gnhk	Nb	nz
+nd	Ncd	f
+gntw	Nb	nz
+sorr	Na	n
+gwz	Nb	nz
+grjyy	FW	nx

@@ -106,12 +106,17 @@ int PreProClass::init(const char *map_dir)
 	return 0;
 }
 
-int PreProClass::pre_pro(const std::string str_line, std::vector<std::string> &vec_out)
+/*
+	按照 str_pro/map.txt 中配置的几级转换规则  将原始大文本(多行) 转转成句子。
+	转换过程中，将字数小于 17 的小句子进行合并（不然会有韵律问题）。
+*/
+int PreProClass::pre_pro_long(const std::string str_line, std::vector<std::string> &vec_out, int min_count)
 {
 	
 	char *tmp = NULL;
 	char line_char[MAX_LINE_LEN];
 	std::string line = str_line;
+	std::string str_cat = "";
 	std::map<std::string, std::string>::iterator it_map;
 
 	if (line.size() == 0){return 0;}
@@ -121,6 +126,7 @@ int PreProClass::pre_pro(const std::string str_line, std::vector<std::string> &v
 		line[line.size() - 1] = '\0';
 	}
 	
+	// map.txt 中 特殊符号替换 
 	for (it_map = map_trans.begin(); it_map != map_trans.end(); it_map++)
 	{
 		line = replace_all(line, it_map->first, it_map->second);
@@ -144,8 +150,99 @@ int PreProClass::pre_pro(const std::string str_line, std::vector<std::string> &v
 	tmp = strtok(line_char, "\n");
 	while (tmp != NULL)
 	{
-		vec_out.push_back(tmp);
+		// tmp 是以\n分割后的每一行(小句子)
+		// 添加判断：如果当前句子太小（UTF8 三个字符一个字 50个字符16个字）
+		str_cat += tmp; // 把当前小句子 加到累计string后面 
+
+		// 当前 已经攒够一句话了
+		// 10个字 
+		if (str_cat.size()>min_count)
+		{
+			vec_out.push_back(str_cat);
+			str_cat = "";
+		}
+		else // 还不够...... 后面肯定还要添加 所以加上空格 
+		{
+			str_cat += " ";
+		}
+		
 		tmp = strtok(NULL, "\n");
+	}
+
+	if (str_cat.size() > 1)
+	{
+		vec_out.push_back(str_cat);
+	}
+
+	return 0;
+}
+
+/*
+	按照 str_pro/map.txt 中配置的几级转换规则  将原始大文本(多行) 转转成句子。
+
+*/
+int PreProClass::pre_pro_small(const std::string str_line, std::vector<std::string> &vec_out)
+{
+
+	char *tmp = NULL;
+	char line_char[MAX_LINE_LEN];
+	std::string line = str_line;
+	std::string str_cat = "";
+	std::map<std::string, std::string>::iterator it_map;
+
+	if (line.size() == 0){ return 0; }
+
+	if (line[line.size() - 1] == '\n' || line[line.size() - 1] == '\r')
+	{
+		line[line.size() - 1] = '\0';
+	}
+
+	// map.txt 中 特殊符号替换 
+	for (it_map = map_trans.begin(); it_map != map_trans.end(); it_map++)
+	{
+		line = replace_all(line, it_map->first, it_map->second);
+	}
+
+	// 去除掉多余的空格和tab
+	line = replace_all(line, "\t", "");
+	line = replace_all(line, "　　　　　", "");
+	line = replace_all(line, "　　　　", "");
+	line = replace_all(line, "　　　", "");
+	line = replace_all(line, "　　", "");
+	line = replace_all(line, "　", "");
+	line = replace_all(line, "      ", " ");
+	line = replace_all(line, "     ", " ");
+	line = replace_all(line, "    ", " ");
+	line = replace_all(line, "   ", " ");
+	line = replace_all(line, "  ", " ");
+
+
+	_snprintf(line_char, MAX_LINE_LEN, "%s", line.c_str());
+	tmp = strtok(line_char, "\n");
+	while (tmp != NULL)
+	{
+		// tmp 是以\n分割后的每一行(小句子)
+		// 添加判断：如果当前句子太小（UTF8 三个字符一个字 4个字 12个字符 ）
+		str_cat += tmp; // 把当前小句子 加到累计string后面 
+
+		// 当前 已经攒够一句话了
+		// 10个字 
+		if (str_cat.size()>12)
+		{
+			vec_out.push_back(str_cat);
+			str_cat = "";
+		}
+		else // 还不够...... 后面肯定还要添加 所以加上空格 
+		{
+			str_cat += " ";
+		}
+
+		tmp = strtok(NULL, "\n");
+	}
+
+	if (str_cat.size() > 1)
+	{
+		vec_out.push_back(str_cat);
 	}
 
 	return 0;

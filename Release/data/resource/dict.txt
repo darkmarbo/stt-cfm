@@ -27,7 +27,7 @@ mei2 you3
 wo3 men5 
 国家
 guo2 jia1 
-这个
+#这个
 zhei4 ge5 
 这个
 zhe4 ge4 
@@ -526,7 +526,7 @@ guang3 zhou1
 十八
 shi2 ba1 
 部分
-bu4 fen1 
+bu4 fen5 
 联系
 lian2 xi4 
 代表团
@@ -1273,7 +1273,7 @@ biao3 xian4
 bang1 zhu4 
 看到
 kan4 dao4 
-当时
+#当时
 dang4 shi2 
 当时
 dang1 shi2 
@@ -6832,7 +6832,7 @@ ren2 shen1
 庆典
 qing4 dian3 
 秘密
-bi4 mi4 
+mi4 mi4 
 篮子
 lan2 zi5 
 考验
@@ -8112,7 +8112,7 @@ qing2 jie2
 批量
 pi1 liang4 
 美丽
-mei3 li2 
+mei3 li4 
 罗斯
 luo2 si1 
 留念

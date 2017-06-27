@@ -15,7 +15,7 @@
 #define new DEBUG_NEW
 #endif
 
-#define WAV_SIZE 10000000	//10+min
+#define WAV_SIZE 60000000	//10+min  44100*600*2=6000 0000
 #define MAX_LINE 1000		//
 //**Max Memory 18G
 
@@ -57,13 +57,14 @@ END_MESSAGE_MAP()
 CTTSDemoDlg::CTTSDemoDlg(CWnd* pParent /*=NULL*/)
 	: CDialogEx(CTTSDemoDlg::IDD, pParent)
 	, m_selModel(_T(""))
-	, m_newText(_T("北京海天瑞声科技有限公司是一家全球领先的、多语言、跨领域的人工智能数据资源及相关数据服务的提供商。\r\n\r\n中国共产党第十八届中央委员会第六次全体会议，于2016年10月24日至27日在北京举行。出席这次全会的有，中央委员197人，候补中央委员151人。中央纪律检查委员会委员和有关方面负责同志列席会议。党的十八大代表中部分基层同志和专家学者也列席会议。\r\n\r\n北京时间10月28日（美国东部时间10月27日），全球最大中文搜索引擎百度，公布了截至2016年9月30日第三季度未经审计的财务报告。该季度，百度总营收为182.53亿元（约合27.37亿美元），移除去哪网影响，实际同比增长6.7%，净利润为31.02亿元（约合4.652亿美元），同比增长9.2%。其中，移动营收占比持续上升达64%。"))
-{
+	, m_newText(_T("北京海天瑞声科技有限公司是一家全球领先的、多语言、跨领域的人工智能数据资源及相关数据服务的提供商。\r\n\r\n中国共产党第十八届中央委员会第六次全体会议，于2016年10月24日至27日在北京举行。出席这次全会的有，中央委员197人，候补中央委员151人。中央纪律检查委员会委员和有关方面负责同志列席会议。党的十八大代表中部分基层同志和专家学者也列席会议。\r\n\r\n北京时间10月28日（美国东部时间10月27日），全球最大中文搜索引擎百度，公布了截至2016年9月30日第三季度未经审计的财务报告。该季度，百度总营收为182.53亿元（约合27.37亿美元），移除去哪网影响，实际同比增长6.7%，净利润为31.02亿元（约合4.652亿美元），同比增长9.2%。其中移动营收占比持续上升达64%。\r\n\r\n国家旅游局新闻发言人侯振刚当天在北京举行的新闻发布会上表示，2017年“五一”假期，中国各地旅游业从景点旅游模式走向全域旅游模式的转变态势明显。以往景区型产品逐渐被多样化的目的地产品所取代，园区型产品异军突起，各种新业态产品全面开花，乡村旅游、城市周边游、古城古镇游等产品持续火爆。\r\n\r\n此外，自驾游产品持续火爆。“五一”期间，城市周边乡村，自驾游客异常火爆，热门旅游活动项目赏花、采摘、游园等活动备受青睐。随着乡村旅游的深度开发、乡村旅游扶贫和美丽乡村建设的持续开展，乡村环境不断改善，走进乡村、品味农韵、回归自然成为市民假期首选。"))
+	{
 	m_hIcon = AfxGetApp()->LoadIcon(IDR_MAINFRAME);
 	lpWaveFormat = (WAVEFORMATEX*)malloc(sizeof(WAVEFORMATEX));
 	lpWaveFormat->wFormatTag = 0x01;
 	lpWaveFormat->nChannels = 1;
-	lpWaveFormat->nSamplesPerSec = 16000;
+	// mod-szm
+	lpWaveFormat->nSamplesPerSec = 44100;
 	lpWaveFormat->wBitsPerSample = 16;
 	lpWaveFormat->nBlockAlign = lpWaveFormat->wBitsPerSample * lpWaveFormat->nChannels / 8;
 	lpWaveFormat->nAvgBytesPerSec = lpWaveFormat->nSamplesPerSec * lpWaveFormat->nBlockAlign;
@@ -383,8 +384,10 @@ void CTTSDemoDlg::OnBnClickedBtSynthesize()
 	CStringA textA = CTTSDemoUtils::UTF16_UTF8(m_newText);
 	//CStringA textA = CTTSDemoUtils::UTF16_UTF8(_T("123"));
 	bufferLength = tts->tts(textA.GetBuffer(), buffer, WAV_SIZE);
+	
 	// 增加 wav 输出到文件
-	FILE * fp_wav = fopen("test.pcm", "wb");
+	FILE * fp_wav = NULL;
+	fp_wav = fopen("test.pcm", "wb");
 	if (fp_wav != NULL)
 	{
 
@@ -608,9 +611,9 @@ void CTTSDemoDlg::UpdateTime()
 	}
 
 	int pos = m_sliderTime.GetPos() + bufferOffset;
-
-	int allSec = bufferLength / 16000;
-	int curSec = pos / 16000;
+	// mod-szm
+	int allSec = bufferLength / 44100;
+	int curSec = pos / 44100;
 
 	CString timeStr;
 	timeStr.Format(_T("%s|%s"), FormatTime(curSec), FormatTime(allSec));
