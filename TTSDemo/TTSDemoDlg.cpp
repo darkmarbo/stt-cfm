@@ -64,7 +64,7 @@ CTTSDemoDlg::CTTSDemoDlg(CWnd* pParent /*=NULL*/)
 	lpWaveFormat->wFormatTag = 0x01;
 	lpWaveFormat->nChannels = 1;
 	// mod-szm
-	lpWaveFormat->nSamplesPerSec = 44100;
+	lpWaveFormat->nSamplesPerSec = 16000;
 	lpWaveFormat->wBitsPerSample = 16;
 	lpWaveFormat->nBlockAlign = lpWaveFormat->wBitsPerSample * lpWaveFormat->nChannels / 8;
 	lpWaveFormat->nAvgBytesPerSec = lpWaveFormat->nSamplesPerSec * lpWaveFormat->nBlockAlign;
@@ -612,8 +612,8 @@ void CTTSDemoDlg::UpdateTime()
 
 	int pos = m_sliderTime.GetPos() + bufferOffset;
 	// mod-szm
-	int allSec = bufferLength / 44100;
-	int curSec = pos / 44100;
+	int allSec = bufferLength / 16000;
+	int curSec = pos / 16000;
 
 	CString timeStr;
 	timeStr.Format(_T("%s|%s"), FormatTime(curSec), FormatTime(allSec));

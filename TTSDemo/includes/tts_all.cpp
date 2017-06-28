@@ -75,7 +75,7 @@ int TTS_ALL::silence_pro(const short *buff, int len, int &left, int &right, shor
 	left = 0;
 	right = 0;
 	short thr = 400;
-	int pos = 4 * 4410; // 400ms
+	int pos = 4 * 1600; // 400ms
 
 	for (int i = 0; i < len;i++)
 	{
