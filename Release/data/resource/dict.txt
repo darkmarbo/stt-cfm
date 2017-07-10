@@ -1,4 +1,4 @@
-188908
+188909
 windows
 wen1 dou1 si1 
 WINDOWS
@@ -254772,7 +254772,7 @@ xiang4 dang1 di4
 向应天
 xiang4 ying1 tian1
 向左转
-xiang4 zuo3 zhuan4
+xiang4 zuo3 zhuan3
 向媒体
 xiang4 mei2 ti3
 向大家
@@ -377815,3 +377815,5 @@ zhong1 yun4
 zhong1 yue4
 丁巨
 ding1 ju4
+DEMO
+dai1 mou1
